@@ -168,7 +168,7 @@ Dengan kombinasi **Python + Power BI**, data mentah diubah menjadi insight bisni
 
 ## 👤 Author
 
-**WorkArsip**
+**BimoPrasetyoSoleh**
 💼 *Data Analyst | Business Intelligence Enthusiast*
 📧 [bimoprasetyosoleh@gmail.com](mailto:bimoprasetyosoleh@gmail.com)
 🌐 [GitHub Portfolio](https://github.com/<bimoprasetyo12>)
