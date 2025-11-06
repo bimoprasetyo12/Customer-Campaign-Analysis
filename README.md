@@ -131,7 +131,7 @@ Response Rate (%) = AVERAGE('marketing_campaign_cleaned'[Response]) * 100
 1. Clone repository:
 
    ```bash
-   git clone https://github.com/<username>/Marketing-Campaign-Analysis.git
+   git clone https://github.com/bimoprasetyo12/Marketing-Campaign-Analysis.git
    ```
 2. Buka folder project:
 
