@@ -1,6 +1,6 @@
 # 📊 Marketing Campaign Analysis — Python & Power BI
 
-![Dashboard Preview](Visuals/Marketing-Customer-Analysis.png)
+![Dashboard Preview](Visuals/Marketing-Campaign-Analysis.png)
 
 ---
 
