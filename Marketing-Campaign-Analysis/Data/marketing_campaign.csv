@@ -1,0 +1,2001 @@
+CustomerID,Gender,Age,MaritalStatus,Education,Income,Spent,CampaignChannel,CampaignType,Response,JoinDate,LastPurchaseDate
+C0001,Male,47,Married,Master,50100,12469,Email,Discount,0,2019-08-03,2019-12-31
+C0002,Female,26,Married,High School,76232,18752,Web Ads,Discount,0,2020-09-16,2021-07-15
+C0003,Female,54,Divorced,High School,54650,12374,Email,New Product,0,2019-04-07,2019-05-17
+C0004,Female,47,Married,High School,78593,12965,Email,Discount,0,2021-03-29,2021-09-25
+C0005,Male,33,Married,Master,77507,10045,Email,Discount,0,2020-09-21,2021-09-20
+C0006,Male,29,Married,Bachelor,47614,5850,Web Ads,Newsletter,0,2020-07-01,2021-01-31
+C0007,Male,35,Married,Bachelor,30180,1582,Email,Discount,0,2019-12-03,2020-09-28
+C0008,Female,35,Married,Bachelor,31450,3139,Phone,Loyalty Program,1,2019-12-25,2020-04-23
+C0009,Female,50,Married,Master,47870,9275,Social Media,New Product,0,2022-08-06,2022-10-22
+C0010,Female,61,Single,Bachelor,88344,15082,Web Ads,New Product,0,2022-11-20,2023-05-31
+C0011,Male,44,Married,Bachelor,53841,12560,Web Ads,Loyalty Program,0,2021-03-26,2021-10-17
+C0012,Female,32,Married,High School,62178,3730,Phone,New Product,1,2019-12-26,2020-05-09
+C0013,Female,25,Married,Bachelor,79550,6447,Web Ads,Discount,0,2021-10-11,2022-04-13
+C0014,Male,63,Married,Master,61654,12814,Social Media,Discount,0,2019-12-13,2020-09-09
+C0015,Male,28,Married,PhD,61138,7440,Web Ads,Loyalty Program,0,2022-02-21,2022-12-13
+C0016,Male,64,Married,High School,69339,5108,Email,Discount,0,2020-07-05,2020-12-16
+C0017,Male,55,Married,High School,64334,16037,Email,Discount,0,2020-06-21,2020-09-07
+C0018,Female,62,Single,High School,58507,12137,Social Media,Newsletter,0,2020-10-15,2021-02-09
+C0019,Male,39,Single,Bachelor,49178,6479,Social Media,Newsletter,0,2020-02-26,2020-04-10
+C0020,Male,37,Single,Master,61177,13132,Social Media,Discount,0,2019-12-02,2020-01-24
+C0021,Female,62,Married,High School,76415,14222,Social Media,Discount,0,2019-02-26,2019-07-28
+C0022,Male,40,Married,Bachelor,86730,18039,Social Media,Loyalty Program,0,2021-10-13,2022-05-21
+C0023,Male,23,Married,Bachelor,64384,13716,Social Media,Loyalty Program,0,2021-06-30,2022-04-20
+C0024,Male,69,Married,High School,71327,4775,Email,Discount,0,2020-12-17,2021-01-01
+C0025,Female,52,Married,Bachelor,64045,11181,Web Ads,Discount,0,2022-01-04,2022-08-19
+C0026,Female,46,Single,High School,58690,3014,Web Ads,Loyalty Program,0,2023-01-29,2023-03-06
+C0027,Male,26,Married,Bachelor,67713,3974,Web Ads,Newsletter,0,2019-10-12,2020-06-04
+C0028,Female,25,Married,Master,77839,17964,Social Media,Loyalty Program,0,2020-12-22,2021-10-11
+C0029,Female,34,Single,Bachelor,46704,7263,Social Media,Discount,0,2020-01-21,2020-03-26
+C0030,Male,37,Single,High School,38229,7538,Web Ads,New Product,0,2021-08-07,2022-06-22
+C0031,Female,51,Single,PhD,52004,11321,Web Ads,New Product,0,2021-02-08,2022-01-19
+C0032,Male,30,Single,Bachelor,63174,15156,Phone,Discount,0,2022-07-06,2022-10-28
+C0033,Male,39,Married,Master,73048,16353,Social Media,Discount,0,2021-04-19,2021-05-16
+C0034,Female,43,Single,High School,45157,6622,Social Media,Discount,0,2019-01-11,2019-08-13
+C0035,Female,34,Married,High School,22671,2656,Phone,New Product,1,2021-08-29,2021-10-20
+C0036,Female,67,Married,High School,52358,4235,Email,New Product,0,2020-11-02,2021-02-08
+C0037,Male,26,Married,High School,57091,7425,Social Media,Loyalty Program,1,2019-09-17,2019-12-09
+C0038,Male,40,Divorced,Bachelor,42565,5248,Web Ads,Loyalty Program,0,2020-01-28,2020-07-12
+C0039,Female,61,Married,Master,48658,7878,Phone,Newsletter,0,2020-08-22,2021-05-24
+C0040,Male,45,Married,Bachelor,73009,13368,Social Media,Loyalty Program,0,2022-10-24,2023-03-16
+C0041,Male,63,Divorced,High School,61171,15027,Social Media,Discount,0,2022-04-22,2022-07-29
+C0042,Female,33,Single,Bachelor,65184,12755,Web Ads,Discount,0,2021-11-05,2022-07-08
+C0043,Male,56,Divorced,High School,54664,9771,Social Media,New Product,1,2021-01-25,2021-06-15
+C0044,Female,40,Single,Bachelor,48688,5697,Phone,Discount,0,2022-01-14,2022-09-09
+C0045,Male,37,Married,Bachelor,54556,3104,Phone,Newsletter,0,2020-12-11,2021-01-23
+C0046,Female,24,Single,Master,67483,7262,Phone,Discount,0,2021-10-30,2022-01-30
+C0047,Male,22,Married,PhD,37630,7664,Phone,Discount,1,2020-04-21,2020-09-09
+C0048,Female,42,Married,High School,84752,7717,Social Media,New Product,1,2022-04-02,2023-03-31
+C0049,Female,45,Married,Bachelor,68622,13205,Social Media,New Product,0,2019-01-24,2019-08-25
+C0050,Male,56,Single,Master,51961,8623,Social Media,Loyalty Program,0,2019-11-08,2020-08-30
+C0051,Female,43,Single,Master,72201,6091,Email,New Product,1,2022-06-15,2023-05-26
+C0052,Female,68,Single,Bachelor,78335,8015,Email,Discount,0,2020-04-06,2021-02-25
+C0053,Female,38,Single,Master,55044,8215,Email,Discount,0,2023-01-25,2023-10-19
+C0054,Female,70,Divorced,High School,56751,7586,Web Ads,Newsletter,0,2022-06-15,2023-04-12
+C0055,Female,44,Single,Master,82402,16951,Email,Discount,0,2019-01-22,2019-06-05
+C0056,Female,40,Married,High School,91784,18070,Email,Discount,0,2019-06-29,2019-12-06
+C0057,Male,31,Married,Bachelor,60441,9967,Email,New Product,1,2021-03-01,2021-11-12
+C0058,Male,60,Single,Master,42626,9141,Phone,Discount,0,2020-12-30,2021-07-02
+C0059,Male,52,Married,High School,52940,8604,Email,New Product,0,2023-02-07,2023-12-15
+C0060,Male,69,Single,Bachelor,75495,18336,Social Media,Loyalty Program,0,2021-01-18,2021-04-17
+C0061,Male,23,Single,Bachelor,44546,4162,Email,Loyalty Program,0,2020-12-16,2021-04-11
+C0062,Male,61,Single,PhD,56875,10967,Web Ads,Loyalty Program,0,2019-12-05,2020-10-09
+C0063,Female,26,Married,Master,64388,7983,Web Ads,Discount,0,2020-06-14,2021-04-24
+C0064,Male,41,Married,Master,46159,4883,Web Ads,New Product,0,2020-11-22,2021-11-10
+C0065,Male,52,Married,Bachelor,76446,6580,Social Media,Discount,0,2019-06-11,2019-08-17
+C0066,Female,36,Married,Master,70409,11300,Social Media,Discount,0,2021-12-20,2022-03-30
+C0067,Male,43,Single,Bachelor,90143,8391,Social Media,New Product,0,2022-01-13,2022-06-06
+C0068,Female,53,Married,Bachelor,71721,6459,Social Media,Discount,0,2020-05-04,2021-04-28
+C0069,Male,47,Married,Master,45586,11310,Social Media,Loyalty Program,0,2019-01-05,2019-07-02
+C0070,Female,62,Single,Bachelor,67955,14294,Email,Loyalty Program,0,2019-03-17,2020-02-23
+C0071,Female,60,Single,High School,74820,14938,Phone,Newsletter,0,2022-06-30,2022-11-08
+C0072,Male,58,Married,High School,75592,15784,Email,Loyalty Program,0,2019-01-07,2019-09-09
+C0073,Male,41,Single,High School,48347,11786,Social Media,Discount,0,2020-11-11,2021-02-04
+C0074,Female,68,Married,Master,46554,7665,Social Media,Discount,0,2020-04-17,2021-03-01
+C0075,Female,36,Single,Bachelor,42905,4035,Social Media,Discount,0,2022-03-07,2022-04-08
+C0076,Female,53,Single,Master,84070,18700,Web Ads,Discount,0,2022-10-13,2023-09-20
+C0077,Female,25,Single,Bachelor,69343,13767,Phone,Discount,0,2021-03-22,2021-06-12
+C0078,Male,65,Single,High School,47681,6334,Phone,Discount,1,2021-04-17,2021-07-23
+C0079,Male,25,Married,Bachelor,61907,8958,Social Media,New Product,0,2020-08-25,2020-12-15
+C0080,Male,53,Married,Master,58144,7689,Email,Loyalty Program,0,2022-04-01,2022-07-13
+C0081,Female,20,Married,Bachelor,45411,10716,Social Media,Loyalty Program,0,2019-11-14,2020-10-04
+C0082,Female,29,Married,Master,60542,7186,Web Ads,New Product,0,2023-01-21,2023-10-23
+C0083,Male,40,Married,Bachelor,62860,15255,Web Ads,New Product,0,2022-06-30,2023-03-19
+C0084,Male,24,Married,Bachelor,88968,20645,Phone,New Product,0,2022-05-09,2022-07-15
+C0085,Male,21,Single,Bachelor,50164,8834,Email,Loyalty Program,0,2022-04-03,2022-04-21
+C0086,Male,41,Married,Master,34359,5702,Email,Discount,0,2019-08-20,2019-09-11
+C0087,Female,67,Married,Master,44265,5489,Social Media,Loyalty Program,1,2019-11-24,2020-04-12
+C0088,Female,21,Single,High School,46610,2501,Web Ads,New Product,0,2019-08-26,2020-04-13
+C0089,Female,29,Married,Bachelor,53596,4047,Phone,Discount,0,2022-02-17,2023-01-21
+C0090,Female,53,Single,Bachelor,44302,8897,Web Ads,Discount,0,2021-08-07,2022-01-16
+C0091,Male,35,Married,Master,72331,10437,Social Media,Discount,0,2021-06-13,2021-09-01
+C0092,Female,67,Married,High School,43259,3459,Email,New Product,0,2020-09-10,2021-08-30
+C0093,Female,70,Married,Master,60300,6198,Email,Loyalty Program,0,2019-09-07,2019-10-06
+C0094,Female,58,Married,PhD,90002,21561,Email,Discount,0,2022-09-21,2022-12-20
+C0095,Female,41,Married,High School,68303,8430,Social Media,Discount,0,2022-07-31,2023-03-25
+C0096,Female,31,Married,Master,66761,15457,Email,Newsletter,0,2019-07-17,2020-07-06
+C0097,Female,43,Married,High School,87859,9745,Phone,Discount,0,2020-02-20,2020-03-19
+C0098,Male,66,Single,High School,78684,12482,Phone,Discount,0,2021-01-01,2021-06-24
+C0099,Male,59,Married,High School,68476,3704,Social Media,Discount,0,2022-11-19,2023-03-15
+C0100,Male,57,Married,High School,55339,8542,Email,Loyalty Program,0,2021-07-26,2022-07-18
+C0101,Male,29,Divorced,Master,59659,10582,Email,New Product,0,2022-03-20,2022-10-29
+C0102,Female,54,Married,High School,58930,5708,Phone,New Product,0,2022-07-12,2023-03-17
+C0103,Male,70,Married,High School,53978,8948,Social Media,Newsletter,0,2022-05-28,2022-10-31
+C0104,Female,68,Married,High School,63180,11336,Social Media,Loyalty Program,1,2022-05-24,2022-11-30
+C0105,Female,51,Married,High School,65261,12228,Web Ads,Discount,0,2022-08-31,2023-08-11
+C0106,Male,26,Married,High School,41330,8484,Social Media,Loyalty Program,1,2019-08-04,2020-02-27
+C0107,Male,40,Single,Bachelor,84480,9484,Social Media,Discount,0,2022-09-20,2023-07-13
+C0108,Female,39,Married,High School,66146,10818,Phone,Loyalty Program,0,2022-10-14,2022-12-15
+C0109,Male,45,Married,Master,56058,13807,Web Ads,Discount,0,2022-03-30,2022-12-04
+C0110,Male,23,Married,Master,63317,14539,Phone,Loyalty Program,0,2021-03-25,2022-01-18
+C0111,Male,65,Single,High School,73955,17788,Social Media,Discount,0,2020-09-01,2021-06-24
+C0112,Male,41,Married,Master,37999,4834,Social Media,Newsletter,0,2020-05-25,2020-12-08
+C0113,Female,34,Married,High School,58424,12116,Phone,Discount,1,2021-07-06,2021-07-21
+C0114,Female,59,Single,High School,42212,7344,Social Media,New Product,0,2019-06-06,2020-03-24
+C0115,Female,40,Married,High School,99855,6645,Phone,Discount,0,2019-06-11,2020-03-09
+C0116,Female,34,Married,Bachelor,62072,13332,Web Ads,Newsletter,0,2019-02-11,2019-04-10
+C0117,Female,41,Married,Bachelor,42333,7849,Web Ads,Loyalty Program,0,2022-04-18,2023-04-14
+C0118,Male,47,Divorced,Master,113992,10234,Email,Discount,0,2019-10-30,2020-05-26
+C0119,Female,33,Married,Bachelor,51959,3426,Email,Newsletter,0,2022-09-15,2022-11-23
+C0120,Female,46,Married,Master,56863,12362,Email,Discount,0,2021-10-10,2021-11-21
+C0121,Female,60,Married,High School,57948,3811,Phone,Loyalty Program,0,2021-02-02,2021-12-11
+C0122,Female,59,Single,Master,47280,3227,Social Media,Loyalty Program,0,2022-12-23,2023-09-02
+C0123,Male,47,Single,High School,63710,8631,Email,Discount,0,2022-10-05,2023-04-04
+C0124,Male,45,Married,High School,26838,2065,Email,Newsletter,0,2019-04-30,2019-12-02
+C0125,Male,68,Single,High School,76288,17754,Social Media,Discount,1,2022-01-03,2022-10-22
+C0126,Male,21,Married,High School,43082,6206,Email,Discount,1,2020-11-04,2020-12-05
+C0127,Female,44,Married,Bachelor,53770,8809,Email,Newsletter,0,2020-10-22,2020-12-17
+C0128,Female,22,Married,Master,71272,16793,Phone,Loyalty Program,0,2019-05-03,2020-04-25
+C0129,Male,27,Married,High School,56933,8884,Email,Discount,0,2020-10-14,2021-03-30
+C0130,Female,63,Married,Master,57546,6946,Email,Discount,0,2022-04-20,2023-01-12
+C0131,Male,52,Married,Bachelor,44818,9386,Web Ads,Loyalty Program,0,2021-07-09,2021-12-08
+C0132,Male,61,Married,Master,91434,12670,Web Ads,Discount,1,2021-10-10,2021-12-05
+C0133,Male,54,Single,High School,67972,7728,Social Media,Newsletter,0,2021-02-27,2021-04-04
+C0134,Male,25,Married,Bachelor,43758,8517,Email,Loyalty Program,0,2019-09-14,2019-10-20
+C0135,Female,58,Married,Master,62672,13181,Phone,Discount,0,2021-01-26,2021-06-29
+C0136,Male,42,Married,Bachelor,42697,8895,Social Media,Discount,1,2020-08-20,2020-11-12
+C0137,Female,44,Married,Bachelor,85836,21075,Email,New Product,1,2022-07-16,2023-01-28
+C0138,Female,69,Single,High School,62994,13060,Email,Discount,0,2022-04-18,2022-05-07
+C0139,Male,62,Married,High School,45366,9254,Email,Loyalty Program,0,2021-03-01,2021-07-09
+C0140,Female,38,Married,Bachelor,70463,15607,Social Media,Newsletter,0,2022-03-18,2023-01-10
+C0141,Female,24,Married,Master,55828,2793,Web Ads,New Product,0,2022-03-17,2022-09-07
+C0142,Male,70,Divorced,High School,40676,4982,Phone,New Product,0,2020-11-10,2021-08-10
+C0143,Female,30,Married,Bachelor,65715,12980,Social Media,Discount,0,2021-10-29,2022-04-17
+C0144,Male,31,Divorced,Bachelor,65292,11095,Social Media,Loyalty Program,0,2022-04-16,2023-03-18
+C0145,Male,29,Divorced,Bachelor,77066,6590,Social Media,Loyalty Program,0,2021-03-06,2022-01-06
+C0146,Male,27,Married,Bachelor,60967,6751,Social Media,Loyalty Program,0,2022-11-19,2023-03-26
+C0147,Female,43,Married,Master,61605,7229,Email,Discount,0,2020-08-30,2021-07-16
+C0148,Female,47,Single,Bachelor,62401,10206,Phone,Newsletter,0,2019-11-27,2020-08-25
+C0149,Male,60,Married,Master,83929,18155,Web Ads,Discount,0,2019-02-25,2019-05-29
+C0150,Male,55,Married,High School,55348,13089,Social Media,Loyalty Program,0,2022-05-15,2022-10-17
+C0151,Female,56,Single,High School,67041,13409,Web Ads,Loyalty Program,0,2019-04-15,2019-10-12
+C0152,Male,40,Single,High School,69251,15137,Social Media,Loyalty Program,1,2020-06-30,2021-06-08
+C0153,Male,27,Divorced,High School,65246,9396,Social Media,Discount,0,2021-03-03,2022-01-15
+C0154,Female,28,Married,High School,54781,7009,Email,New Product,0,2022-10-10,2022-11-02
+C0155,Female,66,Married,High School,61809,7945,Phone,Discount,0,2020-05-03,2020-10-08
+C0156,Male,34,Married,Master,58595,10149,Web Ads,Loyalty Program,0,2021-12-09,2022-08-26
+C0157,Female,67,Single,High School,89388,6690,Phone,Discount,1,2022-01-15,2022-03-22
+C0158,Female,65,Single,Master,53133,8814,Email,Discount,0,2019-10-30,2020-10-20
+C0159,Male,59,Single,High School,46311,8476,Email,Discount,0,2021-10-21,2022-08-28
+C0160,Female,37,Single,Master,59906,8253,Social Media,Loyalty Program,1,2022-11-05,2023-10-27
+C0161,Male,61,Single,Master,58849,14161,Social Media,New Product,0,2020-10-11,2021-03-02
+C0162,Female,39,Divorced,High School,62952,10805,Social Media,Loyalty Program,0,2020-10-09,2021-04-06
+C0163,Female,25,Married,Master,53138,4994,Web Ads,Loyalty Program,0,2022-10-17,2023-02-05
+C0164,Female,31,Single,Bachelor,61655,8991,Phone,Loyalty Program,0,2020-01-16,2020-05-10
+C0165,Male,21,Single,Master,61944,11464,Social Media,Discount,0,2019-06-11,2019-12-08
+C0166,Female,26,Married,Bachelor,73589,8442,Email,Loyalty Program,0,2019-01-19,2019-06-05
+C0167,Male,35,Single,Bachelor,61395,4047,Email,New Product,0,2021-08-31,2022-05-17
+C0168,Male,22,Divorced,Master,61537,10257,Phone,Discount,0,2019-08-31,2019-10-11
+C0169,Male,64,Married,Bachelor,67745,16229,Web Ads,Discount,0,2019-05-09,2019-12-20
+C0170,Female,22,Married,High School,73014,10734,Phone,Discount,1,2022-04-14,2023-01-10
+C0171,Female,46,Single,Master,45244,10461,Social Media,Discount,1,2020-02-13,2021-01-17
+C0172,Male,69,Single,Bachelor,41215,8943,Email,Discount,0,2021-03-02,2021-11-10
+C0173,Female,62,Married,Bachelor,85432,6790,Web Ads,Discount,0,2021-07-31,2022-05-21
+C0174,Male,59,Married,High School,70561,13521,Web Ads,New Product,0,2022-01-12,2022-11-07
+C0175,Female,57,Married,Bachelor,56709,7774,Social Media,Discount,1,2022-10-31,2023-07-30
+C0176,Male,52,Single,PhD,60295,6032,Email,Discount,0,2019-08-10,2020-07-21
+C0177,Female,47,Married,High School,54111,10139,Social Media,Newsletter,1,2022-09-10,2023-08-18
+C0178,Male,20,Married,Bachelor,63169,12541,Web Ads,New Product,1,2023-01-14,2023-12-03
+C0179,Female,27,Married,Bachelor,45422,3905,Phone,Discount,0,2022-12-10,2023-03-14
+C0180,Male,56,Single,Master,72602,16908,Phone,New Product,0,2020-03-20,2021-02-21
+C0181,Male,51,Single,Bachelor,62631,12540,Email,Discount,0,2020-09-09,2020-11-02
+C0182,Male,67,Married,Bachelor,63174,14951,Email,Discount,0,2022-09-10,2023-07-19
+C0183,Female,62,Married,Master,46590,5283,Email,Discount,0,2020-06-06,2021-05-14
+C0184,Female,56,Married,Bachelor,67864,16142,Web Ads,Newsletter,0,2019-06-15,2020-01-10
+C0185,Male,23,Married,High School,46935,5806,Social Media,Loyalty Program,0,2020-12-08,2021-07-06
+C0186,Female,49,Married,High School,49617,3016,Phone,Loyalty Program,0,2021-01-12,2021-12-16
+C0187,Female,25,Married,Bachelor,61314,12421,Email,Newsletter,1,2022-06-15,2022-12-09
+C0188,Female,65,Married,High School,97609,18614,Web Ads,Newsletter,0,2021-10-05,2022-06-11
+C0189,Female,38,Divorced,High School,62571,10610,Web Ads,Loyalty Program,0,2021-07-01,2022-04-22
+C0190,Male,51,Married,Master,21467,3176,Email,Loyalty Program,0,2021-11-02,2022-05-20
+C0191,Male,28,Divorced,High School,50362,2842,Web Ads,Discount,0,2022-07-04,2022-09-22
+C0192,Female,31,Married,Master,70255,12288,Email,Discount,0,2022-05-18,2022-10-19
+C0193,Female,30,Single,High School,43073,5744,Email,New Product,0,2019-12-31,2020-08-05
+C0194,Female,65,Married,Master,72466,11742,Email,New Product,1,2019-08-13,2020-03-17
+C0195,Male,35,Single,Master,62382,8475,Web Ads,Newsletter,0,2021-09-22,2022-05-11
+C0196,Male,20,Divorced,High School,74869,18208,Web Ads,New Product,0,2019-07-13,2020-05-04
+C0197,Female,64,Married,Bachelor,51617,8817,Social Media,Loyalty Program,0,2022-05-04,2022-10-23
+C0198,Female,40,Single,High School,50448,10081,Phone,New Product,0,2022-11-24,2023-02-13
+C0199,Female,49,Married,Master,68474,16246,Phone,Discount,0,2019-02-26,2019-11-02
+C0200,Female,32,Divorced,Master,59887,10080,Web Ads,New Product,0,2019-08-01,2019-12-15
+C0201,Female,53,Single,Bachelor,58979,3091,Email,New Product,0,2022-07-26,2022-10-28
+C0202,Male,23,Married,Bachelor,83534,4749,Social Media,New Product,0,2022-11-04,2022-11-28
+C0203,Male,47,Married,Bachelor,69062,13154,Phone,New Product,0,2019-04-27,2020-01-09
+C0204,Female,57,Married,Master,30151,3190,Email,Discount,0,2023-01-14,2023-12-01
+C0205,Female,50,Married,Bachelor,71986,11940,Social Media,New Product,0,2020-08-21,2021-06-09
+C0206,Male,46,Single,High School,70484,6375,Phone,New Product,0,2020-02-14,2020-02-25
+C0207,Male,24,Single,Bachelor,77773,8092,Email,New Product,0,2022-10-22,2023-01-13
+C0208,Female,44,Married,High School,45904,6928,Web Ads,New Product,1,2021-03-22,2021-06-03
+C0209,Male,22,Married,Master,64872,15901,Email,Discount,0,2021-07-17,2022-04-13
+C0210,Male,52,Divorced,High School,61674,10685,Web Ads,Discount,0,2022-02-10,2023-02-01
+C0211,Female,23,Single,Bachelor,45635,10825,Email,Discount,1,2022-04-02,2023-03-01
+C0212,Female,44,Married,High School,74201,17947,Email,New Product,0,2019-01-04,2019-09-09
+C0213,Female,39,Single,High School,56376,5165,Email,New Product,1,2019-01-23,2020-01-04
+C0214,Male,53,Single,Bachelor,77290,8674,Phone,Newsletter,1,2021-07-09,2022-06-24
+C0215,Female,45,Married,PhD,48857,9966,Phone,Discount,0,2021-01-14,2021-10-29
+C0216,Male,24,Married,Master,38091,8507,Email,Discount,0,2020-08-24,2021-08-21
+C0217,Male,54,Married,High School,56361,8670,Email,New Product,0,2021-09-14,2022-04-12
+C0218,Female,47,Divorced,High School,63478,15783,Social Media,New Product,0,2022-01-20,2022-11-18
+C0219,Female,48,Married,Master,51987,2719,Social Media,New Product,0,2020-04-13,2021-02-02
+C0220,Female,28,Divorced,Bachelor,20000,2198,Phone,Loyalty Program,0,2021-08-27,2022-04-14
+C0221,Female,57,Married,High School,65754,11482,Email,Loyalty Program,0,2022-03-24,2022-09-11
+C0222,Female,69,Married,Master,65684,9449,Social Media,Discount,0,2020-09-18,2021-03-29
+C0223,Male,25,Married,Master,70307,5154,Phone,Newsletter,0,2019-07-26,2020-04-25
+C0224,Male,38,Married,PhD,54292,6708,Web Ads,Discount,0,2021-10-10,2022-02-28
+C0225,Male,63,Single,Master,53474,2945,Phone,New Product,0,2019-03-22,2020-02-16
+C0226,Male,30,Married,Master,81604,14570,Email,Loyalty Program,0,2020-09-06,2021-01-13
+C0227,Female,21,Single,High School,36368,8311,Email,Loyalty Program,1,2020-04-27,2020-12-11
+C0228,Male,66,Married,High School,56293,12777,Social Media,Discount,0,2020-08-14,2021-01-30
+C0229,Female,63,Married,Bachelor,62134,11799,Social Media,Discount,0,2022-12-01,2023-10-06
+C0230,Female,63,Single,Bachelor,69090,9890,Web Ads,New Product,1,2022-01-31,2022-05-29
+C0231,Female,28,Single,Bachelor,62546,9532,Phone,Discount,0,2022-06-17,2023-02-19
+C0232,Female,40,Divorced,Bachelor,46170,3572,Social Media,Discount,0,2022-07-12,2023-05-10
+C0233,Female,43,Married,Bachelor,77514,9162,Social Media,New Product,0,2019-02-02,2019-04-19
+C0234,Female,53,Single,Bachelor,60028,5255,Social Media,New Product,0,2019-02-04,2019-12-26
+C0235,Male,41,Married,High School,34979,7493,Email,Loyalty Program,1,2022-06-26,2023-01-08
+C0236,Female,22,Married,High School,63137,14707,Email,Discount,0,2021-09-26,2021-11-10
+C0237,Male,31,Married,Bachelor,67129,10565,Social Media,Loyalty Program,1,2021-12-09,2022-02-05
+C0238,Male,47,Divorced,Master,89411,17484,Email,Discount,0,2019-10-07,2020-06-28
+C0239,Female,49,Married,High School,66131,4913,Email,Newsletter,1,2019-06-01,2019-09-25
+C0240,Male,45,Single,Bachelor,37769,6485,Email,New Product,1,2020-12-01,2020-12-18
+C0241,Female,67,Married,Master,38296,7297,Email,New Product,0,2021-01-04,2021-09-06
+C0242,Female,40,Married,Bachelor,78880,11086,Email,Newsletter,0,2021-10-15,2022-04-20
+C0243,Female,47,Single,High School,47957,4731,Phone,Discount,0,2022-06-07,2023-02-13
+C0244,Male,45,Single,Bachelor,36756,8287,Social Media,Discount,1,2020-10-26,2020-12-15
+C0245,Male,52,Single,High School,75007,14895,Social Media,New Product,0,2021-07-11,2022-03-22
+C0246,Female,40,Married,Master,52863,12156,Social Media,Discount,0,2022-08-04,2022-12-04
+C0247,Male,54,Married,High School,74205,15856,Web Ads,New Product,0,2022-11-19,2023-08-11
+C0248,Female,53,Married,Bachelor,46279,11480,Email,Discount,0,2020-03-28,2020-09-19
+C0249,Female,60,Divorced,High School,82107,7261,Social Media,Newsletter,0,2020-09-11,2021-08-28
+C0250,Female,70,Married,Bachelor,73080,4921,Email,New Product,0,2021-11-22,2022-02-17
+C0251,Male,66,Single,Bachelor,49159,5771,Social Media,Discount,1,2022-10-18,2023-05-22
+C0252,Male,37,Single,High School,35094,2660,Web Ads,Loyalty Program,0,2022-02-08,2022-12-25
+C0253,Female,30,Married,Bachelor,94577,14624,Phone,Discount,0,2022-02-18,2022-09-11
+C0254,Male,42,Single,High School,56846,10039,Phone,Discount,0,2019-01-16,2019-12-12
+C0255,Male,67,Married,Bachelor,48559,8044,Social Media,Discount,0,2021-01-08,2021-03-22
+C0256,Female,41,Married,Bachelor,80794,8228,Phone,New Product,1,2020-12-15,2021-05-13
+C0257,Female,36,Single,Bachelor,74186,17193,Email,New Product,0,2020-12-14,2021-02-03
+C0258,Female,24,Married,Master,77741,4216,Social Media,New Product,0,2019-04-08,2020-02-17
+C0259,Female,63,Married,Bachelor,58522,6999,Social Media,Discount,0,2019-04-26,2019-11-30
+C0260,Male,30,Married,Bachelor,88215,17095,Social Media,Newsletter,1,2021-08-22,2022-07-01
+C0261,Female,49,Single,High School,40340,8204,Email,Loyalty Program,1,2023-02-03,2023-04-26
+C0262,Female,34,Married,Bachelor,51719,6890,Web Ads,Discount,0,2023-01-02,2023-06-13
+C0263,Male,46,Single,Master,65848,3515,Email,Loyalty Program,0,2022-07-28,2022-12-19
+C0264,Female,54,Divorced,High School,77521,13458,Email,New Product,0,2019-12-15,2020-09-13
+C0265,Female,52,Single,Master,69917,4378,Social Media,Discount,0,2019-08-20,2020-04-01
+C0266,Female,39,Married,High School,58757,4205,Email,Discount,0,2022-02-08,2022-09-14
+C0267,Female,35,Married,Master,52872,9519,Phone,Discount,1,2022-10-07,2023-05-08
+C0268,Female,53,Divorced,High School,77602,8730,Social Media,Loyalty Program,0,2021-11-01,2022-02-28
+C0269,Male,21,Single,Master,71465,8547,Phone,New Product,1,2021-09-10,2021-10-20
+C0270,Male,54,Single,Bachelor,46882,6908,Social Media,Discount,0,2020-09-30,2020-10-21
+C0271,Female,59,Single,High School,46435,11409,Phone,Discount,0,2019-10-12,2020-02-25
+C0272,Female,47,Single,High School,51817,12596,Web Ads,New Product,0,2020-09-27,2021-08-15
+C0273,Female,66,Single,Bachelor,49893,6648,Social Media,New Product,0,2020-06-28,2021-01-17
+C0274,Female,58,Married,PhD,75447,7778,Social Media,Loyalty Program,0,2020-01-27,2020-06-24
+C0275,Female,25,Single,High School,66535,7353,Web Ads,Newsletter,0,2022-04-08,2022-05-14
+C0276,Female,28,Single,High School,68366,7093,Email,New Product,0,2019-03-18,2019-05-12
+C0277,Female,39,Married,Bachelor,62875,9836,Social Media,New Product,0,2019-10-24,2020-03-16
+C0278,Female,20,Single,Bachelor,63581,10896,Email,Discount,0,2019-11-26,2020-10-17
+C0279,Female,27,Single,Bachelor,36272,5359,Email,Loyalty Program,0,2021-12-22,2022-02-27
+C0280,Female,42,Single,Bachelor,71912,9463,Email,Discount,0,2019-09-27,2019-10-19
+C0281,Female,22,Divorced,High School,51547,4755,Social Media,Discount,0,2019-08-04,2019-11-21
+C0282,Male,23,Single,Master,59502,8717,Phone,Loyalty Program,0,2022-04-28,2022-06-25
+C0283,Male,44,Married,Bachelor,52902,6254,Email,Discount,0,2022-01-03,2022-10-30
+C0284,Male,66,Married,High School,62188,9845,Web Ads,Discount,1,2020-05-24,2020-09-04
+C0285,Female,57,Single,Master,68596,12692,Social Media,New Product,0,2020-08-01,2020-11-13
+C0286,Male,34,Divorced,Bachelor,44867,7926,Web Ads,Discount,0,2022-01-21,2022-06-24
+C0287,Female,40,Single,Bachelor,63791,9090,Web Ads,Discount,0,2021-12-12,2022-03-03
+C0288,Female,54,Single,Bachelor,53264,8586,Phone,New Product,0,2020-05-10,2020-05-29
+C0289,Male,65,Married,High School,79821,8538,Web Ads,New Product,0,2021-08-05,2022-01-23
+C0290,Female,33,Married,Bachelor,43280,2373,Phone,Discount,0,2019-04-04,2019-11-13
+C0291,Male,55,Married,Master,44962,7868,Web Ads,Newsletter,0,2020-09-16,2020-09-29
+C0292,Male,31,Single,High School,54606,5488,Email,Discount,0,2019-08-17,2020-04-06
+C0293,Female,36,Married,Bachelor,46115,8475,Social Media,Loyalty Program,0,2019-09-07,2019-10-15
+C0294,Male,58,Married,Master,56634,11292,Phone,Discount,1,2022-11-15,2023-09-22
+C0295,Male,28,Single,PhD,52081,12144,Social Media,New Product,0,2020-12-21,2021-07-21
+C0296,Female,54,Single,Bachelor,61326,14817,Web Ads,Discount,0,2021-09-06,2021-12-01
+C0297,Female,32,Single,Bachelor,75121,3914,Web Ads,Discount,1,2019-07-01,2019-09-07
+C0298,Male,34,Single,Bachelor,61069,15149,Email,Discount,0,2019-09-24,2020-04-16
+C0299,Female,37,Married,Master,62435,11650,Web Ads,New Product,0,2021-09-30,2022-08-27
+C0300,Male,70,Married,Master,44140,7888,Email,New Product,1,2019-10-08,2020-02-01
+C0301,Male,52,Divorced,High School,57989,3075,Social Media,Discount,0,2021-08-19,2022-08-05
+C0302,Female,25,Single,Bachelor,53673,11928,Social Media,Newsletter,0,2020-10-28,2020-11-15
+C0303,Female,46,Married,Bachelor,70224,5554,Email,Discount,0,2022-01-11,2022-02-09
+C0304,Female,42,Single,Master,48531,10553,Social Media,New Product,0,2022-04-24,2022-09-29
+C0305,Female,46,Single,Bachelor,47090,2501,Social Media,Discount,0,2020-06-14,2020-07-10
+C0306,Female,53,Single,Bachelor,64761,11604,Email,New Product,0,2022-10-03,2022-10-24
+C0307,Female,65,Single,PhD,89701,12285,Phone,Loyalty Program,0,2020-02-27,2020-05-28
+C0308,Male,57,Married,High School,57360,5171,Social Media,New Product,0,2021-09-07,2021-11-22
+C0309,Female,33,Divorced,High School,62523,4471,Social Media,Discount,0,2020-03-29,2020-08-18
+C0310,Male,55,Married,Bachelor,74220,10244,Email,Discount,1,2019-09-24,2019-11-25
+C0311,Male,27,Single,Bachelor,67648,5050,Web Ads,Loyalty Program,0,2020-05-21,2020-12-22
+C0312,Male,54,Single,High School,67747,9978,Web Ads,Discount,0,2022-03-11,2022-11-08
+C0313,Male,38,Single,High School,58572,10252,Email,Discount,0,2019-11-12,2020-01-14
+C0314,Female,49,Married,Bachelor,58863,12683,Email,Discount,0,2021-02-02,2021-04-20
+C0315,Female,33,Married,Master,48672,9039,Web Ads,Discount,0,2022-06-09,2023-04-05
+C0316,Female,39,Divorced,Bachelor,67295,4242,Social Media,Discount,0,2022-08-13,2023-08-01
+C0317,Male,68,Single,Bachelor,66953,7464,Email,Newsletter,1,2021-06-16,2021-12-11
+C0318,Male,44,Married,High School,70757,7613,Social Media,Loyalty Program,0,2021-08-10,2022-01-27
+C0319,Male,59,Married,Master,52678,12274,Social Media,New Product,0,2021-05-24,2021-06-17
+C0320,Male,43,Married,Master,72452,16197,Phone,Discount,0,2021-07-04,2022-01-20
+C0321,Female,33,Married,Bachelor,77000,9550,Email,New Product,0,2019-01-22,2019-02-15
+C0322,Female,45,Married,High School,41790,2684,Social Media,New Product,0,2020-01-19,2020-11-10
+C0323,Female,57,Married,High School,55546,12710,Email,New Product,1,2022-02-23,2022-03-14
+C0324,Male,42,Single,High School,77625,17670,Web Ads,Discount,1,2019-04-13,2019-06-18
+C0325,Female,41,Married,Bachelor,50256,11104,Phone,Newsletter,0,2021-06-18,2022-01-12
+C0326,Female,67,Single,Master,67931,14877,Phone,New Product,0,2021-01-02,2021-06-21
+C0327,Female,38,Married,Master,60128,8781,Phone,Newsletter,1,2019-04-20,2020-01-17
+C0328,Female,65,Married,Bachelor,64963,5553,Social Media,Discount,0,2023-02-04,2023-10-24
+C0329,Male,70,Married,Master,60585,8814,Web Ads,Discount,0,2021-12-24,2022-05-01
+C0330,Male,22,Divorced,Master,71192,10601,Email,Discount,1,2023-02-04,2023-05-04
+C0331,Male,61,Married,High School,44677,6611,Web Ads,Loyalty Program,0,2020-10-31,2021-03-13
+C0332,Female,38,Married,Bachelor,46300,7304,Email,Discount,0,2022-01-04,2022-11-22
+C0333,Male,28,Married,Master,81967,8322,Social Media,Loyalty Program,0,2021-11-08,2022-01-28
+C0334,Male,47,Married,Bachelor,91505,11277,Social Media,Loyalty Program,0,2020-01-19,2020-07-14
+C0335,Male,39,Married,Master,59918,8199,Phone,Loyalty Program,0,2019-07-09,2020-04-27
+C0336,Male,64,Married,PhD,85728,6534,Web Ads,Loyalty Program,0,2021-01-31,2021-03-17
+C0337,Female,26,Married,Bachelor,48423,6831,Social Media,Loyalty Program,0,2019-12-26,2020-11-11
+C0338,Female,33,Divorced,Master,52026,11034,Social Media,Loyalty Program,0,2021-05-24,2021-11-24
+C0339,Female,28,Divorced,Master,81862,17650,Web Ads,Discount,0,2021-06-04,2021-12-29
+C0340,Male,38,Married,Bachelor,72061,9534,Email,Loyalty Program,0,2023-01-15,2023-05-20
+C0341,Female,66,Single,Bachelor,84096,12930,Web Ads,Newsletter,0,2019-03-20,2020-02-07
+C0342,Female,33,Single,High School,67028,3802,Social Media,Discount,1,2020-08-18,2021-04-04
+C0343,Male,57,Married,Bachelor,44811,8284,Social Media,Newsletter,0,2022-04-10,2022-06-24
+C0344,Male,55,Single,Bachelor,63353,8294,Email,Discount,0,2022-05-20,2023-02-18
+C0345,Male,59,Married,High School,78030,10853,Social Media,Discount,0,2021-06-04,2021-10-25
+C0346,Female,36,Married,High School,58008,13036,Email,Discount,0,2021-10-11,2022-02-16
+C0347,Female,49,Married,High School,55703,7930,Email,Discount,0,2023-01-08,2023-05-19
+C0348,Male,28,Divorced,Master,67257,3647,Email,Loyalty Program,0,2019-05-29,2020-04-23
+C0349,Male,52,Married,PhD,51607,4928,Social Media,Newsletter,0,2019-01-10,2019-04-16
+C0350,Female,44,Married,PhD,64432,9350,Social Media,Loyalty Program,0,2021-03-02,2021-12-25
+C0351,Female,33,Married,Bachelor,60952,8221,Web Ads,Newsletter,1,2021-12-14,2022-05-09
+C0352,Female,30,Single,Master,52643,11690,Email,Discount,0,2021-05-21,2021-07-22
+C0353,Female,54,Married,Master,74711,11836,Social Media,Discount,0,2019-06-29,2020-01-29
+C0354,Male,60,Single,Bachelor,69689,13096,Social Media,New Product,1,2021-01-13,2022-01-05
+C0355,Male,33,Divorced,Bachelor,54694,7868,Social Media,Loyalty Program,1,2020-01-16,2020-03-16
+C0356,Female,49,Married,High School,59775,8244,Web Ads,Discount,0,2022-12-16,2023-11-17
+C0357,Male,60,Single,Master,55930,7788,Social Media,Newsletter,0,2020-03-26,2020-05-14
+C0358,Female,23,Married,Bachelor,50420,6664,Web Ads,New Product,0,2022-01-21,2022-10-07
+C0359,Female,23,Married,Bachelor,34525,5445,Social Media,Newsletter,0,2022-12-07,2023-07-22
+C0360,Female,47,Single,Bachelor,52742,5278,Social Media,Discount,0,2020-01-29,2020-08-04
+C0361,Male,27,Divorced,Bachelor,50639,11556,Social Media,New Product,1,2021-08-22,2021-10-09
+C0362,Female,21,Single,High School,61723,7197,Web Ads,Loyalty Program,0,2022-09-16,2023-03-27
+C0363,Female,60,Single,Bachelor,66610,5295,Web Ads,Loyalty Program,0,2020-03-08,2020-10-27
+C0364,Female,65,Married,High School,47967,3324,Social Media,Discount,0,2021-08-11,2022-01-31
+C0365,Female,41,Married,Master,65602,3456,Web Ads,Newsletter,0,2022-04-01,2022-11-30
+C0366,Male,60,Married,Bachelor,45656,6143,Email,Newsletter,1,2021-08-03,2022-02-21
+C0367,Female,35,Married,Bachelor,58120,5086,Web Ads,Discount,0,2021-11-29,2022-03-03
+C0368,Female,48,Married,Bachelor,50963,2768,Email,Discount,0,2021-02-04,2021-10-14
+C0369,Male,68,Married,Bachelor,71192,10963,Email,New Product,0,2021-06-26,2021-12-25
+C0370,Male,67,Single,Bachelor,61751,11485,Email,New Product,1,2019-03-26,2019-05-11
+C0371,Male,49,Single,Bachelor,58347,3918,Web Ads,Loyalty Program,0,2021-02-22,2021-05-29
+C0372,Male,31,Single,Master,50621,7197,Web Ads,Discount,1,2021-03-26,2021-08-11
+C0373,Male,54,Single,Master,55067,10943,Web Ads,New Product,0,2022-01-19,2022-08-10
+C0374,Female,30,Married,Master,87435,21610,Web Ads,New Product,0,2022-11-09,2023-10-03
+C0375,Male,65,Single,High School,52483,9627,Social Media,Discount,0,2022-05-01,2022-06-22
+C0376,Male,69,Single,Bachelor,67191,6649,Web Ads,New Product,0,2022-06-30,2022-12-15
+C0377,Female,40,Single,Master,58310,11271,Web Ads,Discount,0,2022-06-21,2022-10-13
+C0378,Male,40,Divorced,Bachelor,66762,11321,Social Media,Discount,1,2020-12-07,2021-08-02
+C0379,Female,24,Divorced,High School,72554,6701,Email,New Product,0,2019-09-27,2020-05-10
+C0380,Male,67,Married,Bachelor,54690,12043,Phone,Newsletter,0,2021-04-20,2022-01-18
+C0381,Male,39,Divorced,High School,70646,9571,Web Ads,Discount,0,2021-11-08,2022-01-05
+C0382,Female,56,Married,High School,101349,24566,Web Ads,Discount,0,2021-11-29,2022-11-25
+C0383,Female,22,Married,PhD,68513,13331,Web Ads,Discount,0,2020-05-30,2020-10-09
+C0384,Female,63,Single,Bachelor,84203,15064,Web Ads,Discount,0,2021-11-22,2022-09-30
+C0385,Female,52,Married,High School,67215,13151,Web Ads,New Product,0,2020-03-25,2020-04-28
+C0386,Female,28,Married,PhD,46020,6701,Phone,Loyalty Program,0,2020-11-15,2021-04-04
+C0387,Male,28,Married,PhD,64135,9687,Phone,Discount,0,2020-09-16,2021-05-07
+C0388,Male,23,Married,Bachelor,55044,12122,Email,Newsletter,0,2021-06-03,2021-09-19
+C0389,Female,54,Married,High School,51060,9506,Social Media,Discount,0,2019-11-15,2020-11-10
+C0390,Female,36,Married,Master,58911,13517,Social Media,Newsletter,1,2022-02-21,2022-12-17
+C0391,Female,53,Divorced,Master,57678,13160,Web Ads,Newsletter,0,2022-10-27,2023-05-21
+C0392,Male,43,Single,Bachelor,44101,10817,Social Media,New Product,0,2022-10-06,2023-02-01
+C0393,Male,51,Married,Master,100626,19123,Email,Discount,0,2022-09-08,2023-08-31
+C0394,Female,20,Married,Bachelor,72118,10850,Email,New Product,0,2020-05-02,2020-12-17
+C0395,Male,27,Married,High School,63665,5300,Phone,New Product,0,2020-03-26,2020-12-24
+C0396,Female,64,Married,Bachelor,61348,11722,Social Media,Newsletter,1,2019-12-19,2020-07-23
+C0397,Female,42,Single,Bachelor,78035,8452,Social Media,New Product,0,2022-02-13,2023-01-07
+C0398,Male,66,Married,Master,91133,9713,Email,New Product,0,2021-08-12,2021-11-11
+C0399,Female,59,Single,Bachelor,70276,6862,Social Media,Loyalty Program,0,2021-11-02,2021-12-06
+C0400,Female,31,Married,High School,61817,13910,Email,Newsletter,0,2019-11-16,2020-05-29
+C0401,Male,31,Married,Bachelor,82089,18354,Social Media,New Product,0,2022-04-03,2022-04-20
+C0402,Female,65,Married,Bachelor,62135,10947,Social Media,Newsletter,0,2019-03-26,2019-08-06
+C0403,Female,66,Single,Bachelor,66529,9619,Social Media,New Product,1,2019-09-05,2020-02-10
+C0404,Female,34,Married,Bachelor,75015,13834,Social Media,Loyalty Program,0,2022-12-26,2023-04-12
+C0405,Male,60,Single,Bachelor,54202,9292,Email,Loyalty Program,0,2020-07-21,2021-03-03
+C0406,Female,38,Married,Master,28862,3842,Web Ads,Loyalty Program,1,2020-11-14,2021-03-04
+C0407,Male,45,Divorced,High School,53473,6733,Social Media,Discount,0,2020-10-05,2021-05-20
+C0408,Male,48,Divorced,Bachelor,71595,9060,Email,New Product,1,2020-04-23,2021-01-16
+C0409,Female,41,Married,Master,70538,11838,Email,New Product,0,2020-12-13,2021-01-02
+C0410,Male,59,Married,Bachelor,80140,14387,Social Media,Discount,0,2020-01-03,2020-03-11
+C0411,Male,40,Single,Bachelor,54047,7585,Email,Discount,1,2019-12-23,2020-09-07
+C0412,Female,70,Single,PhD,83713,20404,Email,Loyalty Program,0,2020-02-12,2020-07-10
+C0413,Female,57,Married,High School,62776,4191,Social Media,New Product,0,2022-09-30,2023-09-09
+C0414,Female,39,Married,High School,69066,8247,Social Media,Discount,0,2019-06-28,2019-08-14
+C0415,Female,48,Divorced,Bachelor,73554,9842,Social Media,Loyalty Program,0,2022-12-19,2023-04-29
+C0416,Male,70,Single,High School,39275,2096,Phone,Newsletter,1,2023-01-06,2023-03-21
+C0417,Male,23,Divorced,PhD,44926,5525,Email,New Product,1,2022-08-22,2023-01-24
+C0418,Male,26,Married,High School,44428,4653,Web Ads,Discount,1,2020-01-02,2020-11-08
+C0419,Female,47,Married,Master,76083,11504,Email,Newsletter,0,2021-11-25,2022-04-08
+C0420,Female,47,Single,Master,55418,6499,Phone,Newsletter,0,2020-04-07,2021-02-22
+C0421,Female,23,Single,High School,90413,17651,Email,Discount,0,2021-04-07,2021-10-24
+C0422,Female,41,Married,Bachelor,60050,9126,Web Ads,Discount,1,2022-03-15,2022-12-12
+C0423,Male,31,Married,High School,37929,2880,Social Media,New Product,0,2019-05-26,2020-03-26
+C0424,Female,64,Single,Bachelor,49913,9983,Email,Loyalty Program,0,2020-01-15,2020-07-24
+C0425,Male,22,Married,High School,61760,4313,Social Media,Discount,1,2019-06-17,2019-12-02
+C0426,Female,41,Married,Master,67727,14751,Email,New Product,0,2022-07-22,2023-07-19
+C0427,Male,63,Married,PhD,45227,10686,Phone,New Product,0,2019-03-28,2020-02-08
+C0428,Female,21,Divorced,High School,68527,7845,Phone,Newsletter,0,2019-06-03,2020-03-25
+C0429,Male,43,Single,High School,72533,17061,Email,New Product,0,2020-05-11,2020-10-29
+C0430,Male,53,Single,Master,50385,10510,Social Media,New Product,0,2019-11-11,2020-08-09
+C0431,Male,46,Married,High School,89537,20995,Email,Newsletter,0,2020-12-23,2021-08-06
+C0432,Female,60,Married,Master,52010,9531,Phone,Discount,0,2022-07-21,2023-01-27
+C0433,Female,20,Single,Bachelor,45001,4370,Social Media,Discount,0,2021-02-02,2021-05-13
+C0434,Male,27,Single,Bachelor,37061,8483,Social Media,Loyalty Program,0,2019-09-19,2019-10-15
+C0435,Male,42,Married,Master,78309,6801,Web Ads,Discount,0,2020-05-01,2020-09-12
+C0436,Female,57,Single,Bachelor,60343,5588,Email,Loyalty Program,0,2020-03-29,2020-12-23
+C0437,Male,25,Single,Master,52810,5503,Web Ads,Discount,0,2020-03-18,2021-03-17
+C0438,Female,41,Single,Master,37887,4199,Social Media,Discount,0,2022-07-09,2023-02-17
+C0439,Female,44,Single,High School,54161,8280,Email,Newsletter,0,2020-06-26,2021-03-01
+C0440,Male,37,Married,High School,95721,18444,Social Media,New Product,0,2022-02-02,2022-08-10
+C0441,Male,36,Married,PhD,27832,6547,Phone,Loyalty Program,0,2019-12-16,2020-06-14
+C0442,Female,31,Married,Master,50525,3419,Social Media,Discount,0,2021-04-03,2021-09-02
+C0443,Male,25,Single,High School,86891,20929,Email,Discount,0,2020-03-13,2021-02-02
+C0444,Male,45,Single,Master,78734,18444,Email,Loyalty Program,0,2019-06-18,2020-02-26
+C0445,Female,46,Married,Bachelor,51440,3127,Phone,Discount,0,2022-09-28,2023-05-27
+C0446,Female,27,Married,High School,63053,7696,Social Media,New Product,1,2022-06-07,2022-12-05
+C0447,Female,38,Married,Master,66944,14234,Social Media,Discount,1,2019-01-23,2019-11-05
+C0448,Female,61,Single,High School,62007,10684,Email,Discount,0,2021-09-14,2021-12-09
+C0449,Male,20,Divorced,Master,86766,17858,Web Ads,Loyalty Program,0,2020-11-06,2021-09-14
+C0450,Male,48,Single,High School,65096,12616,Web Ads,Loyalty Program,1,2019-10-08,2020-09-12
+C0451,Female,64,Married,Bachelor,77032,11505,Email,Loyalty Program,0,2020-12-22,2021-02-18
+C0452,Female,68,Married,High School,62723,3653,Email,Loyalty Program,0,2019-09-10,2020-05-24
+C0453,Male,54,Married,Bachelor,29514,4924,Web Ads,New Product,0,2020-02-08,2020-11-26
+C0454,Female,59,Single,Bachelor,42113,2514,Web Ads,New Product,0,2019-05-13,2020-03-04
+C0455,Male,33,Married,High School,45226,7722,Social Media,Loyalty Program,1,2022-07-21,2022-08-31
+C0456,Female,54,Married,Bachelor,56260,11819,Web Ads,Discount,0,2020-09-09,2021-02-23
+C0457,Male,67,Single,Bachelor,91176,15226,Social Media,Discount,0,2019-08-20,2019-09-16
+C0458,Female,64,Single,High School,65436,16320,Email,Newsletter,1,2020-06-28,2020-09-08
+C0459,Male,39,Single,Master,58413,8246,Phone,Discount,0,2019-03-20,2019-08-04
+C0460,Male,68,Married,Bachelor,78578,15697,Social Media,Discount,0,2021-11-24,2021-12-19
+C0461,Male,32,Single,Bachelor,38221,7011,Web Ads,New Product,0,2020-05-09,2020-10-28
+C0462,Female,57,Divorced,Bachelor,52654,13073,Email,Loyalty Program,0,2022-02-07,2022-10-25
+C0463,Female,68,Married,Bachelor,50440,9716,Social Media,New Product,0,2022-09-06,2023-01-30
+C0464,Female,65,Divorced,High School,65970,5462,Phone,Discount,1,2019-11-24,2020-10-16
+C0465,Female,68,Divorced,Bachelor,73437,17705,Social Media,Newsletter,0,2021-08-24,2022-06-24
+C0466,Male,27,Married,Bachelor,67072,12311,Social Media,Loyalty Program,0,2020-11-20,2021-05-27
+C0467,Male,62,Single,Master,67309,4164,Web Ads,Loyalty Program,0,2020-01-19,2020-09-13
+C0468,Female,39,Single,Master,54583,9907,Social Media,Discount,0,2022-10-19,2023-04-26
+C0469,Male,52,Single,Bachelor,64811,14687,Social Media,Discount,0,2022-06-09,2022-08-29
+C0470,Female,45,Married,High School,47402,7840,Web Ads,Discount,0,2022-12-08,2023-10-31
+C0471,Male,58,Single,High School,70112,8469,Email,Discount,0,2022-08-10,2022-11-10
+C0472,Female,40,Single,High School,52490,11242,Web Ads,Discount,1,2020-06-30,2020-11-22
+C0473,Male,68,Married,High School,43177,8916,Phone,Discount,0,2022-04-12,2022-11-25
+C0474,Female,61,Divorced,Bachelor,60567,9620,Social Media,New Product,0,2020-01-27,2020-05-24
+C0475,Female,62,Single,High School,31303,2531,Social Media,Loyalty Program,0,2022-01-30,2022-06-07
+C0476,Female,60,Single,High School,82115,8227,Web Ads,Loyalty Program,0,2022-08-09,2022-09-05
+C0477,Male,28,Single,High School,71956,14225,Email,Discount,0,2022-01-13,2022-12-20
+C0478,Female,43,Divorced,High School,65054,13740,Social Media,New Product,0,2021-06-27,2021-12-07
+C0479,Female,56,Married,High School,35644,3773,Social Media,Discount,0,2022-05-09,2022-05-29
+C0480,Female,68,Single,High School,49497,6117,Email,New Product,0,2020-11-15,2021-04-11
+C0481,Female,60,Single,Bachelor,60608,3971,Social Media,New Product,0,2020-06-24,2020-09-03
+C0482,Female,36,Single,Bachelor,56053,10800,Web Ads,New Product,1,2019-10-24,2020-01-12
+C0483,Female,43,Single,High School,34671,1758,Web Ads,Newsletter,0,2019-02-25,2019-05-06
+C0484,Female,40,Divorced,Bachelor,40253,2387,Social Media,Loyalty Program,0,2023-02-04,2023-06-25
+C0485,Female,70,Married,Bachelor,55753,2836,Social Media,New Product,0,2021-11-05,2022-01-14
+C0486,Female,58,Married,High School,40750,7296,Phone,Newsletter,0,2019-03-07,2019-12-10
+C0487,Male,60,Married,High School,80570,10754,Email,Loyalty Program,0,2021-08-15,2021-09-05
+C0488,Male,58,Single,Bachelor,67418,7382,Web Ads,Loyalty Program,1,2023-02-04,2023-03-20
+C0489,Female,32,Married,Bachelor,47948,11149,Web Ads,New Product,1,2021-11-12,2022-01-11
+C0490,Female,30,Married,High School,77537,6866,Web Ads,New Product,0,2020-12-02,2021-01-23
+C0491,Female,65,Single,High School,74515,9528,Social Media,Loyalty Program,0,2021-01-29,2021-09-23
+C0492,Female,38,Married,Master,64334,15315,Social Media,Discount,0,2020-04-30,2020-08-28
+C0493,Male,30,Single,High School,59406,8044,Email,Loyalty Program,0,2022-12-09,2023-11-05
+C0494,Male,32,Single,High School,55522,8935,Social Media,Newsletter,0,2021-03-31,2021-04-24
+C0495,Female,65,Single,Master,51900,3428,Social Media,Loyalty Program,0,2021-06-06,2021-12-09
+C0496,Male,64,Married,Master,39948,8310,Web Ads,Discount,0,2022-08-21,2023-02-08
+C0497,Female,20,Married,Bachelor,82924,11157,Web Ads,Discount,1,2019-06-26,2019-08-13
+C0498,Male,59,Divorced,Bachelor,52192,10965,Web Ads,Loyalty Program,0,2019-07-14,2019-08-18
+C0499,Female,63,Married,High School,60423,6088,Web Ads,Newsletter,0,2021-11-02,2022-03-03
+C0500,Female,38,Married,High School,46346,6233,Email,Discount,0,2021-05-25,2021-07-24
+C0501,Female,31,Married,Bachelor,56108,11631,Social Media,Loyalty Program,1,2019-06-15,2019-09-30
+C0502,Female,27,Single,High School,102761,25153,Email,Newsletter,0,2022-03-19,2022-09-14
+C0503,Male,27,Married,Bachelor,49110,3041,Email,Discount,0,2022-09-26,2022-11-30
+C0504,Female,64,Single,Master,81728,17366,Social Media,Loyalty Program,0,2020-07-10,2021-02-25
+C0505,Female,31,Married,PhD,59582,6562,Phone,Discount,1,2022-04-12,2023-03-12
+C0506,Male,67,Divorced,High School,70199,11242,Phone,New Product,0,2019-06-16,2019-11-18
+C0507,Female,52,Single,Bachelor,78668,8497,Email,New Product,0,2020-12-09,2021-09-04
+C0508,Female,64,Married,Bachelor,64084,11066,Email,Loyalty Program,0,2020-12-18,2021-05-05
+C0509,Female,45,Married,Master,54724,6608,Email,Loyalty Program,0,2019-04-07,2019-06-05
+C0510,Female,58,Married,High School,57208,6677,Email,New Product,1,2020-11-09,2021-10-24
+C0511,Female,47,Single,High School,57713,3323,Email,Newsletter,0,2020-02-08,2021-01-08
+C0512,Male,24,Single,High School,87965,6983,Phone,Loyalty Program,0,2022-01-05,2022-02-03
+C0513,Female,27,Single,Bachelor,37738,8808,Web Ads,Loyalty Program,0,2022-06-14,2022-12-14
+C0514,Female,44,Single,Bachelor,33439,8348,Social Media,New Product,1,2019-10-18,2020-08-05
+C0515,Male,46,Single,Master,34439,7098,Phone,Discount,0,2019-05-16,2019-06-20
+C0516,Male,65,Married,Bachelor,46591,5002,Email,New Product,0,2021-06-07,2021-11-23
+C0517,Male,42,Single,High School,70501,9199,Web Ads,Newsletter,0,2021-05-30,2021-06-18
+C0518,Female,49,Married,Bachelor,71421,14134,Social Media,Discount,0,2020-01-02,2020-04-02
+C0519,Female,64,Married,High School,50887,12401,Web Ads,Newsletter,0,2020-07-01,2021-03-23
+C0520,Male,66,Married,Master,59572,8405,Web Ads,Loyalty Program,0,2021-06-20,2021-10-12
+C0521,Female,42,Married,Master,43255,9338,Web Ads,Loyalty Program,0,2019-09-05,2020-02-01
+C0522,Male,68,Married,PhD,44646,10938,Email,Loyalty Program,1,2021-02-04,2021-09-03
+C0523,Female,66,Divorced,Master,68698,15436,Phone,New Product,0,2022-05-22,2023-05-10
+C0524,Female,39,Single,High School,75715,7225,Email,Loyalty Program,0,2019-03-11,2019-04-13
+C0525,Female,37,Single,High School,52847,2727,Email,New Product,0,2021-01-15,2021-03-11
+C0526,Female,37,Married,Bachelor,84525,12544,Email,Loyalty Program,0,2021-09-22,2022-05-06
+C0527,Male,21,Single,Master,74484,11639,Web Ads,Loyalty Program,0,2019-11-25,2020-01-28
+C0528,Male,23,Single,High School,83875,7569,Web Ads,Loyalty Program,0,2021-11-05,2022-01-31
+C0529,Male,49,Single,High School,55485,5933,Email,Loyalty Program,0,2022-04-12,2022-09-27
+C0530,Female,52,Single,Master,82810,16812,Social Media,Discount,1,2020-11-29,2021-11-17
+C0531,Female,55,Married,High School,92693,13354,Web Ads,Discount,0,2021-03-16,2021-12-22
+C0532,Female,37,Single,Bachelor,53812,6106,Social Media,Loyalty Program,0,2019-10-01,2020-03-06
+C0533,Female,56,Married,Bachelor,57687,10067,Social Media,Discount,1,2020-06-07,2020-07-24
+C0534,Female,38,Married,High School,45784,8266,Social Media,New Product,0,2019-08-07,2019-12-05
+C0535,Female,66,Married,High School,42836,8733,Phone,New Product,0,2021-10-20,2021-11-13
+C0536,Female,47,Married,Master,43011,3498,Social Media,Discount,0,2020-05-27,2020-08-22
+C0537,Female,59,Married,Bachelor,47828,9484,Phone,Discount,0,2022-11-23,2023-02-16
+C0538,Male,39,Single,PhD,64121,10893,Social Media,Loyalty Program,1,2022-02-08,2023-01-11
+C0539,Female,68,Married,Bachelor,48462,2981,Email,New Product,0,2020-04-08,2021-01-17
+C0540,Male,52,Married,High School,63662,13081,Social Media,New Product,0,2022-01-21,2022-08-15
+C0541,Female,31,Married,Master,63972,8099,Email,Newsletter,0,2020-03-26,2020-11-09
+C0542,Female,70,Married,Bachelor,52948,6146,Social Media,Discount,1,2022-11-20,2023-01-31
+C0543,Male,34,Single,High School,59060,8245,Email,Discount,0,2021-07-12,2021-08-22
+C0544,Female,60,Married,Master,52081,6209,Web Ads,Loyalty Program,1,2021-07-21,2022-03-20
+C0545,Female,58,Married,High School,55338,6510,Social Media,Loyalty Program,0,2020-04-23,2020-08-20
+C0546,Male,21,Single,High School,47867,10129,Phone,New Product,0,2019-11-12,2020-05-04
+C0547,Male,48,Married,High School,61261,4588,Web Ads,Newsletter,0,2020-11-01,2021-05-23
+C0548,Female,60,Single,Bachelor,50991,12447,Web Ads,Newsletter,0,2020-11-28,2020-12-14
+C0549,Female,29,Single,Bachelor,42509,6843,Web Ads,Discount,0,2021-09-19,2022-02-14
+C0550,Female,21,Single,Bachelor,68901,5965,Social Media,Discount,1,2022-10-08,2023-09-25
+C0551,Female,70,Single,Master,69409,5291,Email,Loyalty Program,0,2021-02-06,2021-11-29
+C0552,Female,30,Married,Master,76675,12904,Web Ads,Discount,0,2022-06-16,2023-04-22
+C0553,Female,32,Single,High School,44634,7882,Web Ads,Discount,0,2022-02-01,2022-04-07
+C0554,Female,29,Divorced,High School,52786,3199,Web Ads,Loyalty Program,0,2021-06-25,2021-12-11
+C0555,Female,33,Married,High School,63457,6256,Phone,New Product,1,2021-05-27,2021-11-01
+C0556,Male,37,Single,High School,52469,10970,Social Media,New Product,0,2021-11-18,2022-09-10
+C0557,Male,70,Married,Bachelor,68563,4108,Email,Discount,0,2019-03-30,2019-12-21
+C0558,Male,28,Married,Master,67468,14911,Phone,Loyalty Program,0,2020-01-10,2020-06-06
+C0559,Female,58,Married,Master,67189,12203,Email,New Product,0,2022-11-21,2023-11-14
+C0560,Female,47,Single,High School,81895,11210,Email,Discount,0,2019-12-30,2020-11-27
+C0561,Female,22,Married,Bachelor,69661,8309,Social Media,Discount,0,2019-05-27,2020-03-23
+C0562,Male,39,Married,Bachelor,62308,3355,Social Media,New Product,0,2019-11-10,2020-10-19
+C0563,Male,25,Single,High School,57096,12278,Email,Newsletter,0,2020-07-01,2021-01-13
+C0564,Male,46,Single,Bachelor,58142,4566,Web Ads,Newsletter,0,2021-03-06,2022-02-01
+C0565,Male,21,Married,PhD,44036,4927,Web Ads,Discount,0,2023-01-15,2023-07-27
+C0566,Female,48,Single,Bachelor,33514,5490,Phone,Loyalty Program,0,2021-06-17,2022-04-29
+C0567,Male,57,Married,Master,66956,6641,Social Media,Loyalty Program,0,2019-04-11,2020-01-07
+C0568,Male,22,Single,Bachelor,78354,11708,Web Ads,Loyalty Program,0,2019-04-17,2020-03-01
+C0569,Female,35,Divorced,High School,55048,11662,Email,New Product,1,2021-05-06,2022-04-24
+C0570,Male,49,Married,Bachelor,83806,12077,Phone,Discount,0,2021-07-25,2021-12-26
+C0571,Female,59,Single,High School,57352,13752,Email,Loyalty Program,0,2019-10-18,2020-07-14
+C0572,Female,21,Single,High School,30693,6737,Social Media,Discount,0,2022-10-04,2022-10-15
+C0573,Male,36,Married,Bachelor,73773,8602,Social Media,Discount,1,2020-09-08,2021-07-28
+C0574,Female,60,Married,Master,52810,6864,Phone,New Product,0,2020-08-10,2020-08-31
+C0575,Female,31,Married,Bachelor,75131,10117,Email,Newsletter,1,2022-06-04,2023-03-01
+C0576,Female,54,Single,Bachelor,40837,7156,Email,Discount,0,2020-08-18,2021-02-12
+C0577,Male,62,Single,Master,66180,7105,Social Media,New Product,0,2021-09-03,2022-02-07
+C0578,Female,20,Single,Master,47993,11703,Social Media,Discount,0,2021-12-09,2022-07-06
+C0579,Female,64,Married,Master,63021,10823,Social Media,Newsletter,0,2021-05-17,2022-04-03
+C0580,Male,34,Single,High School,71499,9286,Social Media,New Product,0,2021-08-27,2021-11-14
+C0581,Female,45,Married,Master,68016,12174,Social Media,Discount,0,2020-12-22,2021-11-08
+C0582,Female,56,Married,High School,61040,7879,Email,Discount,1,2019-06-07,2019-08-09
+C0583,Female,40,Divorced,Bachelor,39323,8397,Email,New Product,0,2019-11-24,2020-08-18
+C0584,Male,68,Single,High School,70955,11605,Social Media,Discount,0,2022-01-05,2022-12-31
+C0585,Female,50,Single,Bachelor,75471,4407,Phone,Discount,0,2021-01-04,2021-02-10
+C0586,Male,44,Married,High School,44355,3785,Email,Loyalty Program,0,2020-09-24,2021-01-31
+C0587,Male,42,Married,Bachelor,46559,10382,Email,New Product,0,2023-01-17,2023-06-08
+C0588,Male,43,Single,Bachelor,76103,12372,Social Media,Loyalty Program,0,2022-08-26,2022-12-03
+C0589,Male,57,Divorced,High School,56873,13653,Email,Discount,0,2019-11-23,2019-12-18
+C0590,Male,47,Married,Bachelor,46948,3027,Social Media,New Product,0,2020-05-22,2021-03-14
+C0591,Male,40,Single,Master,64088,6988,Social Media,New Product,0,2021-05-19,2022-03-08
+C0592,Female,62,Single,PhD,50422,4472,Email,Discount,0,2022-02-04,2022-10-01
+C0593,Male,37,Married,High School,62415,10034,Email,New Product,0,2019-08-29,2020-01-22
+C0594,Male,55,Married,Master,53801,6808,Web Ads,Discount,1,2020-03-10,2021-01-08
+C0595,Female,54,Single,Bachelor,55087,4487,Phone,Loyalty Program,0,2021-11-17,2022-07-11
+C0596,Female,64,Married,Bachelor,76655,13686,Phone,New Product,0,2020-12-04,2021-01-09
+C0597,Female,28,Married,High School,22972,3612,Social Media,New Product,0,2022-06-26,2023-06-02
+C0598,Male,57,Single,Bachelor,68321,7170,Phone,Discount,1,2022-10-19,2023-02-22
+C0599,Male,49,Married,Master,74181,10827,Web Ads,Discount,0,2023-02-04,2023-05-13
+C0600,Male,63,Divorced,Bachelor,50670,10090,Phone,New Product,0,2020-08-11,2020-12-05
+C0601,Male,53,Single,Bachelor,74066,6744,Email,New Product,0,2020-02-17,2020-10-04
+C0602,Male,51,Single,Bachelor,45614,4952,Social Media,Discount,1,2020-07-22,2021-03-11
+C0603,Male,22,Married,High School,50100,5973,Social Media,Discount,0,2022-04-03,2022-08-12
+C0604,Male,22,Married,Master,48372,9642,Social Media,Discount,0,2021-09-15,2022-09-13
+C0605,Male,47,Divorced,Master,74269,16293,Social Media,New Product,0,2021-12-07,2022-01-18
+C0606,Female,63,Married,High School,33825,4237,Web Ads,Discount,1,2020-04-28,2020-08-06
+C0607,Male,34,Married,Master,84602,9249,Phone,New Product,0,2022-03-27,2022-10-06
+C0608,Male,60,Married,High School,55425,12630,Email,Discount,0,2020-10-29,2021-07-23
+C0609,Female,42,Married,PhD,69223,17296,Email,New Product,1,2019-05-31,2019-06-22
+C0610,Female,59,Single,Bachelor,67930,12503,Social Media,Discount,0,2019-08-13,2019-09-15
+C0611,Male,30,Single,High School,62268,15442,Email,New Product,0,2022-07-07,2023-06-06
+C0612,Female,67,Single,Bachelor,50989,9279,Social Media,Discount,0,2022-11-11,2022-12-24
+C0613,Female,51,Married,Bachelor,78635,15466,Social Media,Discount,1,2019-09-13,2020-05-26
+C0614,Male,55,Single,High School,52277,6677,Social Media,New Product,0,2019-03-02,2020-02-17
+C0615,Female,52,Divorced,Bachelor,49031,6697,Web Ads,Discount,1,2020-01-31,2020-02-28
+C0616,Female,43,Single,Bachelor,73165,5767,Social Media,Discount,0,2022-11-21,2022-12-30
+C0617,Male,58,Single,Master,62186,13342,Email,Loyalty Program,0,2022-03-31,2022-05-28
+C0618,Male,53,Married,High School,80367,18983,Email,Newsletter,0,2020-01-15,2020-07-22
+C0619,Female,47,Married,Bachelor,59059,10316,Social Media,Discount,0,2023-01-06,2023-08-29
+C0620,Female,56,Single,High School,50236,5964,Email,Loyalty Program,1,2019-12-15,2020-03-11
+C0621,Male,26,Single,Master,64121,5181,Social Media,New Product,0,2019-01-31,2019-09-04
+C0622,Male,23,Divorced,High School,53285,5490,Email,Discount,0,2019-03-12,2019-04-25
+C0623,Male,56,Single,Master,50671,5121,Social Media,Newsletter,0,2020-02-01,2020-10-17
+C0624,Female,20,Single,Master,72478,12517,Web Ads,Loyalty Program,0,2023-01-01,2023-03-22
+C0625,Female,20,Married,Bachelor,87473,20906,Email,Newsletter,0,2019-01-02,2019-11-17
+C0626,Male,66,Single,Bachelor,56303,3358,Social Media,Discount,0,2021-07-17,2022-05-01
+C0627,Female,39,Married,High School,45378,2278,Social Media,Discount,0,2020-07-15,2020-12-23
+C0628,Female,38,Single,High School,57698,9810,Phone,New Product,0,2022-03-04,2022-10-26
+C0629,Male,48,Single,Master,67722,7233,Social Media,New Product,0,2019-05-26,2020-02-02
+C0630,Male,29,Single,Master,63862,14439,Social Media,Discount,0,2019-06-28,2019-07-17
+C0631,Female,37,Single,High School,77913,8995,Phone,Newsletter,0,2019-09-21,2020-08-12
+C0632,Female,47,Single,Bachelor,69976,7553,Social Media,New Product,0,2022-08-27,2022-10-23
+C0633,Female,54,Single,Master,43448,4514,Social Media,New Product,1,2019-07-23,2019-11-21
+C0634,Female,62,Married,Bachelor,52600,4153,Email,New Product,0,2020-11-29,2021-06-30
+C0635,Male,66,Single,High School,39287,6533,Phone,New Product,0,2021-11-19,2022-05-04
+C0636,Male,50,Married,High School,77170,6454,Web Ads,Discount,0,2019-02-28,2020-02-15
+C0637,Female,46,Married,High School,30121,4064,Web Ads,Newsletter,0,2021-10-29,2021-12-03
+C0638,Male,30,Married,Master,40750,5794,Web Ads,Discount,0,2021-09-14,2022-07-28
+C0639,Male,68,Single,Bachelor,52322,2830,Phone,Discount,0,2022-09-09,2023-03-03
+C0640,Male,68,Divorced,Bachelor,68458,3653,Social Media,Newsletter,0,2019-06-16,2020-02-29
+C0641,Male,57,Single,Master,52175,8037,Phone,Newsletter,0,2022-09-22,2023-06-20
+C0642,Male,24,Single,Bachelor,54521,10315,Social Media,Loyalty Program,1,2021-06-25,2022-03-25
+C0643,Male,27,Married,Master,54817,13069,Social Media,Newsletter,1,2022-11-03,2022-11-29
+C0644,Male,53,Married,Bachelor,62591,5371,Social Media,New Product,0,2021-06-16,2021-09-09
+C0645,Male,67,Married,High School,41692,2945,Social Media,Newsletter,0,2021-03-01,2021-11-19
+C0646,Female,31,Single,Master,45792,2766,Phone,Discount,0,2019-08-30,2020-04-01
+C0647,Female,57,Married,Bachelor,85213,11691,Social Media,Loyalty Program,0,2021-06-26,2021-08-08
+C0648,Female,20,Single,High School,66035,11531,Email,Loyalty Program,0,2022-03-29,2022-09-01
+C0649,Female,50,Divorced,Bachelor,71411,15575,Email,Discount,0,2021-02-15,2022-01-16
+C0650,Female,23,Single,High School,60870,11354,Web Ads,New Product,0,2022-06-12,2023-05-25
+C0651,Male,68,Married,Bachelor,57895,5307,Phone,New Product,0,2023-01-16,2023-09-10
+C0652,Female,64,Married,Master,66856,9517,Social Media,Loyalty Program,0,2019-07-18,2019-11-22
+C0653,Female,69,Married,Master,70914,16456,Social Media,Discount,1,2021-11-22,2022-05-15
+C0654,Female,24,Married,Master,72691,8384,Social Media,Loyalty Program,0,2020-02-12,2020-03-30
+C0655,Male,49,Married,High School,58101,8700,Email,Discount,1,2022-01-17,2022-11-18
+C0656,Male,43,Single,Bachelor,74330,17966,Social Media,New Product,0,2019-08-09,2020-01-02
+C0657,Male,22,Single,High School,23006,4530,Phone,Newsletter,1,2021-12-28,2022-11-11
+C0658,Male,30,Single,Master,73384,14643,Social Media,New Product,0,2022-08-10,2023-04-22
+C0659,Female,64,Married,Bachelor,53596,5384,Social Media,Discount,0,2022-06-14,2023-01-07
+C0660,Female,23,Married,Bachelor,68300,9079,Email,Discount,0,2022-03-29,2022-06-12
+C0661,Male,45,Married,Master,50260,3340,Social Media,Loyalty Program,0,2021-04-19,2021-07-17
+C0662,Female,46,Single,Bachelor,40099,6869,Email,Newsletter,0,2021-02-26,2021-04-28
+C0663,Female,65,Single,Bachelor,65095,4605,Social Media,Newsletter,0,2022-08-06,2022-12-22
+C0664,Male,62,Married,PhD,37477,8139,Social Media,Loyalty Program,0,2020-07-07,2020-07-17
+C0665,Male,46,Married,PhD,54004,11498,Web Ads,Discount,0,2020-07-31,2021-01-23
+C0666,Male,61,Married,High School,47813,7493,Social Media,Discount,0,2020-06-16,2020-07-11
+C0667,Male,70,Divorced,Bachelor,57374,4488,Social Media,Discount,0,2019-12-01,2020-05-03
+C0668,Male,69,Single,PhD,71958,3966,Social Media,Discount,0,2021-10-17,2022-02-15
+C0669,Male,25,Married,High School,52652,11022,Phone,Discount,1,2019-09-03,2019-12-23
+C0670,Male,34,Married,Bachelor,64718,11003,Email,Discount,0,2022-09-08,2022-12-08
+C0671,Male,49,Single,High School,71090,13662,Social Media,New Product,0,2020-09-02,2020-12-19
+C0672,Female,61,Single,Bachelor,50891,5636,Web Ads,Discount,1,2019-11-25,2020-05-11
+C0673,Male,56,Single,High School,51108,7763,Email,Loyalty Program,0,2020-06-30,2020-08-18
+C0674,Female,56,Married,Bachelor,80539,16062,Social Media,Newsletter,0,2019-12-05,2020-05-17
+C0675,Male,61,Married,High School,58809,8381,Web Ads,New Product,0,2022-04-09,2022-05-24
+C0676,Female,56,Married,Bachelor,67637,11517,Social Media,Loyalty Program,0,2022-02-07,2022-10-21
+C0677,Male,54,Divorced,PhD,67523,14041,Phone,Loyalty Program,0,2021-09-20,2021-10-03
+C0678,Male,42,Married,Master,42030,3910,Social Media,Discount,0,2021-03-17,2022-01-01
+C0679,Female,25,Single,Master,48586,3069,Social Media,Discount,0,2021-10-30,2022-10-25
+C0680,Female,23,Married,Bachelor,65630,10262,Phone,Discount,0,2022-05-10,2023-04-18
+C0681,Female,37,Married,High School,28990,1809,Phone,Discount,0,2022-07-04,2023-03-19
+C0682,Male,28,Married,High School,56830,11554,Web Ads,Loyalty Program,1,2022-07-09,2022-07-30
+C0683,Male,68,Married,Master,47020,9114,Email,Newsletter,0,2020-11-23,2021-09-11
+C0684,Female,48,Married,Bachelor,76657,17350,Social Media,Newsletter,1,2020-03-05,2020-10-16
+C0685,Female,32,Single,High School,65191,11598,Email,Discount,0,2021-12-25,2022-11-18
+C0686,Female,66,Married,Master,77868,4939,Email,Newsletter,0,2021-03-16,2022-01-30
+C0687,Female,36,Single,High School,59413,5978,Social Media,Discount,0,2020-09-03,2020-12-03
+C0688,Male,64,Single,High School,58291,12333,Social Media,Loyalty Program,0,2019-02-04,2019-02-27
+C0689,Female,51,Single,PhD,55426,4623,Email,Discount,0,2020-07-10,2020-09-13
+C0690,Male,67,Single,Master,52453,9950,Email,Discount,0,2020-05-05,2021-04-21
+C0691,Male,41,Single,Bachelor,100269,20660,Social Media,Discount,0,2019-09-11,2020-06-28
+C0692,Male,23,Married,PhD,72107,8366,Web Ads,Newsletter,0,2019-01-17,2019-08-13
+C0693,Female,24,Divorced,Bachelor,44007,5037,Phone,Discount,0,2019-09-18,2020-09-09
+C0694,Male,56,Single,Master,99589,16089,Email,Discount,0,2022-07-03,2022-12-25
+C0695,Male,60,Single,High School,53925,11985,Web Ads,Newsletter,0,2020-12-28,2021-10-25
+C0696,Female,68,Single,High School,64817,6143,Social Media,Newsletter,0,2022-12-18,2023-05-22
+C0697,Male,32,Single,Bachelor,74093,17652,Web Ads,Discount,0,2020-05-15,2020-08-10
+C0698,Female,53,Single,Master,36930,6271,Social Media,Loyalty Program,0,2021-10-12,2022-02-10
+C0699,Male,64,Divorced,Bachelor,47590,11822,Social Media,Discount,0,2019-10-13,2019-11-14
+C0700,Female,41,Single,High School,84722,5754,Web Ads,Discount,0,2019-01-07,2019-05-12
+C0701,Female,42,Married,High School,56627,4264,Email,New Product,0,2022-05-07,2022-10-05
+C0702,Male,70,Single,Master,74980,16145,Web Ads,New Product,1,2020-10-20,2021-05-14
+C0703,Male,22,Married,High School,53197,11860,Web Ads,New Product,0,2021-07-25,2022-05-08
+C0704,Male,61,Married,Bachelor,58574,8147,Web Ads,New Product,0,2022-12-12,2023-01-18
+C0705,Male,53,Divorced,High School,86778,16732,Social Media,New Product,1,2019-02-21,2019-12-26
+C0706,Female,51,Married,High School,66562,14877,Email,Loyalty Program,1,2019-08-31,2019-11-24
+C0707,Male,64,Single,Bachelor,54827,3214,Social Media,Loyalty Program,1,2022-05-27,2022-06-23
+C0708,Female,70,Single,Bachelor,49749,8198,Web Ads,New Product,0,2020-06-01,2020-09-18
+C0709,Male,68,Married,Bachelor,51121,11282,Social Media,Discount,0,2021-08-27,2022-01-07
+C0710,Female,40,Single,High School,78623,10191,Social Media,New Product,0,2019-04-19,2020-02-14
+C0711,Female,65,Married,Master,71482,7897,Social Media,Loyalty Program,1,2022-10-06,2023-02-17
+C0712,Female,63,Single,High School,42769,8944,Social Media,New Product,0,2021-07-09,2021-07-25
+C0713,Female,40,Single,Bachelor,61307,7182,Email,New Product,0,2019-03-07,2019-04-08
+C0714,Male,63,Married,PhD,58997,2987,Social Media,Discount,1,2021-10-30,2022-04-19
+C0715,Male,30,Married,High School,64741,15661,Web Ads,New Product,0,2019-07-21,2019-11-24
+C0716,Female,58,Married,Master,50946,8580,Email,Discount,0,2021-06-19,2022-06-15
+C0717,Female,23,Single,High School,76467,16356,Web Ads,Newsletter,0,2019-08-02,2019-09-01
+C0718,Female,70,Married,Bachelor,59979,12899,Phone,Loyalty Program,0,2019-03-09,2019-11-25
+C0719,Male,20,Single,Bachelor,65601,4151,Social Media,Discount,0,2021-01-28,2021-12-29
+C0720,Female,47,Single,PhD,48229,4059,Social Media,New Product,0,2021-05-15,2022-03-29
+C0721,Female,43,Married,High School,48985,5497,Email,Loyalty Program,1,2019-11-23,2020-02-24
+C0722,Male,54,Single,Bachelor,99862,11398,Social Media,Discount,0,2021-12-09,2022-01-28
+C0723,Male,32,Single,PhD,87001,15813,Phone,New Product,0,2021-11-06,2022-06-06
+C0724,Female,66,Single,Bachelor,58954,10294,Social Media,Loyalty Program,1,2020-06-06,2020-10-21
+C0725,Female,53,Single,Bachelor,82995,12359,Social Media,Loyalty Program,0,2022-08-22,2023-01-20
+C0726,Female,30,Single,High School,78191,7213,Email,Discount,0,2022-11-16,2023-11-04
+C0727,Male,55,Single,Master,50621,6398,Phone,New Product,0,2021-09-14,2022-01-04
+C0728,Female,70,Single,High School,49126,7797,Social Media,Newsletter,0,2022-02-21,2022-06-17
+C0729,Male,36,Single,High School,70030,10056,Social Media,Newsletter,0,2021-09-30,2021-10-26
+C0730,Male,54,Married,Bachelor,63900,4821,Email,Loyalty Program,0,2020-05-18,2020-06-21
+C0731,Male,37,Single,Bachelor,53969,9709,Web Ads,Newsletter,1,2022-06-02,2022-08-14
+C0732,Female,59,Single,PhD,70818,4575,Social Media,New Product,0,2021-01-25,2022-01-11
+C0733,Female,41,Single,Master,38362,4819,Social Media,New Product,0,2022-09-03,2023-05-07
+C0734,Female,43,Married,Master,61725,11851,Social Media,New Product,0,2020-04-17,2020-10-19
+C0735,Male,38,Married,Master,41416,2236,Phone,Discount,0,2021-05-07,2022-03-03
+C0736,Female,56,Married,Bachelor,41910,6873,Email,New Product,0,2020-06-24,2021-04-22
+C0737,Male,58,Married,High School,49398,5774,Phone,New Product,0,2022-10-13,2023-08-29
+C0738,Female,40,Married,Master,65449,3388,Social Media,Loyalty Program,1,2021-05-18,2021-10-30
+C0739,Male,27,Married,High School,49871,4392,Social Media,Loyalty Program,0,2021-05-27,2021-07-28
+C0740,Male,47,Married,Bachelor,41728,9939,Phone,New Product,0,2021-07-28,2021-10-18
+C0741,Female,24,Single,Master,67158,10357,Phone,Discount,0,2021-05-26,2021-12-04
+C0742,Male,36,Single,Bachelor,82391,20552,Phone,Discount,0,2022-12-23,2023-07-09
+C0743,Female,56,Single,Master,69582,10782,Web Ads,Discount,0,2021-03-07,2021-03-29
+C0744,Female,55,Divorced,High School,87026,13818,Email,Loyalty Program,1,2020-04-16,2020-06-11
+C0745,Male,38,Married,Bachelor,81137,10415,Web Ads,Discount,0,2021-04-17,2021-10-03
+C0746,Female,46,Married,High School,52688,5901,Email,New Product,0,2022-08-16,2023-06-05
+C0747,Male,53,Single,Bachelor,69482,6969,Phone,Discount,1,2019-03-25,2019-05-26
+C0748,Female,30,Married,Master,58625,6957,Social Media,Loyalty Program,0,2020-01-12,2020-11-03
+C0749,Female,64,Single,Bachelor,75931,10779,Social Media,Newsletter,1,2022-08-29,2022-09-15
+C0750,Female,66,Single,High School,58622,5182,Social Media,Loyalty Program,0,2022-09-05,2022-11-25
+C0751,Male,31,Married,High School,48169,4574,Social Media,Discount,0,2019-07-23,2019-11-07
+C0752,Female,40,Married,High School,80601,8407,Email,New Product,0,2022-10-10,2023-01-14
+C0753,Female,30,Single,Bachelor,64766,9057,Social Media,Discount,0,2021-10-05,2022-09-09
+C0754,Male,58,Married,Master,50047,9036,Email,Discount,0,2022-08-10,2022-11-28
+C0755,Male,47,Single,High School,52519,11618,Social Media,Discount,0,2020-05-18,2021-03-04
+C0756,Female,24,Divorced,Master,49951,5366,Email,Discount,0,2022-03-14,2023-01-06
+C0757,Female,36,Single,Master,44973,3901,Email,Discount,0,2020-06-22,2021-02-23
+C0758,Female,39,Single,Bachelor,52837,6645,Email,Discount,1,2019-01-17,2019-08-10
+C0759,Female,60,Single,Bachelor,65595,15013,Social Media,Discount,0,2020-07-28,2020-11-11
+C0760,Female,65,Single,Master,60960,3168,Web Ads,New Product,0,2020-07-29,2020-11-11
+C0761,Male,31,Single,High School,53426,9914,Web Ads,Newsletter,0,2021-10-11,2022-07-08
+C0762,Male,25,Married,High School,82432,11988,Email,Newsletter,0,2021-11-28,2022-04-07
+C0763,Male,36,Married,High School,29840,2453,Social Media,Discount,0,2019-05-10,2020-02-16
+C0764,Female,70,Married,PhD,64592,7376,Phone,New Product,0,2019-04-25,2020-03-31
+C0765,Male,38,Single,Master,57858,5495,Social Media,Newsletter,1,2023-01-13,2023-03-15
+C0766,Female,45,Married,Master,45447,10251,Phone,Discount,0,2021-08-07,2022-06-30
+C0767,Female,67,Single,High School,65466,9582,Email,Loyalty Program,0,2021-12-04,2022-05-25
+C0768,Female,63,Single,Bachelor,56703,9220,Social Media,New Product,1,2019-08-04,2020-02-19
+C0769,Male,63,Married,High School,78706,13280,Social Media,Newsletter,1,2021-04-27,2022-02-07
+C0770,Female,51,Married,High School,73020,12991,Email,Newsletter,0,2022-12-09,2023-03-13
+C0771,Male,25,Single,Bachelor,88591,13209,Social Media,Loyalty Program,0,2020-11-19,2021-06-10
+C0772,Female,55,Single,PhD,52750,2826,Social Media,Loyalty Program,0,2021-09-29,2022-04-07
+C0773,Male,57,Divorced,Master,80948,9466,Email,Discount,0,2019-09-22,2019-10-22
+C0774,Male,30,Single,Bachelor,42512,3688,Social Media,Discount,1,2023-01-03,2023-08-03
+C0775,Female,52,Married,High School,58340,10852,Phone,New Product,0,2020-09-08,2021-04-07
+C0776,Male,43,Married,High School,53021,3252,Web Ads,Discount,0,2022-11-05,2023-04-14
+C0777,Male,42,Single,Bachelor,69036,11236,Social Media,Discount,0,2019-10-28,2020-04-13
+C0778,Female,34,Single,Master,68674,6326,Social Media,Discount,0,2021-09-11,2022-07-27
+C0779,Female,46,Single,Master,46490,11146,Social Media,Newsletter,0,2022-04-09,2022-05-14
+C0780,Female,30,Married,Bachelor,69872,8182,Social Media,Discount,0,2020-02-10,2020-12-24
+C0781,Female,70,Married,Bachelor,54292,6245,Email,Discount,0,2022-10-10,2022-12-24
+C0782,Female,69,Married,High School,47748,11205,Social Media,New Product,0,2019-06-10,2020-03-08
+C0783,Male,36,Divorced,High School,59823,7984,Social Media,New Product,0,2019-01-26,2019-07-21
+C0784,Male,70,Married,Bachelor,37847,9180,Social Media,Discount,0,2019-03-24,2020-01-15
+C0785,Male,33,Married,High School,73969,4056,Web Ads,Newsletter,0,2019-06-22,2019-12-02
+C0786,Female,46,Married,Bachelor,59165,6583,Phone,New Product,0,2021-09-25,2022-09-12
+C0787,Female,37,Married,Master,59493,10901,Email,New Product,1,2021-03-04,2021-10-05
+C0788,Male,47,Married,Bachelor,58692,13391,Email,Discount,0,2021-12-29,2022-06-09
+C0789,Female,70,Married,High School,84702,8578,Email,New Product,0,2021-04-14,2021-10-24
+C0790,Female,66,Married,High School,82783,19544,Phone,Loyalty Program,0,2019-01-06,2019-06-23
+C0791,Male,66,Single,Bachelor,80261,13550,Phone,Discount,0,2021-03-06,2021-09-25
+C0792,Female,23,Married,Bachelor,58724,12343,Web Ads,Discount,0,2022-05-03,2022-05-14
+C0793,Female,26,Single,Bachelor,43265,5600,Social Media,Discount,0,2020-06-08,2021-01-18
+C0794,Female,64,Single,Bachelor,59760,5523,Web Ads,Newsletter,0,2019-03-04,2019-09-04
+C0795,Male,54,Single,Bachelor,64716,15030,Social Media,Discount,0,2021-11-02,2022-01-25
+C0796,Female,67,Married,Master,72189,17081,Web Ads,Newsletter,0,2021-01-30,2021-11-20
+C0797,Female,28,Married,Bachelor,64667,9668,Phone,Discount,0,2019-07-24,2019-12-07
+C0798,Female,27,Single,Master,44602,2288,Social Media,New Product,0,2021-06-15,2021-08-12
+C0799,Female,64,Married,Bachelor,51968,3739,Social Media,Loyalty Program,0,2019-02-09,2019-03-22
+C0800,Female,36,Married,High School,50607,8330,Phone,Discount,0,2022-04-03,2022-09-17
+C0801,Female,36,Single,Bachelor,68085,3728,Social Media,New Product,0,2021-11-20,2021-12-14
+C0802,Male,68,Married,Bachelor,68453,8856,Email,Discount,0,2021-05-26,2022-04-18
+C0803,Female,52,Married,Master,70419,7793,Email,Discount,0,2021-04-04,2022-03-13
+C0804,Female,51,Married,Master,64515,12442,Social Media,Loyalty Program,0,2021-06-27,2022-03-06
+C0805,Male,27,Married,Master,29112,1779,Social Media,Discount,1,2020-02-02,2020-02-28
+C0806,Female,38,Married,Master,34112,5039,Email,Loyalty Program,0,2023-01-22,2023-02-22
+C0807,Female,57,Single,Bachelor,57897,9600,Email,Discount,0,2022-05-31,2023-02-08
+C0808,Female,22,Single,Bachelor,61471,10662,Social Media,Discount,0,2020-09-25,2020-12-24
+C0809,Female,24,Single,Bachelor,78804,10325,Social Media,Loyalty Program,0,2022-01-06,2022-06-08
+C0810,Male,32,Divorced,PhD,61166,6781,Email,New Product,0,2021-04-18,2021-05-05
+C0811,Female,66,Single,Master,45360,8459,Email,Discount,1,2020-08-22,2021-02-14
+C0812,Female,65,Single,High School,69932,15351,Email,New Product,0,2020-09-16,2021-07-09
+C0813,Male,50,Married,Master,59741,11274,Email,Discount,0,2021-07-26,2022-04-29
+C0814,Female,35,Divorced,High School,53969,12759,Web Ads,Newsletter,0,2021-06-02,2022-03-27
+C0815,Female,69,Married,Bachelor,35781,6921,Email,Discount,0,2022-12-22,2023-07-05
+C0816,Female,51,Single,High School,61277,12434,Phone,Discount,1,2020-02-29,2020-03-21
+C0817,Female,41,Single,Bachelor,63432,5301,Social Media,Loyalty Program,0,2020-01-22,2020-11-07
+C0818,Male,48,Single,Master,45057,6033,Web Ads,Discount,1,2022-06-16,2023-04-25
+C0819,Male,41,Single,High School,71165,10462,Email,Discount,0,2021-09-30,2021-12-31
+C0820,Male,62,Single,High School,69821,7069,Email,Discount,0,2021-05-07,2021-07-10
+C0821,Female,22,Married,High School,60733,9456,Email,Newsletter,0,2020-09-14,2021-02-01
+C0822,Male,29,Divorced,Bachelor,60175,6508,Email,Newsletter,0,2019-03-31,2019-08-12
+C0823,Male,61,Single,Bachelor,74190,13910,Phone,Loyalty Program,1,2020-01-20,2020-12-19
+C0824,Male,40,Married,High School,65512,9437,Email,New Product,0,2022-03-08,2022-05-07
+C0825,Female,35,Married,High School,49466,7012,Email,New Product,0,2021-09-23,2021-10-29
+C0826,Female,31,Single,Bachelor,57035,14072,Web Ads,New Product,0,2020-10-08,2021-03-31
+C0827,Male,21,Married,High School,68352,8782,Social Media,Discount,1,2022-06-21,2023-04-07
+C0828,Male,60,Single,Master,29515,3614,Email,Newsletter,1,2020-02-26,2020-04-08
+C0829,Female,43,Single,High School,46027,5234,Email,Discount,0,2022-04-20,2022-06-30
+C0830,Female,54,Married,Bachelor,70232,16079,Email,Discount,0,2022-05-03,2022-10-04
+C0831,Male,49,Single,High School,78133,11668,Web Ads,Newsletter,0,2021-05-23,2021-11-19
+C0832,Female,49,Divorced,Bachelor,75315,12803,Web Ads,Loyalty Program,0,2019-02-22,2019-12-14
+C0833,Male,66,Single,High School,73399,6324,Web Ads,Discount,0,2021-09-12,2022-07-15
+C0834,Male,54,Married,Master,61946,9799,Web Ads,Discount,0,2021-10-10,2022-02-13
+C0835,Female,38,Married,Master,44566,4676,Social Media,New Product,0,2020-11-15,2020-11-28
+C0836,Male,69,Single,Master,57050,11189,Email,New Product,0,2019-06-28,2019-09-11
+C0837,Female,27,Single,Bachelor,30100,6516,Social Media,New Product,0,2019-10-20,2019-12-28
+C0838,Male,45,Married,Bachelor,79509,15342,Phone,Discount,0,2020-01-10,2020-11-01
+C0839,Female,68,Married,Master,47743,9359,Web Ads,Newsletter,1,2021-12-18,2022-12-07
+C0840,Female,59,Married,Bachelor,51999,7929,Social Media,Discount,0,2021-12-13,2022-08-08
+C0841,Male,26,Married,High School,75879,14600,Social Media,New Product,0,2022-06-22,2022-10-09
+C0842,Female,49,Married,Master,35780,4813,Web Ads,New Product,0,2022-03-18,2022-07-24
+C0843,Male,26,Married,Bachelor,42158,7600,Email,Discount,0,2021-03-06,2021-05-23
+C0844,Female,22,Married,High School,64019,6517,Web Ads,Discount,0,2022-10-23,2023-04-02
+C0845,Male,20,Married,High School,67805,4336,Email,Newsletter,0,2019-01-16,2019-11-01
+C0846,Male,55,Married,High School,58924,7818,Social Media,Newsletter,0,2019-06-25,2020-02-10
+C0847,Male,44,Married,Bachelor,59413,8457,Email,Discount,0,2022-11-30,2023-07-20
+C0848,Female,56,Single,High School,79025,8003,Social Media,Newsletter,0,2023-01-30,2023-07-23
+C0849,Female,20,Married,High School,69544,13598,Social Media,Discount,0,2019-05-09,2019-12-15
+C0850,Female,34,Married,High School,67517,4369,Social Media,New Product,0,2022-05-31,2023-03-15
+C0851,Male,56,Single,Bachelor,71634,6772,Web Ads,Discount,0,2021-06-02,2021-08-13
+C0852,Female,32,Single,Master,55491,11082,Phone,Newsletter,0,2022-06-21,2023-03-19
+C0853,Male,59,Single,Bachelor,92597,12725,Phone,Discount,0,2020-03-01,2020-03-16
+C0854,Female,27,Married,High School,25387,4850,Email,New Product,1,2019-12-20,2020-09-02
+C0855,Male,24,Married,High School,81868,13385,Web Ads,Loyalty Program,0,2021-01-19,2021-09-14
+C0856,Male,28,Single,Master,73531,17657,Email,Discount,0,2021-01-13,2021-11-04
+C0857,Male,20,Married,Bachelor,63724,10804,Email,New Product,1,2022-09-11,2023-06-04
+C0858,Female,55,Married,Bachelor,61200,3241,Email,Discount,0,2021-10-23,2022-01-03
+C0859,Female,54,Single,High School,57666,6953,Social Media,Loyalty Program,1,2020-04-23,2020-05-30
+C0860,Male,21,Married,Master,76551,6017,Web Ads,Discount,0,2021-09-02,2022-08-22
+C0861,Female,59,Divorced,Bachelor,59402,13955,Email,New Product,0,2022-01-09,2022-03-12
+C0862,Female,42,Married,High School,49081,3475,Social Media,Newsletter,0,2019-02-13,2019-11-01
+C0863,Female,28,Married,High School,73529,9377,Web Ads,Discount,0,2019-06-04,2019-07-21
+C0864,Male,53,Divorced,Bachelor,83771,7976,Social Media,Discount,1,2021-08-04,2022-06-17
+C0865,Male,65,Married,Master,31092,6819,Phone,Loyalty Program,0,2021-07-16,2022-06-24
+C0866,Female,33,Single,Master,95356,10652,Email,Loyalty Program,0,2019-04-09,2019-09-04
+C0867,Male,23,Married,Bachelor,44449,11040,Phone,Newsletter,0,2022-11-21,2023-01-22
+C0868,Male,49,Married,Master,45595,2631,Email,Discount,0,2019-06-20,2019-10-01
+C0869,Female,50,Married,High School,41326,3126,Web Ads,Discount,0,2019-05-28,2019-09-08
+C0870,Female,57,Single,Bachelor,60012,5696,Social Media,Loyalty Program,0,2019-05-03,2020-01-30
+C0871,Male,30,Married,Bachelor,40804,8659,Phone,Loyalty Program,0,2019-04-22,2020-03-19
+C0872,Male,54,Single,High School,42626,9620,Email,New Product,0,2021-10-19,2022-03-14
+C0873,Female,27,Divorced,Master,49671,3193,Email,Discount,0,2021-10-08,2022-06-30
+C0874,Male,22,Single,High School,62076,3506,Email,Discount,0,2022-02-27,2022-04-14
+C0875,Male,33,Single,Bachelor,63522,12635,Social Media,Discount,1,2019-03-09,2019-08-07
+C0876,Male,32,Married,Bachelor,78617,6027,Email,Newsletter,0,2021-04-07,2021-09-10
+C0877,Female,64,Single,Bachelor,78272,5995,Phone,Discount,0,2021-06-10,2021-06-27
+C0878,Female,51,Married,Bachelor,75369,4105,Email,New Product,0,2022-08-02,2023-04-19
+C0879,Male,53,Divorced,High School,56075,3362,Phone,New Product,0,2021-10-25,2022-03-18
+C0880,Male,64,Married,Master,32382,3326,Email,Discount,0,2022-02-15,2022-04-24
+C0881,Male,38,Single,Bachelor,32050,2019,Email,Discount,0,2019-08-18,2019-12-28
+C0882,Female,57,Single,Bachelor,75265,9315,Phone,Loyalty Program,0,2019-06-09,2020-03-07
+C0883,Male,35,Married,PhD,72656,15734,Phone,Discount,0,2022-08-10,2022-12-17
+C0884,Male,21,Divorced,Master,50749,5849,Social Media,Discount,0,2019-07-05,2020-03-29
+C0885,Female,59,Married,High School,38388,7507,Email,Discount,0,2021-10-10,2022-09-07
+C0886,Male,36,Married,Master,44292,3046,Social Media,Loyalty Program,0,2021-05-26,2021-06-22
+C0887,Female,53,Single,High School,62620,11389,Social Media,Newsletter,0,2020-07-05,2021-05-11
+C0888,Male,61,Married,High School,62648,7101,Social Media,New Product,0,2022-06-01,2023-05-29
+C0889,Male,35,Married,Bachelor,75637,15123,Social Media,Loyalty Program,0,2022-03-21,2022-06-30
+C0890,Male,57,Single,PhD,53244,4113,Social Media,New Product,0,2022-03-09,2022-08-29
+C0891,Female,21,Single,High School,56339,12934,Email,New Product,0,2022-10-22,2023-03-24
+C0892,Female,21,Married,Bachelor,76879,7573,Web Ads,Newsletter,1,2022-02-25,2023-02-04
+C0893,Female,45,Single,High School,28123,3392,Phone,New Product,0,2022-10-06,2023-08-26
+C0894,Male,32,Single,Master,64761,15544,Email,Discount,0,2019-05-27,2020-01-29
+C0895,Female,66,Married,Bachelor,54986,9110,Social Media,Newsletter,0,2022-08-01,2023-01-31
+C0896,Male,50,Single,Bachelor,70691,8705,Email,Loyalty Program,0,2023-02-01,2023-05-04
+C0897,Male,53,Single,High School,67689,16239,Web Ads,Discount,1,2022-05-26,2022-11-08
+C0898,Female,58,Married,Master,49555,5739,Social Media,Newsletter,0,2020-03-11,2020-07-07
+C0899,Male,22,Married,PhD,52389,3613,Email,Discount,0,2021-01-01,2021-07-07
+C0900,Male,27,Married,Bachelor,25470,6351,Email,Discount,0,2022-03-14,2022-11-28
+C0901,Male,42,Married,Bachelor,71249,7379,Email,New Product,1,2022-07-24,2023-04-12
+C0902,Male,33,Married,Master,63596,14007,Social Media,Discount,0,2019-03-01,2019-05-04
+C0903,Male,46,Married,High School,80977,6729,Phone,Loyalty Program,0,2021-04-22,2021-10-03
+C0904,Female,48,Single,Master,54008,10600,Email,Discount,0,2022-10-30,2023-02-07
+C0905,Male,58,Married,Master,73715,11417,Email,Discount,0,2020-02-08,2021-01-21
+C0906,Female,58,Divorced,High School,43951,10819,Social Media,New Product,0,2021-05-30,2021-10-12
+C0907,Female,20,Single,Bachelor,20000,3211,Email,New Product,0,2022-02-11,2023-01-23
+C0908,Male,36,Single,High School,58582,3222,Social Media,Discount,0,2020-09-06,2021-03-03
+C0909,Male,60,Married,Bachelor,51499,8794,Social Media,Newsletter,1,2019-12-02,2020-04-28
+C0910,Male,49,Single,Bachelor,44237,3497,Phone,New Product,0,2021-04-10,2021-04-24
+C0911,Female,32,Single,Bachelor,73471,15407,Web Ads,Discount,0,2019-10-12,2019-12-26
+C0912,Male,40,Married,Bachelor,78123,17289,Web Ads,Discount,0,2019-05-09,2019-09-06
+C0913,Female,38,Divorced,High School,61581,9016,Social Media,Loyalty Program,0,2019-11-11,2020-05-22
+C0914,Male,38,Married,Bachelor,57262,11832,Phone,New Product,0,2021-08-17,2022-05-21
+C0915,Female,44,Single,High School,60940,4815,Web Ads,Discount,0,2019-03-12,2019-09-07
+C0916,Male,41,Single,Master,50206,7451,Email,Discount,0,2019-12-11,2020-08-20
+C0917,Male,50,Married,High School,68438,8814,Email,New Product,0,2022-01-26,2023-01-01
+C0918,Female,36,Married,Master,36909,6358,Email,Discount,1,2022-08-16,2023-01-10
+C0919,Female,42,Single,Bachelor,43903,2585,Social Media,Loyalty Program,0,2019-06-25,2019-08-01
+C0920,Male,51,Married,Bachelor,48131,9646,Phone,Newsletter,0,2021-06-02,2021-06-18
+C0921,Female,29,Single,Master,68120,4484,Social Media,Discount,0,2022-01-03,2022-12-11
+C0922,Female,29,Married,Bachelor,55462,10054,Social Media,Newsletter,1,2019-05-23,2020-04-13
+C0923,Female,55,Married,Bachelor,80405,4317,Social Media,Newsletter,0,2021-07-19,2021-09-17
+C0924,Female,27,Married,High School,72049,15589,Email,Newsletter,0,2021-11-12,2022-04-06
+C0925,Male,39,Married,Bachelor,47983,4075,Social Media,Newsletter,1,2019-06-30,2020-01-03
+C0926,Male,51,Single,High School,69501,10640,Email,Loyalty Program,1,2021-12-04,2022-04-21
+C0927,Male,69,Married,High School,53876,5511,Email,New Product,0,2023-02-01,2023-08-26
+C0928,Female,33,Married,Bachelor,67097,13052,Web Ads,New Product,0,2019-04-02,2020-01-03
+C0929,Female,69,Single,High School,72776,8316,Web Ads,New Product,0,2022-07-16,2022-11-09
+C0930,Male,47,Married,High School,76720,14954,Web Ads,Newsletter,0,2019-02-03,2019-04-01
+C0931,Male,65,Single,High School,63030,6742,Phone,Discount,0,2020-11-08,2021-04-04
+C0932,Female,43,Married,High School,84001,16841,Phone,Discount,0,2022-10-19,2023-02-08
+C0933,Female,34,Married,High School,66619,3738,Phone,Discount,0,2022-03-02,2022-04-27
+C0934,Female,41,Divorced,PhD,62025,6615,Phone,Loyalty Program,1,2021-01-28,2021-07-09
+C0935,Male,49,Single,High School,55462,8304,Phone,Loyalty Program,0,2020-01-17,2020-02-01
+C0936,Male,23,Married,Bachelor,50530,2981,Social Media,New Product,0,2021-08-23,2021-09-12
+C0937,Male,32,Married,High School,66298,5781,Social Media,Discount,0,2022-07-24,2022-08-19
+C0938,Female,42,Married,Master,61511,14572,Phone,Loyalty Program,0,2022-03-25,2022-08-24
+C0939,Male,27,Single,High School,63912,15681,Email,Discount,0,2020-01-22,2020-10-29
+C0940,Female,37,Married,PhD,67211,13304,Social Media,New Product,0,2020-06-18,2021-05-05
+C0941,Male,31,Married,Bachelor,63849,6412,Social Media,Discount,0,2019-07-19,2019-10-02
+C0942,Female,50,Single,High School,90199,9209,Email,Newsletter,0,2019-10-02,2020-09-14
+C0943,Female,33,Single,Master,52080,9330,Web Ads,New Product,0,2020-05-15,2021-04-20
+C0944,Female,53,Married,Bachelor,66484,4887,Email,New Product,0,2020-04-03,2020-12-24
+C0945,Male,37,Married,High School,56584,13561,Social Media,Loyalty Program,0,2019-02-19,2019-07-05
+C0946,Male,53,Single,Master,23077,2191,Email,New Product,0,2021-08-27,2022-01-14
+C0947,Male,30,Single,Master,57097,14270,Web Ads,Discount,0,2021-09-14,2021-10-11
+C0948,Female,60,Single,Bachelor,45952,6853,Social Media,New Product,0,2020-06-15,2021-01-17
+C0949,Female,31,Married,Bachelor,58997,12052,Social Media,Newsletter,0,2021-09-30,2022-01-06
+C0950,Female,68,Married,Master,59603,3006,Web Ads,New Product,0,2020-09-19,2021-05-29
+C0951,Female,34,Married,Bachelor,65780,14981,Social Media,Loyalty Program,1,2022-01-20,2023-01-14
+C0952,Female,50,Divorced,Master,52047,5412,Email,Newsletter,1,2023-01-19,2023-02-14
+C0953,Male,68,Married,Bachelor,53923,9899,Email,Loyalty Program,0,2019-12-05,2020-07-24
+C0954,Female,48,Single,High School,70510,14896,Phone,Loyalty Program,0,2021-12-12,2022-07-19
+C0955,Male,45,Single,Master,47864,3964,Social Media,Loyalty Program,0,2019-01-04,2019-04-22
+C0956,Male,37,Single,High School,32423,4490,Email,Newsletter,1,2019-10-08,2019-10-30
+C0957,Female,51,Divorced,High School,62355,9276,Email,Newsletter,0,2022-08-06,2023-06-30
+C0958,Male,41,Married,Bachelor,76062,8551,Email,Newsletter,0,2019-03-14,2019-12-18
+C0959,Male,57,Single,Bachelor,70337,10293,Social Media,New Product,0,2022-03-06,2022-09-18
+C0960,Female,36,Single,High School,62632,7109,Email,Discount,0,2021-02-06,2021-11-16
+C0961,Male,42,Married,Master,78759,9620,Email,Discount,0,2021-08-28,2022-01-17
+C0962,Female,43,Married,Bachelor,76230,14016,Social Media,Discount,0,2021-09-24,2021-10-17
+C0963,Male,69,Single,Bachelor,55036,9714,Phone,Newsletter,0,2022-11-17,2023-09-03
+C0964,Male,27,Divorced,Master,63712,6145,Phone,Newsletter,0,2019-07-27,2019-09-18
+C0965,Male,60,Married,Bachelor,64356,14769,Social Media,New Product,0,2019-09-17,2020-07-17
+C0966,Male,25,Single,High School,58698,13063,Phone,New Product,1,2021-07-18,2021-11-08
+C0967,Female,24,Married,High School,77013,11691,Social Media,Discount,0,2019-09-20,2019-11-30
+C0968,Male,63,Single,PhD,57717,7887,Web Ads,New Product,0,2021-02-21,2021-04-24
+C0969,Female,48,Divorced,High School,52495,6581,Email,Loyalty Program,0,2020-05-19,2021-04-02
+C0970,Female,47,Divorced,Bachelor,21126,4044,Social Media,New Product,0,2019-07-22,2019-11-26
+C0971,Female,30,Married,Bachelor,48025,8852,Social Media,Discount,0,2022-10-02,2023-08-28
+C0972,Female,20,Married,Bachelor,40268,3593,Email,New Product,0,2019-02-21,2019-07-11
+C0973,Female,62,Single,High School,59394,10945,Phone,Discount,0,2022-10-11,2023-08-15
+C0974,Male,38,Divorced,Bachelor,41194,4139,Email,Newsletter,0,2019-12-29,2020-11-08
+C0975,Male,28,Married,Bachelor,69130,3713,Social Media,Discount,0,2019-02-14,2019-09-10
+C0976,Male,46,Married,PhD,76626,14546,Social Media,Newsletter,0,2021-04-06,2021-05-21
+C0977,Female,53,Divorced,High School,59532,10653,Email,Discount,0,2022-11-02,2023-08-17
+C0978,Male,63,Divorced,Bachelor,45239,5978,Social Media,Discount,0,2021-02-27,2021-10-10
+C0979,Female,23,Married,Bachelor,64296,9974,Social Media,New Product,0,2022-12-06,2023-02-27
+C0980,Female,55,Single,Bachelor,88402,21166,Phone,Loyalty Program,0,2021-02-09,2021-12-21
+C0981,Male,37,Divorced,Bachelor,83737,14154,Phone,New Product,0,2019-05-22,2019-07-25
+C0982,Female,34,Married,High School,38908,7064,Email,Discount,0,2022-07-05,2022-07-26
+C0983,Male,70,Divorced,High School,38352,2407,Social Media,Discount,1,2021-03-07,2021-06-07
+C0984,Male,32,Married,Master,34506,2870,Web Ads,New Product,0,2019-02-06,2019-03-19
+C0985,Female,38,Single,Bachelor,42945,4732,Email,Discount,0,2019-02-14,2019-05-20
+C0986,Female,68,Single,Bachelor,63773,10068,Social Media,Discount,0,2021-07-08,2022-03-06
+C0987,Female,25,Married,High School,51649,10604,Phone,Loyalty Program,1,2021-12-05,2022-09-15
+C0988,Male,67,Married,High School,47419,5417,Social Media,Discount,0,2020-07-18,2021-02-13
+C0989,Male,31,Single,High School,75586,9166,Email,Discount,1,2019-10-28,2019-12-27
+C0990,Female,70,Married,High School,67951,6878,Social Media,Discount,0,2019-10-15,2020-09-08
+C0991,Female,56,Single,Bachelor,34429,3474,Social Media,Newsletter,0,2021-02-24,2021-11-16
+C0992,Female,36,Married,Master,74725,17917,Web Ads,Discount,0,2019-09-26,2020-06-02
+C0993,Male,42,Married,High School,67590,11969,Email,Newsletter,0,2021-03-01,2021-10-01
+C0994,Female,45,Single,Bachelor,67923,5514,Web Ads,Discount,0,2021-12-21,2022-07-14
+C0995,Male,48,Single,High School,51442,10002,Social Media,Loyalty Program,0,2020-08-03,2021-04-13
+C0996,Male,52,Single,Bachelor,57190,11117,Email,Discount,0,2022-06-19,2023-05-14
+C0997,Female,46,Married,High School,30409,5573,Social Media,New Product,0,2021-07-24,2021-08-03
+C0998,Male,44,Single,Master,73004,5617,Social Media,Loyalty Program,0,2019-12-20,2020-03-27
+C0999,Female,29,Single,Bachelor,45016,5924,Email,Loyalty Program,0,2021-08-25,2022-06-12
+C1000,Male,66,Divorced,PhD,46940,3349,Email,Loyalty Program,0,2019-03-12,2019-08-07
+C1001,Male,42,Married,Master,46737,9970,Web Ads,Loyalty Program,1,2021-04-14,2021-07-19
+C1002,Female,40,Married,Bachelor,87006,15751,Web Ads,Discount,0,2020-02-17,2020-02-28
+C1003,Female,40,Divorced,Bachelor,49969,7567,Social Media,New Product,0,2020-09-03,2021-08-27
+C1004,Female,62,Single,High School,74133,8792,Email,New Product,0,2021-12-20,2022-06-15
+C1005,Female,32,Married,Bachelor,59640,5179,Phone,Newsletter,0,2020-09-06,2021-01-12
+C1006,Female,56,Married,Master,47563,3390,Social Media,Discount,0,2023-01-15,2023-04-14
+C1007,Female,52,Married,High School,44843,10934,Email,Newsletter,1,2022-11-17,2023-03-17
+C1008,Female,43,Single,Master,50567,4547,Web Ads,New Product,0,2020-06-12,2020-12-03
+C1009,Male,63,Married,Bachelor,58883,3649,Email,Loyalty Program,1,2022-08-21,2023-04-06
+C1010,Female,30,Married,Master,69026,16727,Social Media,Discount,0,2019-07-10,2019-07-24
+C1011,Male,36,Married,Master,52935,8458,Social Media,New Product,1,2019-03-19,2019-10-29
+C1012,Female,23,Single,Bachelor,52373,10963,Social Media,Loyalty Program,0,2021-06-07,2021-12-28
+C1013,Female,66,Single,Bachelor,46782,2748,Email,New Product,0,2022-08-17,2023-06-04
+C1014,Male,44,Single,Bachelor,42089,6876,Phone,Newsletter,0,2021-08-06,2021-08-21
+C1015,Female,49,Single,Master,40834,5293,Web Ads,Loyalty Program,0,2019-01-17,2019-11-22
+C1016,Female,28,Married,PhD,74820,15292,Social Media,New Product,0,2021-03-25,2021-05-31
+C1017,Male,40,Single,Master,52067,3003,Social Media,Newsletter,0,2020-03-09,2021-02-18
+C1018,Female,39,Married,Bachelor,53395,6959,Email,Loyalty Program,0,2021-12-02,2022-10-09
+C1019,Female,38,Single,Bachelor,50000,10490,Web Ads,New Product,1,2021-12-27,2022-04-17
+C1020,Male,38,Single,Master,55247,8537,Web Ads,Discount,0,2022-11-04,2022-12-31
+C1021,Female,31,Married,Bachelor,65566,10491,Phone,Discount,0,2019-07-31,2020-05-11
+C1022,Male,56,Single,Master,52696,3658,Social Media,Loyalty Program,0,2019-07-22,2020-01-10
+C1023,Female,61,Married,Bachelor,62711,4795,Web Ads,Newsletter,0,2020-12-26,2021-12-02
+C1024,Female,36,Married,High School,81273,15068,Email,Discount,0,2019-04-19,2019-11-10
+C1025,Female,56,Single,Bachelor,47705,8825,Social Media,Discount,1,2021-08-25,2022-07-24
+C1026,Female,67,Single,Bachelor,53407,13128,Social Media,New Product,0,2019-10-11,2020-02-29
+C1027,Female,58,Single,High School,69615,13393,Social Media,Discount,1,2021-07-29,2021-10-12
+C1028,Female,47,Single,High School,82459,12257,Web Ads,Loyalty Program,0,2022-06-02,2022-09-02
+C1029,Male,60,Single,Bachelor,41365,9160,Phone,Loyalty Program,0,2021-01-06,2021-10-07
+C1030,Female,54,Single,High School,34487,2444,Email,Discount,0,2022-02-15,2022-10-11
+C1031,Male,66,Single,Bachelor,59990,8390,Social Media,Newsletter,1,2021-07-20,2022-04-28
+C1032,Female,67,Married,Master,58441,6277,Social Media,New Product,0,2020-08-25,2021-04-10
+C1033,Male,37,Married,PhD,70502,5000,Social Media,New Product,1,2022-09-25,2023-05-17
+C1034,Male,33,Married,Master,68213,13826,Email,Discount,0,2022-07-28,2022-11-27
+C1035,Male,54,Single,PhD,59490,9051,Email,New Product,0,2020-05-05,2020-10-01
+C1036,Female,63,Single,Bachelor,75738,12220,Phone,Newsletter,0,2019-01-19,2019-08-01
+C1037,Male,60,Married,High School,49784,6583,Web Ads,Discount,0,2022-04-13,2022-10-12
+C1038,Female,26,Married,Bachelor,63173,8974,Web Ads,Discount,0,2023-02-01,2023-02-21
+C1039,Male,60,Married,Master,41764,3057,Web Ads,Discount,1,2021-03-11,2021-08-26
+C1040,Male,32,Single,Bachelor,59368,10958,Phone,Discount,1,2021-01-29,2021-08-31
+C1041,Female,37,Married,High School,38083,5197,Email,Discount,0,2022-03-11,2022-11-05
+C1042,Female,56,Married,Master,43262,9230,Web Ads,Discount,1,2023-01-26,2023-03-02
+C1043,Male,32,Single,High School,85641,7644,Social Media,Newsletter,0,2021-07-17,2022-06-10
+C1044,Female,55,Married,Bachelor,32631,2969,Phone,Loyalty Program,0,2019-10-25,2020-04-10
+C1045,Female,50,Married,High School,56750,10166,Social Media,Discount,0,2023-02-02,2023-11-16
+C1046,Female,21,Single,Bachelor,72408,15871,Web Ads,Loyalty Program,0,2020-12-05,2021-05-11
+C1047,Male,35,Single,Bachelor,93320,13479,Social Media,Discount,0,2021-03-25,2021-12-25
+C1048,Male,28,Married,High School,62656,12242,Email,New Product,0,2021-03-13,2021-06-13
+C1049,Female,28,Divorced,Bachelor,63513,15869,Social Media,Discount,0,2020-01-08,2020-02-12
+C1050,Male,57,Single,Bachelor,60595,15030,Email,Discount,0,2023-01-31,2023-04-21
+C1051,Female,30,Single,Master,75858,15085,Web Ads,Newsletter,0,2021-07-16,2021-08-31
+C1052,Female,41,Single,Master,66475,13156,Social Media,Discount,1,2021-08-08,2021-12-28
+C1053,Female,52,Married,Bachelor,51373,5112,Social Media,Loyalty Program,0,2023-01-01,2023-05-16
+C1054,Female,55,Single,Master,76732,16628,Web Ads,New Product,0,2021-04-23,2021-08-25
+C1055,Female,64,Divorced,Bachelor,53067,6952,Social Media,Discount,0,2021-08-04,2021-11-13
+C1056,Male,42,Single,Bachelor,36022,8731,Social Media,Loyalty Program,0,2020-03-18,2020-11-24
+C1057,Female,64,Single,High School,36070,2390,Email,New Product,1,2023-01-19,2023-08-16
+C1058,Male,64,Married,Bachelor,56983,7816,Social Media,Discount,1,2022-06-25,2023-01-27
+C1059,Female,53,Married,Bachelor,61545,9919,Web Ads,Discount,0,2019-05-22,2019-09-25
+C1060,Female,28,Married,High School,74334,9740,Phone,Discount,0,2020-02-06,2020-09-21
+C1061,Female,43,Married,Bachelor,69612,6412,Web Ads,Newsletter,0,2021-04-02,2022-02-10
+C1062,Female,27,Divorced,Master,61197,10317,Email,New Product,0,2019-08-10,2020-04-18
+C1063,Female,26,Single,Bachelor,75172,15123,Email,Discount,0,2021-01-06,2021-11-03
+C1064,Male,55,Married,High School,60191,10772,Email,Newsletter,0,2022-04-22,2023-02-07
+C1065,Male,37,Single,Bachelor,40642,3937,Phone,Discount,1,2022-10-19,2023-08-25
+C1066,Female,22,Married,Bachelor,37373,7337,Email,Discount,1,2021-09-20,2022-08-12
+C1067,Male,47,Married,Bachelor,79180,8027,Email,Discount,0,2022-04-26,2022-10-24
+C1068,Male,25,Single,Bachelor,26321,2238,Social Media,New Product,0,2019-04-23,2019-07-17
+C1069,Male,63,Married,Bachelor,56988,10721,Social Media,Discount,1,2022-04-19,2022-11-23
+C1070,Male,63,Single,Master,104726,22888,Phone,New Product,0,2022-05-07,2023-03-26
+C1071,Male,40,Single,High School,66888,9786,Social Media,Newsletter,0,2021-12-29,2022-04-22
+C1072,Male,47,Married,PhD,56871,8887,Social Media,Discount,0,2020-08-20,2020-09-24
+C1073,Male,59,Single,Bachelor,34733,3839,Social Media,Discount,0,2021-06-22,2022-06-17
+C1074,Male,20,Married,High School,84260,12548,Web Ads,Discount,0,2020-04-29,2020-07-26
+C1075,Female,55,Single,Bachelor,78207,5974,Social Media,New Product,0,2022-11-23,2023-04-09
+C1076,Male,40,Single,High School,70271,16946,Social Media,Newsletter,1,2020-07-04,2020-11-27
+C1077,Male,62,Single,High School,59991,12602,Social Media,Discount,0,2021-10-30,2022-10-08
+C1078,Female,54,Single,Bachelor,68580,12590,Email,Discount,0,2019-01-03,2019-02-17
+C1079,Male,32,Married,Master,57770,9106,Web Ads,Discount,0,2020-10-23,2020-12-30
+C1080,Female,68,Married,Master,45401,9463,Email,Discount,0,2019-03-08,2019-11-02
+C1081,Female,29,Divorced,Bachelor,74345,11073,Web Ads,Loyalty Program,1,2020-12-05,2021-04-17
+C1082,Male,63,Married,High School,59240,6516,Email,Discount,0,2022-01-25,2022-05-02
+C1083,Male,66,Single,Bachelor,67829,5567,Web Ads,Discount,0,2022-09-03,2023-08-15
+C1084,Female,29,Married,Bachelor,58183,10444,Phone,New Product,1,2019-04-08,2019-09-05
+C1085,Female,65,Single,Master,66927,15787,Social Media,Discount,0,2021-12-16,2022-09-24
+C1086,Female,32,Single,Master,59782,4825,Phone,New Product,1,2022-02-04,2022-04-05
+C1087,Female,56,Married,Master,58611,5040,Social Media,Discount,0,2019-03-29,2019-06-01
+C1088,Male,57,Single,Bachelor,60449,8264,Social Media,Newsletter,0,2021-08-29,2022-08-10
+C1089,Female,43,Single,Bachelor,104413,22070,Email,Discount,1,2020-10-14,2021-03-22
+C1090,Male,21,Divorced,High School,72036,7836,Social Media,Newsletter,0,2020-10-17,2021-03-28
+C1091,Female,41,Married,PhD,98790,9956,Phone,Discount,0,2021-06-30,2022-02-13
+C1092,Female,36,Married,High School,59878,10418,Email,Loyalty Program,0,2020-01-06,2020-08-21
+C1093,Female,55,Single,High School,55364,8698,Web Ads,Discount,0,2020-01-10,2020-12-26
+C1094,Female,33,Single,High School,43887,2722,Social Media,Loyalty Program,1,2019-02-21,2019-11-15
+C1095,Male,29,Married,Master,84048,5572,Social Media,Discount,0,2019-02-10,2019-04-05
+C1096,Male,54,Single,Bachelor,46422,8291,Web Ads,New Product,0,2021-03-26,2021-12-29
+C1097,Male,44,Married,Bachelor,87143,12463,Phone,Loyalty Program,0,2019-04-01,2020-02-15
+C1098,Male,22,Single,PhD,44757,10929,Social Media,New Product,0,2019-02-08,2019-07-27
+C1099,Female,66,Married,Master,73299,13612,Phone,New Product,1,2021-11-02,2022-08-16
+C1100,Male,57,Single,Bachelor,36134,1879,Web Ads,Discount,0,2021-06-18,2022-06-07
+C1101,Male,36,Married,High School,53370,7802,Email,Discount,1,2020-09-12,2020-11-15
+C1102,Female,31,Married,Master,60331,8017,Social Media,New Product,0,2019-04-14,2019-09-15
+C1103,Female,43,Married,Master,51037,3641,Social Media,Discount,0,2021-01-12,2021-09-13
+C1104,Female,48,Single,Bachelor,57460,13482,Email,Discount,1,2019-02-12,2019-08-19
+C1105,Female,62,Married,Bachelor,57531,12139,Email,Discount,0,2019-07-28,2020-03-01
+C1106,Male,44,Married,High School,72104,6923,Social Media,Discount,0,2020-08-22,2021-01-14
+C1107,Male,55,Single,Master,28698,2904,Social Media,New Product,0,2020-08-27,2021-08-24
+C1108,Female,45,Married,Bachelor,51556,2907,Web Ads,New Product,0,2020-04-20,2021-01-29
+C1109,Female,57,Single,Bachelor,78819,8618,Phone,Newsletter,0,2019-04-19,2020-03-16
+C1110,Male,20,Single,High School,68437,11423,Social Media,Discount,0,2019-08-02,2020-02-10
+C1111,Female,39,Married,Master,79069,10608,Email,Newsletter,0,2020-02-13,2020-04-23
+C1112,Male,47,Single,Bachelor,71381,17406,Email,Loyalty Program,0,2021-02-09,2021-04-22
+C1113,Male,35,Married,High School,43747,2678,Social Media,Newsletter,0,2020-09-24,2021-05-06
+C1114,Female,66,Single,Bachelor,69913,11765,Social Media,Loyalty Program,0,2019-03-18,2019-08-13
+C1115,Female,36,Married,Bachelor,61502,13632,Email,Loyalty Program,0,2019-04-05,2019-08-26
+C1116,Female,59,Divorced,Bachelor,94020,13740,Social Media,Discount,0,2019-09-26,2019-11-08
+C1117,Male,47,Married,Master,72032,3644,Web Ads,Discount,0,2019-12-27,2020-07-16
+C1118,Female,31,Single,Bachelor,67850,6687,Phone,Discount,1,2020-06-13,2021-06-12
+C1119,Male,46,Single,Master,70041,8037,Phone,Newsletter,0,2020-11-13,2021-10-08
+C1120,Male,61,Married,High School,67032,16302,Phone,Newsletter,1,2019-06-11,2019-09-15
+C1121,Female,66,Single,High School,66627,15481,Email,Loyalty Program,0,2020-04-09,2020-11-14
+C1122,Female,49,Single,High School,56005,13431,Email,Newsletter,0,2021-04-02,2021-07-01
+C1123,Female,60,Married,Bachelor,68032,14637,Web Ads,Newsletter,0,2020-07-01,2021-05-28
+C1124,Female,53,Married,Bachelor,74227,8931,Phone,New Product,1,2022-04-25,2023-04-08
+C1125,Female,56,Divorced,Master,75904,17547,Social Media,New Product,0,2019-02-21,2019-09-08
+C1126,Female,25,Single,Master,74086,18250,Email,New Product,1,2020-05-02,2021-04-24
+C1127,Male,26,Single,Bachelor,82620,9915,Social Media,New Product,0,2022-11-20,2023-07-20
+C1128,Male,51,Single,PhD,76843,7846,Email,Discount,0,2019-04-02,2019-09-27
+C1129,Male,51,Divorced,High School,69427,11065,Email,New Product,1,2020-10-12,2021-06-29
+C1130,Male,44,Married,Master,42845,3745,Social Media,Loyalty Program,0,2019-12-23,2020-06-17
+C1131,Female,52,Married,Bachelor,42850,2422,Social Media,New Product,0,2020-12-19,2021-08-16
+C1132,Female,26,Divorced,Bachelor,56277,13459,Email,Newsletter,0,2022-03-13,2022-08-19
+C1133,Male,31,Married,Master,60701,14273,Email,Discount,1,2019-07-18,2019-12-26
+C1134,Male,35,Married,Bachelor,80970,6682,Phone,Discount,0,2021-03-25,2021-05-11
+C1135,Female,35,Single,High School,20000,2630,Social Media,Loyalty Program,0,2022-09-08,2023-07-11
+C1136,Male,62,Married,Bachelor,44501,9621,Social Media,Loyalty Program,0,2022-09-17,2023-06-28
+C1137,Female,55,Married,Bachelor,57086,10401,Social Media,Discount,0,2022-07-11,2022-11-02
+C1138,Female,32,Married,Master,45047,5809,Web Ads,New Product,0,2019-08-05,2020-07-27
+C1139,Female,26,Divorced,Bachelor,48028,9549,Email,New Product,0,2020-07-09,2021-07-05
+C1140,Female,55,Divorced,Master,52512,12046,Email,Newsletter,0,2022-12-28,2023-03-09
+C1141,Female,66,Married,Bachelor,45812,10776,Social Media,New Product,0,2021-03-13,2021-04-07
+C1142,Male,70,Married,Bachelor,48413,6088,Email,Discount,0,2023-01-23,2024-01-17
+C1143,Female,28,Married,Master,80448,6814,Social Media,New Product,0,2020-12-01,2021-05-09
+C1144,Female,51,Single,Bachelor,69214,16096,Social Media,Newsletter,0,2020-05-17,2020-10-15
+C1145,Male,30,Single,PhD,71459,4895,Web Ads,Loyalty Program,0,2020-04-13,2020-08-16
+C1146,Female,27,Married,Bachelor,59488,11560,Web Ads,Loyalty Program,0,2020-01-01,2020-11-17
+C1147,Female,52,Married,Bachelor,75166,5870,Web Ads,Discount,1,2022-06-16,2022-08-29
+C1148,Female,42,Single,High School,72716,9298,Email,Newsletter,0,2020-09-15,2021-07-31
+C1149,Female,44,Divorced,Bachelor,68978,9126,Web Ads,Loyalty Program,0,2021-07-08,2022-01-27
+C1150,Female,27,Single,High School,50187,4102,Email,Loyalty Program,0,2020-07-14,2021-06-30
+C1151,Female,64,Single,Master,53369,12516,Social Media,Discount,0,2021-04-02,2021-09-19
+C1152,Female,41,Married,High School,75871,3834,Phone,Newsletter,0,2021-08-24,2022-07-05
+C1153,Female,23,Single,High School,52248,11952,Email,New Product,1,2020-10-24,2021-08-07
+C1154,Female,59,Single,High School,40672,9223,Social Media,Newsletter,0,2021-01-20,2021-11-21
+C1155,Female,22,Single,High School,51959,5891,Email,Discount,0,2022-11-20,2023-01-07
+C1156,Female,48,Married,Bachelor,83391,15915,Email,Discount,0,2022-11-19,2023-05-16
+C1157,Male,60,Married,Master,51974,5226,Web Ads,Discount,1,2022-01-03,2022-03-21
+C1158,Female,48,Married,Master,64914,13096,Email,New Product,0,2022-01-26,2022-02-11
+C1159,Female,53,Married,Master,50764,8235,Email,New Product,0,2020-01-18,2020-04-21
+C1160,Male,53,Single,Master,71451,7862,Social Media,New Product,0,2022-10-25,2023-05-21
+C1161,Female,47,Divorced,High School,68051,8849,Web Ads,New Product,0,2022-08-01,2022-12-20
+C1162,Male,32,Single,Master,37632,7073,Email,Loyalty Program,0,2022-07-03,2022-09-26
+C1163,Male,34,Divorced,High School,64020,14802,Social Media,Discount,0,2019-11-05,2020-07-21
+C1164,Female,42,Married,Bachelor,34761,2646,Web Ads,Discount,0,2019-06-25,2020-06-15
+C1165,Male,63,Divorced,Bachelor,51688,8490,Email,Newsletter,0,2019-08-16,2020-03-21
+C1166,Female,45,Single,High School,59828,6027,Social Media,New Product,0,2019-12-13,2020-03-15
+C1167,Female,23,Married,Master,87702,18441,Phone,New Product,0,2022-09-27,2023-05-17
+C1168,Female,45,Single,Bachelor,64768,4148,Social Media,New Product,1,2022-06-16,2023-03-05
+C1169,Male,59,Single,Master,48493,9106,Web Ads,New Product,0,2021-10-17,2021-11-26
+C1170,Male,28,Married,Bachelor,55241,4694,Email,Discount,0,2019-12-16,2020-12-14
+C1171,Female,24,Single,High School,73862,12503,Web Ads,New Product,0,2020-03-30,2020-10-26
+C1172,Female,51,Married,Master,48697,10573,Web Ads,Newsletter,1,2020-03-16,2020-05-16
+C1173,Female,39,Single,High School,76454,15368,Email,New Product,0,2021-01-30,2021-04-21
+C1174,Male,69,Single,Bachelor,52154,10461,Email,Discount,1,2020-05-29,2020-06-28
+C1175,Female,30,Married,High School,46270,7105,Web Ads,Loyalty Program,0,2022-01-09,2022-02-03
+C1176,Female,34,Married,Bachelor,52634,12008,Social Media,Discount,0,2022-10-16,2022-11-10
+C1177,Female,51,Married,Bachelor,35755,5993,Social Media,Discount,0,2019-10-15,2020-04-16
+C1178,Male,47,Married,Bachelor,27411,6400,Social Media,Newsletter,0,2019-01-08,2019-11-25
+C1179,Female,41,Married,PhD,58761,9360,Phone,Discount,0,2019-03-28,2020-03-09
+C1180,Female,60,Single,Master,58990,8918,Web Ads,Newsletter,0,2021-09-24,2021-12-20
+C1181,Female,36,Married,Master,63846,6031,Email,New Product,0,2019-10-13,2020-06-18
+C1182,Male,45,Divorced,Master,58687,9328,Email,Loyalty Program,0,2022-11-23,2023-01-08
+C1183,Female,63,Married,High School,94938,7416,Web Ads,New Product,0,2019-03-15,2019-11-11
+C1184,Female,26,Married,Bachelor,62526,14001,Web Ads,Discount,0,2023-01-02,2023-08-12
+C1185,Male,61,Married,High School,39353,7287,Social Media,Loyalty Program,1,2022-02-20,2022-09-10
+C1186,Female,45,Married,High School,43201,10745,Web Ads,Newsletter,0,2022-11-01,2023-01-09
+C1187,Female,44,Married,PhD,60004,4105,Phone,Loyalty Program,0,2021-03-16,2021-09-30
+C1188,Male,29,Single,Bachelor,53468,5247,Email,New Product,0,2022-03-12,2022-12-13
+C1189,Male,64,Single,Bachelor,41572,9371,Web Ads,Newsletter,0,2019-06-07,2019-10-20
+C1190,Female,38,Married,High School,59117,7629,Social Media,Discount,1,2020-03-05,2020-10-03
+C1191,Male,30,Single,Bachelor,59336,8500,Email,Discount,0,2023-01-11,2023-12-08
+C1192,Female,32,Married,High School,83935,18644,Social Media,Discount,0,2022-12-04,2023-01-14
+C1193,Male,27,Single,High School,46258,7140,Phone,Loyalty Program,0,2022-10-26,2023-09-12
+C1194,Female,59,Married,High School,53734,4765,Web Ads,Loyalty Program,0,2022-02-06,2022-11-03
+C1195,Male,23,Single,Bachelor,83889,19160,Email,New Product,0,2021-04-25,2022-04-15
+C1196,Female,66,Single,Bachelor,64928,3649,Email,Newsletter,1,2019-02-05,2019-05-19
+C1197,Female,50,Divorced,High School,46170,10576,Social Media,Loyalty Program,0,2022-01-18,2022-12-21
+C1198,Female,47,Married,Master,49279,2961,Web Ads,Discount,0,2021-10-17,2022-02-03
+C1199,Female,30,Married,High School,41787,7654,Phone,Discount,0,2021-08-31,2022-06-21
+C1200,Male,62,Married,Bachelor,61159,3934,Social Media,Newsletter,0,2022-12-09,2023-10-29
+C1201,Female,20,Married,PhD,75467,14432,Social Media,Discount,0,2021-10-14,2021-11-17
+C1202,Male,68,Married,Bachelor,84463,4797,Email,New Product,0,2022-08-12,2023-08-09
+C1203,Male,66,Married,Master,37705,8238,Social Media,Discount,0,2020-12-13,2021-04-18
+C1204,Male,57,Single,Master,73036,10457,Email,Discount,0,2021-12-05,2022-07-01
+C1205,Female,43,Married,Bachelor,62464,4290,Web Ads,New Product,0,2020-05-02,2021-02-14
+C1206,Female,66,Married,Master,56071,10729,Email,Discount,0,2020-09-10,2020-11-28
+C1207,Female,50,Divorced,Master,53739,7945,Phone,Newsletter,0,2019-06-19,2020-05-28
+C1208,Male,60,Single,Bachelor,31186,2750,Email,New Product,1,2019-05-26,2019-08-22
+C1209,Male,65,Married,High School,69569,3696,Social Media,Loyalty Program,0,2021-05-17,2022-05-15
+C1210,Female,69,Married,Master,40217,5372,Email,Loyalty Program,1,2020-02-24,2020-03-18
+C1211,Male,45,Married,Master,48777,3274,Social Media,Loyalty Program,0,2020-07-26,2020-09-02
+C1212,Female,68,Single,High School,66269,4561,Email,Newsletter,0,2021-10-23,2022-03-25
+C1213,Male,69,Married,Bachelor,32750,3388,Phone,Discount,0,2022-07-10,2023-06-27
+C1214,Female,24,Single,Master,40188,7076,Social Media,Discount,0,2021-03-09,2021-03-28
+C1215,Female,39,Single,Bachelor,78279,12210,Phone,Discount,0,2019-11-17,2020-01-12
+C1216,Male,60,Married,Bachelor,61830,3944,Social Media,Newsletter,1,2019-09-03,2020-05-29
+C1217,Male,30,Married,Master,50066,12200,Social Media,Newsletter,0,2020-04-21,2020-05-12
+C1218,Female,52,Married,Bachelor,61889,14075,Social Media,Discount,0,2022-07-06,2023-05-09
+C1219,Female,69,Divorced,Bachelor,70042,7133,Web Ads,Loyalty Program,0,2022-01-21,2022-09-13
+C1220,Male,57,Single,Master,76871,5724,Social Media,Discount,0,2021-02-21,2021-11-17
+C1221,Female,46,Single,Master,43313,10329,Email,Discount,0,2020-06-16,2020-09-17
+C1222,Male,53,Married,Bachelor,44627,6347,Web Ads,Loyalty Program,0,2022-09-24,2023-09-16
+C1223,Male,34,Single,Bachelor,69125,7758,Email,Discount,0,2022-07-07,2023-06-29
+C1224,Female,51,Single,Bachelor,69606,10306,Web Ads,New Product,0,2019-08-25,2019-09-09
+C1225,Male,40,Single,PhD,39840,8149,Email,Loyalty Program,0,2022-03-10,2022-11-21
+C1226,Female,65,Single,High School,45190,3781,Phone,Loyalty Program,0,2021-09-01,2021-10-15
+C1227,Male,24,Married,High School,57093,11618,Email,New Product,0,2020-11-09,2021-05-12
+C1228,Male,25,Single,Bachelor,60353,12063,Web Ads,New Product,0,2020-08-01,2020-10-14
+C1229,Female,57,Married,Master,60778,9595,Social Media,New Product,1,2022-10-05,2023-03-10
+C1230,Male,41,Single,High School,39610,8839,Social Media,Discount,0,2019-05-10,2019-07-15
+C1231,Female,37,Married,High School,60627,4633,Email,Loyalty Program,0,2019-01-11,2019-08-01
+C1232,Male,33,Single,High School,49239,8326,Social Media,Discount,0,2019-09-14,2019-10-06
+C1233,Male,29,Married,Master,42505,5945,Phone,Discount,0,2021-03-26,2021-04-22
+C1234,Male,65,Married,High School,59835,8045,Social Media,New Product,0,2020-01-04,2020-09-15
+C1235,Female,32,Single,Bachelor,58305,5860,Email,Newsletter,1,2021-08-01,2022-01-20
+C1236,Male,50,Married,Bachelor,72025,8963,Social Media,Discount,0,2022-11-18,2023-11-05
+C1237,Female,49,Single,Master,47085,3372,Social Media,Discount,0,2022-12-13,2023-04-15
+C1238,Female,22,Married,Bachelor,63527,6373,Email,Discount,0,2021-05-31,2022-03-18
+C1239,Female,49,Single,High School,36469,3807,Email,Discount,0,2019-01-19,2019-09-18
+C1240,Male,25,Divorced,Bachelor,55877,10847,Phone,New Product,0,2019-04-20,2019-10-12
+C1241,Female,48,Single,PhD,66955,3997,Web Ads,Discount,1,2022-12-31,2023-11-27
+C1242,Female,27,Married,Bachelor,68220,12295,Email,Loyalty Program,0,2020-05-19,2020-06-23
+C1243,Female,63,Single,PhD,68322,6441,Phone,Loyalty Program,0,2021-11-23,2022-04-07
+C1244,Female,64,Single,Master,72065,4783,Email,Loyalty Program,1,2022-08-04,2023-06-22
+C1245,Female,62,Married,High School,53313,5873,Social Media,New Product,0,2021-09-29,2022-07-16
+C1246,Female,63,Divorced,Bachelor,67435,6399,Social Media,Discount,0,2019-09-12,2020-07-03
+C1247,Male,52,Single,High School,88031,14120,Email,Discount,0,2020-09-29,2021-07-18
+C1248,Male,36,Single,Bachelor,52993,6437,Social Media,New Product,0,2019-05-14,2019-10-09
+C1249,Female,67,Single,High School,80702,19626,Web Ads,Discount,0,2020-05-13,2020-08-31
+C1250,Female,30,Single,Bachelor,73147,17753,Web Ads,Loyalty Program,1,2020-02-01,2020-02-21
+C1251,Female,32,Single,Master,56005,7770,Email,Discount,1,2020-10-08,2021-05-21
+C1252,Female,69,Married,High School,57256,11967,Email,Discount,0,2020-11-15,2020-12-24
+C1253,Male,30,Single,Master,61776,3252,Web Ads,Discount,0,2022-05-21,2022-09-01
+C1254,Male,50,Single,High School,72302,11536,Email,Discount,1,2022-10-05,2023-02-07
+C1255,Female,47,Married,High School,66039,13119,Phone,Newsletter,0,2019-01-19,2019-10-26
+C1256,Male,63,Single,Master,52875,4937,Email,Discount,0,2021-10-07,2022-08-03
+C1257,Male,25,Single,Bachelor,28769,1790,Social Media,Newsletter,0,2019-04-29,2019-06-16
+C1258,Female,60,Single,Master,70082,5689,Email,New Product,0,2019-10-29,2019-12-01
+C1259,Male,35,Married,High School,31012,4291,Web Ads,Newsletter,1,2022-08-01,2023-05-01
+C1260,Female,23,Single,Bachelor,39510,5976,Web Ads,New Product,0,2019-08-15,2019-10-06
+C1261,Male,54,Married,Master,53962,6808,Email,Newsletter,0,2022-05-20,2022-11-15
+C1262,Female,67,Single,Bachelor,41788,5766,Web Ads,Discount,0,2019-12-22,2020-12-05
+C1263,Male,45,Married,Bachelor,64762,9328,Social Media,New Product,0,2020-12-01,2021-05-28
+C1264,Female,31,Single,PhD,55557,11327,Email,Discount,0,2020-05-01,2021-03-09
+C1265,Male,30,Married,Bachelor,71778,5099,Phone,New Product,0,2022-09-06,2022-10-11
+C1266,Male,56,Married,Master,35884,7312,Social Media,New Product,1,2019-08-11,2020-02-16
+C1267,Male,44,Married,Master,50071,9399,Email,New Product,0,2022-04-29,2022-10-05
+C1268,Female,37,Single,Master,60062,11912,Email,Discount,1,2021-09-21,2022-02-10
+C1269,Female,38,Single,High School,60640,11939,Web Ads,Discount,0,2020-05-14,2020-10-13
+C1270,Male,42,Single,Bachelor,70410,10147,Web Ads,Loyalty Program,0,2022-06-14,2022-12-04
+C1271,Female,57,Single,Master,46281,4270,Web Ads,New Product,0,2021-11-11,2022-03-01
+C1272,Female,37,Single,High School,52979,8334,Email,Discount,0,2022-09-12,2022-11-23
+C1273,Female,45,Married,High School,67610,16334,Phone,Newsletter,0,2022-02-24,2022-06-06
+C1274,Male,25,Single,Bachelor,27021,4531,Email,Newsletter,0,2019-12-31,2020-08-03
+C1275,Female,23,Married,High School,65774,3434,Web Ads,Newsletter,0,2021-12-03,2022-10-19
+C1276,Male,63,Married,Master,71459,4426,Email,Loyalty Program,0,2020-06-02,2020-08-22
+C1277,Male,70,Married,Master,39995,9941,Social Media,Discount,0,2022-02-25,2022-05-05
+C1278,Female,48,Single,Bachelor,55274,3559,Social Media,Newsletter,0,2022-02-27,2022-04-06
+C1279,Male,53,Married,High School,82389,4878,Web Ads,New Product,0,2020-06-12,2020-07-10
+C1280,Female,36,Single,Master,69897,8429,Phone,Discount,0,2022-09-06,2022-11-27
+C1281,Female,62,Married,Bachelor,66704,16266,Social Media,Loyalty Program,0,2019-07-05,2020-03-16
+C1282,Female,62,Married,PhD,74864,8514,Social Media,Discount,0,2021-03-08,2022-01-24
+C1283,Female,35,Married,Bachelor,87068,11490,Web Ads,New Product,0,2021-09-08,2022-08-07
+C1284,Male,21,Married,Bachelor,60278,10658,Email,Discount,0,2019-12-14,2020-03-19
+C1285,Male,53,Single,Bachelor,53892,2954,Web Ads,New Product,0,2021-07-10,2022-01-18
+C1286,Female,27,Single,PhD,74828,17176,Web Ads,New Product,0,2021-07-09,2022-01-31
+C1287,Male,32,Married,Bachelor,57188,8800,Email,New Product,0,2021-08-14,2022-04-24
+C1288,Male,61,Single,Bachelor,46079,6605,Email,Discount,0,2019-12-27,2020-11-28
+C1289,Male,27,Married,High School,51899,11529,Social Media,New Product,0,2022-08-03,2022-12-08
+C1290,Male,49,Single,Master,64684,15563,Email,New Product,0,2019-07-01,2019-09-30
+C1291,Male,51,Single,Master,53256,7172,Social Media,Discount,0,2023-01-14,2023-09-27
+C1292,Male,55,Single,Bachelor,54375,4594,Phone,Newsletter,0,2019-04-07,2019-12-06
+C1293,Female,66,Single,Bachelor,44590,9503,Social Media,New Product,0,2020-07-16,2020-12-25
+C1294,Female,49,Married,High School,81530,10652,Email,Newsletter,0,2019-11-10,2020-08-17
+C1295,Female,20,Married,High School,54860,13007,Phone,Discount,0,2021-08-12,2021-09-25
+C1296,Male,62,Married,High School,49327,11837,Phone,Discount,0,2019-01-21,2019-08-31
+C1297,Male,58,Married,High School,50923,3715,Web Ads,Discount,0,2021-03-15,2021-10-21
+C1298,Male,36,Married,Bachelor,72037,17383,Email,New Product,0,2020-07-29,2020-12-24
+C1299,Female,39,Married,High School,68597,8482,Phone,Discount,0,2020-02-07,2020-08-23
+C1300,Female,43,Single,High School,52472,9405,Web Ads,New Product,1,2022-02-21,2022-12-27
+C1301,Male,69,Married,Master,60484,3444,Social Media,Discount,0,2020-09-04,2021-05-23
+C1302,Female,41,Single,Bachelor,64150,14611,Social Media,Discount,0,2022-02-16,2022-07-25
+C1303,Male,48,Single,Bachelor,49438,8815,Email,New Product,0,2021-08-27,2022-08-12
+C1304,Female,41,Married,Bachelor,36890,6592,Web Ads,Newsletter,0,2020-11-23,2021-07-09
+C1305,Female,63,Single,Bachelor,67725,15606,Social Media,Discount,0,2021-08-16,2021-11-15
+C1306,Female,28,Single,High School,50268,7624,Web Ads,Loyalty Program,0,2021-05-21,2021-12-06
+C1307,Female,56,Single,Master,66605,8798,Web Ads,Loyalty Program,1,2021-04-19,2021-12-18
+C1308,Female,29,Single,High School,64815,14468,Social Media,New Product,0,2019-04-13,2019-10-15
+C1309,Male,55,Divorced,Bachelor,60836,12074,Social Media,Newsletter,0,2019-11-29,2020-07-27
+C1310,Female,56,Single,Bachelor,53608,12854,Email,Newsletter,0,2023-01-22,2023-04-04
+C1311,Male,47,Single,Master,50491,12018,Email,Discount,0,2022-02-27,2022-10-31
+C1312,Female,47,Married,Bachelor,42923,5428,Phone,Loyalty Program,1,2021-01-22,2021-03-05
+C1313,Female,61,Single,Bachelor,50778,7078,Phone,Loyalty Program,0,2019-05-14,2019-12-22
+C1314,Female,62,Divorced,High School,68532,6935,Social Media,New Product,0,2022-03-26,2022-06-03
+C1315,Female,40,Single,Bachelor,80967,14746,Web Ads,Discount,0,2020-02-29,2020-03-11
+C1316,Female,43,Married,PhD,78766,9681,Email,Newsletter,0,2022-12-29,2023-03-05
+C1317,Female,61,Married,Master,62181,12885,Social Media,Loyalty Program,1,2022-11-13,2023-09-19
+C1318,Female,59,Divorced,High School,80959,6016,Social Media,Discount,1,2021-07-25,2022-05-17
+C1319,Male,21,Married,Bachelor,55397,4059,Social Media,Discount,0,2022-09-03,2023-01-28
+C1320,Male,27,Married,Master,40634,3693,Web Ads,Newsletter,0,2020-05-19,2021-03-03
+C1321,Male,67,Single,Bachelor,88813,5937,Phone,Discount,1,2021-05-20,2021-12-29
+C1322,Male,46,Single,Bachelor,67992,11831,Social Media,Loyalty Program,0,2019-07-09,2020-03-13
+C1323,Female,41,Single,Master,36980,2938,Social Media,Discount,0,2020-09-03,2021-06-24
+C1324,Male,56,Married,Master,83385,6836,Email,Discount,0,2022-12-05,2023-01-14
+C1325,Female,46,Single,Bachelor,48848,2581,Social Media,Discount,0,2019-02-21,2019-09-24
+C1326,Male,48,Single,Bachelor,52111,10756,Phone,Discount,0,2023-01-09,2023-10-19
+C1327,Male,22,Single,Bachelor,75320,16002,Web Ads,Discount,1,2020-09-03,2020-09-23
+C1328,Female,63,Single,Master,80425,6627,Web Ads,New Product,0,2023-01-07,2023-03-04
+C1329,Female,32,Single,High School,44988,8903,Social Media,New Product,0,2022-11-06,2022-11-18
+C1330,Female,64,Divorced,High School,82064,11218,Social Media,Discount,0,2020-01-09,2020-05-27
+C1331,Female,29,Married,Bachelor,73113,7159,Email,Loyalty Program,0,2020-01-10,2020-03-31
+C1332,Female,55,Married,High School,48003,8365,Email,New Product,0,2020-01-24,2020-07-10
+C1333,Male,28,Married,Bachelor,56311,4825,Social Media,New Product,0,2020-11-04,2021-03-23
+C1334,Female,46,Single,Bachelor,82742,16662,Social Media,New Product,0,2021-03-14,2021-04-14
+C1335,Female,53,Single,Bachelor,36591,2178,Email,New Product,0,2020-02-08,2020-07-01
+C1336,Female,70,Single,Bachelor,80710,19517,Social Media,Newsletter,0,2020-08-15,2020-09-13
+C1337,Male,20,Single,Master,72696,4679,Phone,Loyalty Program,0,2023-01-31,2023-09-17
+C1338,Female,51,Married,High School,67637,11220,Email,Discount,0,2021-01-01,2021-12-09
+C1339,Male,44,Single,Master,61975,14281,Phone,Loyalty Program,0,2020-05-19,2020-10-05
+C1340,Male,48,Single,Master,89552,4690,Email,Discount,1,2019-03-24,2019-05-04
+C1341,Male,26,Married,Bachelor,91768,13737,Social Media,Discount,0,2019-11-15,2020-02-22
+C1342,Female,68,Divorced,Bachelor,50771,6092,Web Ads,New Product,0,2021-12-26,2022-09-20
+C1343,Female,22,Married,Master,69183,11488,Social Media,Loyalty Program,0,2020-02-18,2020-12-21
+C1344,Female,39,Married,High School,88115,8378,Web Ads,Discount,0,2020-03-28,2021-03-05
+C1345,Female,39,Married,Bachelor,48224,3037,Email,Newsletter,0,2021-01-15,2021-09-30
+C1346,Male,49,Single,Bachelor,63647,11150,Social Media,Discount,0,2019-07-17,2020-01-15
+C1347,Male,54,Married,High School,75058,10010,Social Media,Discount,0,2019-09-16,2019-11-11
+C1348,Male,54,Single,Master,29776,5195,Phone,Newsletter,0,2019-10-25,2020-05-18
+C1349,Female,68,Married,Master,72428,6671,Web Ads,New Product,1,2022-07-27,2022-09-08
+C1350,Male,58,Married,Master,43673,5142,Phone,Loyalty Program,0,2019-10-27,2020-07-16
+C1351,Female,46,Single,High School,62884,10208,Phone,Loyalty Program,0,2019-05-09,2020-01-21
+C1352,Female,45,Married,High School,77165,13011,Email,Newsletter,0,2020-05-12,2020-07-02
+C1353,Male,33,Divorced,Bachelor,24162,3007,Social Media,Discount,0,2020-03-13,2021-01-05
+C1354,Female,36,Single,High School,71787,7610,Social Media,Discount,0,2022-08-08,2022-12-18
+C1355,Female,37,Married,Bachelor,90574,9486,Social Media,Loyalty Program,0,2019-07-26,2019-08-31
+C1356,Female,64,Single,Bachelor,52000,4416,Web Ads,New Product,0,2019-10-21,2019-12-28
+C1357,Female,48,Married,Bachelor,68650,7900,Email,New Product,0,2019-01-29,2019-07-04
+C1358,Male,39,Married,Bachelor,80029,7193,Social Media,Discount,0,2019-06-28,2019-10-30
+C1359,Male,46,Married,Bachelor,36105,6382,Social Media,Discount,0,2019-02-10,2019-09-06
+C1360,Female,37,Divorced,High School,71360,11689,Web Ads,New Product,0,2023-02-02,2023-06-19
+C1361,Female,23,Married,Bachelor,75356,9533,Web Ads,Discount,0,2022-04-30,2022-10-09
+C1362,Male,20,Married,Bachelor,69579,8013,Social Media,Discount,1,2019-12-10,2020-09-15
+C1363,Female,69,Single,Bachelor,61299,5978,Email,Discount,0,2021-03-26,2022-03-09
+C1364,Female,20,Divorced,Master,44993,7068,Social Media,Discount,0,2021-01-06,2021-04-08
+C1365,Female,45,Single,Master,80871,18906,Social Media,Loyalty Program,0,2020-09-17,2020-10-19
+C1366,Male,64,Married,PhD,60517,11325,Web Ads,Loyalty Program,0,2019-10-05,2019-10-25
+C1367,Female,39,Single,High School,46441,9236,Social Media,Discount,0,2022-10-10,2023-04-24
+C1368,Female,42,Single,High School,55229,11977,Social Media,Discount,0,2020-06-12,2020-10-15
+C1369,Male,29,Married,Bachelor,65525,7884,Social Media,New Product,0,2019-03-27,2019-09-14
+C1370,Male,30,Single,Master,36582,2289,Social Media,Discount,0,2019-11-13,2020-03-04
+C1371,Female,60,Single,Bachelor,60268,10517,Web Ads,Loyalty Program,0,2020-11-23,2021-08-02
+C1372,Male,60,Single,Master,53746,4715,Email,Loyalty Program,0,2022-09-22,2022-10-08
+C1373,Female,24,Single,Bachelor,80040,13111,Social Media,Newsletter,0,2021-05-12,2021-11-09
+C1374,Female,20,Single,Master,31876,6308,Web Ads,New Product,0,2022-03-14,2022-12-04
+C1375,Male,36,Single,Master,74081,15314,Email,Discount,0,2019-11-11,2020-07-24
+C1376,Female,41,Married,High School,81256,8968,Phone,New Product,1,2019-08-13,2020-03-01
+C1377,Male,53,Single,Bachelor,32443,4947,Social Media,Discount,1,2022-12-17,2023-04-19
+C1378,Female,64,Married,Bachelor,34242,5964,Social Media,Discount,0,2021-12-13,2022-01-14
+C1379,Male,60,Single,High School,86788,18563,Email,Discount,0,2019-03-09,2020-01-26
+C1380,Female,48,Divorced,Bachelor,46434,9392,Social Media,New Product,0,2022-09-19,2023-07-01
+C1381,Male,23,Married,Bachelor,106422,26349,Social Media,Discount,0,2021-10-17,2022-03-11
+C1382,Male,24,Single,High School,32912,1698,Email,Discount,1,2022-01-05,2022-07-28
+C1383,Female,30,Married,Bachelor,62550,8600,Social Media,New Product,0,2021-05-05,2022-01-27
+C1384,Male,70,Married,Bachelor,59649,6037,Email,Newsletter,0,2022-03-24,2023-01-05
+C1385,Female,40,Divorced,High School,56877,4207,Phone,Discount,1,2021-12-31,2022-03-20
+C1386,Male,54,Married,Bachelor,66944,15551,Web Ads,New Product,0,2023-01-10,2023-02-24
+C1387,Female,31,Single,High School,67809,16924,Email,Discount,0,2022-10-14,2023-02-08
+C1388,Male,45,Married,Master,57485,4950,Email,Newsletter,0,2022-07-24,2022-08-26
+C1389,Female,70,Married,High School,44787,2583,Web Ads,Discount,0,2021-06-01,2021-10-28
+C1390,Female,38,Married,Master,75716,7951,Social Media,Newsletter,0,2022-08-29,2022-09-29
+C1391,Male,64,Single,Bachelor,69420,15062,Email,Discount,0,2022-02-02,2023-01-16
+C1392,Male,26,Married,High School,61718,6713,Social Media,Loyalty Program,0,2021-08-28,2022-08-01
+C1393,Male,66,Divorced,Bachelor,68945,4231,Email,Discount,0,2022-01-23,2022-08-24
+C1394,Female,26,Single,Bachelor,71534,4327,Email,Discount,1,2022-05-27,2023-01-15
+C1395,Male,45,Single,Bachelor,48574,6581,Web Ads,Discount,0,2022-02-25,2022-10-15
+C1396,Female,59,Single,Bachelor,68410,16169,Phone,Discount,0,2019-07-19,2019-10-17
+C1397,Male,24,Married,Bachelor,51704,5541,Phone,Loyalty Program,0,2019-11-28,2020-11-01
+C1398,Male,40,Married,High School,72030,9755,Email,New Product,0,2020-06-30,2021-01-16
+C1399,Female,33,Married,High School,57114,4020,Email,New Product,0,2022-08-08,2023-05-30
+C1400,Female,23,Married,Master,69175,10287,Web Ads,Newsletter,1,2019-03-07,2019-08-10
+C1401,Male,42,Married,Bachelor,53493,10126,Email,New Product,0,2020-12-31,2021-10-18
+C1402,Male,61,Single,Bachelor,69955,7291,Social Media,Newsletter,0,2020-07-21,2020-08-10
+C1403,Male,39,Married,Master,45318,4955,Email,Discount,0,2020-10-18,2021-07-30
+C1404,Female,34,Married,Bachelor,60542,13222,Social Media,Newsletter,1,2020-02-08,2020-04-13
+C1405,Female,69,Divorced,Master,74709,3890,Email,Discount,0,2020-09-09,2021-03-10
+C1406,Female,64,Divorced,Bachelor,67008,11880,Social Media,New Product,1,2020-08-18,2021-06-26
+C1407,Female,48,Divorced,High School,62880,8097,Web Ads,New Product,0,2020-10-09,2021-05-10
+C1408,Female,27,Married,Master,87053,9547,Social Media,New Product,0,2019-05-26,2020-05-14
+C1409,Female,60,Married,Bachelor,75354,13678,Email,New Product,1,2021-01-30,2021-10-14
+C1410,Female,67,Married,Master,72833,15799,Phone,Discount,0,2022-11-26,2023-10-15
+C1411,Male,38,Divorced,High School,69870,11296,Email,Newsletter,0,2019-05-05,2020-02-04
+C1412,Male,67,Single,Bachelor,71740,4033,Social Media,Newsletter,0,2022-09-17,2022-10-18
+C1413,Male,58,Single,Master,84856,12073,Social Media,Newsletter,0,2020-04-24,2021-03-26
+C1414,Male,65,Single,High School,53734,7659,Email,Newsletter,0,2021-09-28,2021-10-31
+C1415,Female,47,Married,Master,75141,11929,Social Media,Loyalty Program,0,2020-12-12,2021-07-03
+C1416,Female,65,Single,Bachelor,65347,12036,Phone,Newsletter,0,2020-12-15,2021-03-30
+C1417,Male,46,Single,Bachelor,54253,2922,Web Ads,Newsletter,0,2022-11-22,2023-08-21
+C1418,Male,23,Single,Bachelor,58504,8799,Social Media,New Product,0,2021-03-25,2021-06-14
+C1419,Female,34,Single,Master,63287,10610,Email,Loyalty Program,0,2021-11-19,2022-07-29
+C1420,Female,54,Married,High School,47100,5589,Social Media,Newsletter,0,2019-02-25,2019-04-13
+C1421,Male,56,Single,High School,72960,13400,Social Media,Loyalty Program,0,2019-05-12,2019-08-18
+C1422,Female,20,Married,Master,58457,5590,Social Media,New Product,0,2019-08-19,2019-09-25
+C1423,Male,22,Married,Master,61273,6952,Social Media,Discount,0,2020-01-30,2020-05-10
+C1424,Male,66,Married,High School,80358,19490,Social Media,Loyalty Program,0,2022-03-21,2022-05-23
+C1425,Female,43,Single,Bachelor,61946,7409,Email,Newsletter,0,2021-09-08,2022-02-23
+C1426,Female,46,Divorced,Bachelor,83290,9936,Email,Discount,1,2021-08-20,2022-04-14
+C1427,Male,59,Married,Bachelor,52127,8816,Social Media,Discount,0,2021-07-21,2021-09-09
+C1428,Female,55,Divorced,High School,43543,10632,Social Media,Discount,0,2022-11-10,2022-12-26
+C1429,Female,53,Divorced,Bachelor,55650,13724,Web Ads,New Product,0,2021-06-26,2021-11-07
+C1430,Female,48,Single,High School,20000,3318,Social Media,Discount,0,2020-06-16,2020-12-21
+C1431,Female,43,Single,Master,73586,3695,Web Ads,New Product,0,2021-08-22,2022-07-29
+C1432,Female,43,Single,Master,44416,10221,Web Ads,Newsletter,0,2020-03-23,2020-05-08
+C1433,Female,61,Married,Bachelor,50734,8322,Web Ads,Loyalty Program,0,2019-05-06,2019-08-24
+C1434,Female,23,Single,High School,70744,8715,Email,Discount,0,2020-07-08,2020-08-17
+C1435,Male,22,Single,High School,61786,13335,Web Ads,Newsletter,0,2020-11-24,2021-06-11
+C1436,Male,53,Married,Bachelor,53391,6939,Email,New Product,0,2020-05-03,2020-10-05
+C1437,Male,68,Single,Master,29451,1673,Email,Discount,0,2020-09-03,2020-12-11
+C1438,Female,42,Single,Bachelor,79512,17032,Social Media,New Product,1,2021-06-09,2021-06-24
+C1439,Male,42,Married,Bachelor,70846,11276,Email,Loyalty Program,0,2020-03-21,2020-08-16
+C1440,Female,64,Single,Bachelor,90835,10684,Email,Loyalty Program,0,2023-02-02,2023-05-17
+C1441,Female,24,Single,Bachelor,51054,5114,Email,Newsletter,0,2022-10-04,2023-02-09
+C1442,Male,50,Married,High School,38183,6443,Email,Discount,0,2020-05-22,2020-09-28
+C1443,Female,60,Married,High School,74921,6863,Phone,Discount,0,2020-04-01,2020-08-11
+C1444,Male,25,Married,High School,57179,6562,Email,Discount,0,2021-09-12,2022-07-03
+C1445,Female,56,Married,Bachelor,69422,12308,Social Media,Loyalty Program,0,2020-01-20,2020-07-26
+C1446,Male,29,Married,Master,84298,19077,Web Ads,Loyalty Program,1,2020-12-12,2021-11-11
+C1447,Female,59,Married,Master,65822,10306,Social Media,New Product,0,2021-07-17,2021-08-02
+C1448,Female,26,Married,High School,62509,12615,Social Media,Discount,0,2023-01-11,2023-11-28
+C1449,Female,58,Married,High School,63450,12855,Web Ads,Newsletter,1,2022-02-12,2022-06-28
+C1450,Female,57,Married,High School,35441,6481,Email,Newsletter,0,2020-03-27,2020-06-21
+C1451,Female,40,Married,Bachelor,76620,7598,Social Media,Discount,0,2020-10-15,2021-06-15
+C1452,Female,39,Single,Bachelor,77581,17328,Web Ads,Loyalty Program,0,2022-02-16,2023-01-09
+C1453,Female,22,Single,Bachelor,67958,9327,Web Ads,New Product,0,2022-01-21,2022-04-14
+C1454,Female,70,Single,High School,37268,2192,Social Media,Discount,0,2020-06-04,2021-03-11
+C1455,Male,41,Divorced,High School,58182,5755,Email,Discount,1,2020-06-21,2021-05-05
+C1456,Female,66,Married,High School,81577,16569,Web Ads,Discount,0,2022-12-27,2023-05-05
+C1457,Female,23,Married,High School,51513,3287,Email,Discount,0,2019-05-25,2019-07-08
+C1458,Female,47,Single,Master,77763,6180,Social Media,New Product,0,2021-12-27,2022-07-31
+C1459,Male,31,Married,High School,60826,11486,Social Media,Discount,0,2020-11-30,2021-09-05
+C1460,Female,57,Single,Bachelor,70687,16153,Social Media,Discount,0,2019-05-11,2019-08-21
+C1461,Male,70,Single,Bachelor,53817,9511,Phone,New Product,0,2021-01-02,2021-07-07
+C1462,Female,55,Single,Master,61265,5786,Web Ads,Discount,0,2022-07-28,2023-05-07
+C1463,Male,66,Married,Master,66550,4038,Phone,Loyalty Program,0,2020-05-27,2020-12-01
+C1464,Female,60,Married,Master,43751,7570,Email,New Product,0,2020-10-01,2021-02-16
+C1465,Female,24,Married,High School,64108,3813,Social Media,New Product,0,2019-01-01,2019-05-15
+C1466,Male,32,Single,Bachelor,20000,3450,Phone,Newsletter,1,2020-03-07,2020-04-12
+C1467,Female,42,Married,Master,50977,4848,Social Media,Discount,0,2020-01-26,2020-04-08
+C1468,Male,69,Married,High School,68158,15739,Web Ads,New Product,0,2022-07-13,2022-09-20
+C1469,Female,49,Single,Bachelor,76803,11137,Web Ads,Discount,0,2020-02-03,2020-09-18
+C1470,Female,56,Married,Master,67091,6359,Social Media,Newsletter,0,2021-03-18,2021-10-30
+C1471,Female,44,Married,Bachelor,39145,8636,Email,Loyalty Program,0,2022-07-03,2022-12-28
+C1472,Female,67,Married,High School,75492,7610,Phone,Discount,0,2020-01-30,2020-07-06
+C1473,Female,46,Married,High School,42912,4776,Web Ads,Loyalty Program,0,2021-08-09,2022-05-15
+C1474,Male,70,Married,Bachelor,69212,15009,Social Media,Discount,0,2019-06-23,2019-10-26
+C1475,Male,33,Single,High School,43412,4851,Web Ads,Newsletter,0,2021-12-04,2022-08-15
+C1476,Female,67,Married,Bachelor,48401,6390,Social Media,Discount,0,2021-05-04,2021-10-08
+C1477,Female,66,Single,Master,45654,5457,Social Media,Loyalty Program,0,2022-03-10,2022-06-19
+C1478,Female,55,Single,High School,62084,4549,Social Media,Discount,0,2020-06-22,2020-09-24
+C1479,Female,58,Single,Master,57066,3297,Phone,New Product,0,2021-01-14,2021-04-20
+C1480,Male,35,Married,Bachelor,67633,13182,Web Ads,Newsletter,0,2020-12-21,2021-04-29
+C1481,Female,41,Married,High School,59720,10691,Email,Newsletter,0,2019-02-19,2020-02-03
+C1482,Male,40,Single,Master,37231,3964,Email,Discount,0,2021-12-20,2022-01-22
+C1483,Female,40,Married,Master,64137,6998,Phone,New Product,0,2019-08-31,2019-12-07
+C1484,Male,27,Divorced,Bachelor,33567,8022,Email,Discount,0,2022-07-16,2022-08-31
+C1485,Male,68,Single,Master,46742,11570,Social Media,New Product,0,2022-03-09,2023-02-23
+C1486,Male,35,Single,Master,54541,7891,Email,Discount,1,2022-03-26,2022-12-31
+C1487,Male,50,Married,Master,53501,11261,Email,Discount,0,2020-08-19,2020-09-09
+C1488,Female,61,Single,Bachelor,35288,6963,Phone,New Product,0,2019-10-03,2020-01-15
+C1489,Male,29,Married,Master,80567,8819,Phone,Discount,1,2021-11-20,2021-12-30
+C1490,Male,51,Single,PhD,84720,5228,Email,New Product,0,2019-01-08,2020-01-02
+C1491,Male,53,Married,Master,93761,7361,Email,Discount,0,2020-12-15,2021-08-14
+C1492,Male,28,Married,High School,77214,16806,Email,Discount,0,2019-02-02,2020-01-17
+C1493,Male,36,Married,Bachelor,54068,10610,Social Media,Loyalty Program,0,2021-03-20,2022-02-20
+C1494,Male,30,Married,Bachelor,53809,9839,Email,Discount,0,2023-01-15,2023-11-20
+C1495,Female,51,Married,High School,52981,4033,Social Media,Discount,0,2023-01-12,2023-11-03
+C1496,Female,29,Married,PhD,89784,15980,Phone,New Product,0,2021-07-16,2021-08-29
+C1497,Female,41,Married,High School,58266,11911,Phone,New Product,0,2021-05-11,2021-06-10
+C1498,Female,36,Single,High School,79038,17555,Email,Loyalty Program,0,2019-02-06,2019-06-06
+C1499,Male,23,Married,Master,77871,4099,Phone,Discount,0,2019-02-03,2019-12-28
+C1500,Female,67,Single,Bachelor,62843,11745,Web Ads,Discount,0,2020-03-30,2021-03-22
+C1501,Female,66,Married,High School,38225,2057,Social Media,Newsletter,0,2020-03-19,2020-08-20
+C1502,Female,44,Single,Bachelor,58591,11212,Social Media,Newsletter,1,2022-06-14,2022-07-05
+C1503,Male,40,Married,Bachelor,62204,11017,Social Media,Discount,1,2019-07-31,2020-04-09
+C1504,Male,56,Single,High School,79168,6307,Email,New Product,0,2022-03-09,2022-08-11
+C1505,Male,57,Married,PhD,60291,12252,Phone,Discount,0,2020-12-02,2021-08-07
+C1506,Male,68,Married,Bachelor,41870,2665,Web Ads,Discount,0,2020-08-30,2020-12-09
+C1507,Female,20,Single,Bachelor,74818,16106,Social Media,Discount,0,2021-09-08,2022-07-30
+C1508,Female,44,Married,Bachelor,56586,5793,Phone,New Product,0,2019-12-27,2020-11-23
+C1509,Female,70,Single,Bachelor,21821,4097,Phone,Discount,0,2019-10-31,2020-03-03
+C1510,Female,55,Married,High School,64874,15228,Email,Newsletter,0,2019-10-23,2019-11-16
+C1511,Female,36,Married,High School,67511,7963,Email,New Product,0,2019-06-01,2020-03-08
+C1512,Female,60,Single,Bachelor,47355,7130,Web Ads,Discount,0,2022-05-31,2022-07-01
+C1513,Female,43,Divorced,Master,57119,8146,Web Ads,Loyalty Program,0,2022-05-04,2022-09-08
+C1514,Male,21,Single,High School,69865,5695,Phone,Discount,0,2020-08-22,2020-12-04
+C1515,Male,59,Single,Bachelor,64976,10920,Web Ads,New Product,0,2022-08-15,2023-05-08
+C1516,Male,34,Divorced,Master,36560,7260,Social Media,Discount,0,2019-07-30,2020-07-04
+C1517,Female,51,Single,High School,78803,18390,Email,Discount,0,2019-08-20,2020-05-17
+C1518,Female,58,Divorced,High School,85594,18844,Social Media,Discount,0,2021-05-19,2021-08-23
+C1519,Male,25,Divorced,Bachelor,52347,7956,Email,Discount,0,2020-11-25,2021-10-18
+C1520,Female,20,Single,Bachelor,31351,6075,Web Ads,Discount,0,2020-01-02,2020-03-09
+C1521,Male,66,Married,High School,71566,15040,Web Ads,Discount,0,2020-04-25,2020-12-20
+C1522,Female,42,Single,Bachelor,49903,7420,Web Ads,Newsletter,0,2020-07-25,2020-11-19
+C1523,Male,58,Married,Bachelor,68031,4972,Social Media,Discount,0,2022-04-17,2022-05-15
+C1524,Male,36,Single,Bachelor,93032,12799,Email,Discount,0,2021-07-18,2021-12-15
+C1525,Female,53,Single,High School,36805,8041,Email,Newsletter,0,2021-11-05,2022-04-23
+C1526,Male,60,Single,Bachelor,48050,8136,Social Media,New Product,0,2020-04-10,2020-07-28
+C1527,Male,48,Married,Master,57082,11124,Phone,New Product,0,2022-11-26,2023-08-27
+C1528,Male,28,Divorced,Master,79375,6909,Social Media,Discount,0,2019-10-21,2020-06-24
+C1529,Female,32,Married,Master,113334,27525,Web Ads,Loyalty Program,0,2019-06-20,2020-02-22
+C1530,Female,25,Married,Bachelor,63706,8333,Web Ads,Discount,0,2021-11-21,2022-01-18
+C1531,Male,25,Married,Bachelor,35516,6418,Email,Loyalty Program,0,2019-09-20,2020-03-12
+C1532,Female,39,Married,Bachelor,54817,2947,Email,Newsletter,0,2022-05-23,2023-03-15
+C1533,Female,22,Single,High School,48377,3650,Phone,New Product,1,2020-07-11,2020-09-17
+C1534,Male,36,Married,High School,70823,14618,Email,Discount,0,2019-07-08,2020-01-16
+C1535,Male,68,Divorced,Bachelor,65653,15992,Phone,New Product,0,2021-02-24,2021-07-30
+C1536,Male,31,Single,High School,44372,5058,Social Media,New Product,0,2020-08-05,2021-06-11
+C1537,Male,67,Married,High School,47497,2728,Email,New Product,0,2021-09-28,2022-01-11
+C1538,Female,66,Married,PhD,54599,6670,Social Media,New Product,0,2020-08-22,2020-10-13
+C1539,Male,64,Divorced,High School,56409,3017,Social Media,Loyalty Program,0,2021-04-25,2022-04-23
+C1540,Female,20,Married,High School,59367,5252,Web Ads,New Product,0,2022-07-08,2023-03-31
+C1541,Female,36,Single,High School,60733,12176,Email,Newsletter,0,2022-04-20,2022-11-28
+C1542,Male,22,Single,Bachelor,78522,18642,Web Ads,Loyalty Program,0,2019-12-08,2020-06-23
+C1543,Female,45,Single,Bachelor,54056,3648,Phone,Discount,0,2021-08-11,2021-12-29
+C1544,Male,34,Married,Bachelor,51846,8377,Phone,Loyalty Program,0,2019-01-22,2020-01-13
+C1545,Female,55,Single,Bachelor,39918,4022,Email,Discount,0,2022-01-02,2022-11-07
+C1546,Female,51,Married,Master,56642,4407,Social Media,Loyalty Program,0,2019-06-15,2020-04-08
+C1547,Female,51,Single,Master,63842,5988,Social Media,Discount,0,2019-08-22,2020-01-15
+C1548,Female,23,Single,PhD,34138,5651,Social Media,New Product,0,2022-10-30,2022-12-08
+C1549,Male,37,Married,Master,54863,3457,Phone,Loyalty Program,1,2022-12-27,2023-05-31
+C1550,Female,68,Married,Bachelor,77404,10592,Social Media,Discount,0,2020-10-02,2021-08-19
+C1551,Female,38,Single,High School,69724,5371,Web Ads,Loyalty Program,1,2022-09-19,2023-01-11
+C1552,Female,62,Married,High School,65601,6857,Email,New Product,0,2020-08-29,2021-06-21
+C1553,Female,54,Married,High School,69318,6110,Web Ads,Discount,0,2020-06-23,2021-01-09
+C1554,Female,59,Single,Bachelor,51394,11645,Email,New Product,0,2021-11-24,2022-05-30
+C1555,Male,33,Single,Master,49396,9464,Web Ads,Newsletter,0,2023-01-07,2023-12-27
+C1556,Male,52,Married,Bachelor,79078,17689,Web Ads,Discount,0,2022-06-08,2023-02-11
+C1557,Female,33,Married,High School,72429,9176,Social Media,Loyalty Program,0,2019-11-14,2019-11-24
+C1558,Male,53,Single,Bachelor,48805,5499,Social Media,Loyalty Program,0,2019-12-09,2020-04-06
+C1559,Female,23,Married,Master,31819,4012,Phone,Newsletter,0,2022-12-24,2023-12-06
+C1560,Female,43,Divorced,Bachelor,49117,2638,Email,Loyalty Program,0,2021-09-05,2022-06-16
+C1561,Male,48,Married,Master,68153,13285,Social Media,New Product,0,2020-09-28,2021-05-29
+C1562,Male,38,Married,Master,50126,6012,Social Media,Newsletter,0,2023-01-29,2023-04-12
+C1563,Female,25,Married,Master,64951,7317,Web Ads,Loyalty Program,0,2019-03-20,2019-11-28
+C1564,Male,52,Divorced,Master,81296,13790,Web Ads,Loyalty Program,0,2021-06-11,2021-08-12
+C1565,Female,68,Married,Master,58604,8043,Phone,Discount,0,2020-07-26,2021-04-23
+C1566,Male,59,Married,High School,63509,15633,Phone,Discount,0,2020-03-24,2020-04-19
+C1567,Female,38,Married,High School,70273,8520,Phone,New Product,0,2019-10-09,2020-08-15
+C1568,Male,20,Married,Bachelor,43768,7562,Social Media,New Product,0,2020-11-05,2021-07-06
+C1569,Female,24,Single,High School,48404,5437,Social Media,Discount,0,2019-02-26,2019-05-19
+C1570,Female,46,Married,PhD,70892,17589,Social Media,Discount,0,2019-07-10,2019-10-18
+C1571,Female,35,Married,High School,60554,8418,Web Ads,New Product,0,2020-10-05,2020-10-20
+C1572,Male,25,Married,Master,61826,10932,Phone,Discount,0,2023-01-26,2023-08-21
+C1573,Female,59,Married,Bachelor,60499,4558,Social Media,Discount,0,2019-02-11,2019-09-04
+C1574,Female,32,Married,Bachelor,74674,14681,Phone,Discount,0,2022-04-11,2023-02-10
+C1575,Male,67,Single,Master,66535,6909,Social Media,Loyalty Program,0,2020-11-09,2021-10-31
+C1576,Male,54,Married,Bachelor,66732,9323,Phone,New Product,0,2022-06-27,2023-05-24
+C1577,Male,38,Married,Bachelor,78332,17752,Social Media,Discount,0,2020-05-16,2020-10-09
+C1578,Female,31,Single,High School,84098,20529,Email,Discount,1,2022-05-01,2023-02-01
+C1579,Female,35,Single,Bachelor,93653,12635,Social Media,New Product,0,2021-02-28,2021-07-03
+C1580,Female,62,Divorced,High School,51314,11133,Phone,Loyalty Program,0,2021-01-19,2021-03-12
+C1581,Male,29,Single,Bachelor,97041,5887,Social Media,Loyalty Program,0,2021-01-11,2021-09-08
+C1582,Male,44,Single,Bachelor,43548,9559,Social Media,Discount,0,2019-06-14,2019-08-20
+C1583,Female,39,Divorced,Master,89028,15660,Phone,New Product,0,2021-01-24,2021-08-27
+C1584,Female,50,Married,Master,50490,7459,Phone,Newsletter,0,2019-03-31,2020-01-28
+C1585,Female,23,Married,Bachelor,58965,13443,Web Ads,Discount,1,2021-09-13,2021-12-25
+C1586,Male,63,Married,Bachelor,60278,13204,Social Media,New Product,0,2021-12-17,2022-01-31
+C1587,Female,42,Single,Master,46995,5140,Web Ads,Discount,0,2022-07-10,2023-03-06
+C1588,Male,21,Married,Bachelor,61300,12768,Social Media,Discount,0,2020-10-09,2021-06-02
+C1589,Male,41,Married,Bachelor,47769,3338,Phone,Discount,0,2021-01-19,2021-07-30
+C1590,Female,70,Married,Bachelor,41475,8898,Phone,New Product,0,2021-03-29,2021-12-25
+C1591,Female,56,Married,Master,59419,10997,Email,Discount,0,2019-08-31,2020-01-18
+C1592,Female,27,Married,Bachelor,83848,5665,Email,Discount,0,2020-10-24,2021-01-06
+C1593,Male,26,Married,Bachelor,56189,10485,Phone,Discount,0,2021-05-07,2021-11-18
+C1594,Male,33,Married,Bachelor,74115,12310,Social Media,Discount,0,2019-08-07,2019-12-11
+C1595,Female,22,Married,Bachelor,47315,7991,Phone,New Product,1,2019-01-09,2019-07-23
+C1596,Female,69,Married,High School,40747,4407,Social Media,Discount,0,2020-03-05,2020-12-13
+C1597,Male,35,Married,Bachelor,66807,6901,Social Media,Discount,0,2019-01-13,2019-06-22
+C1598,Male,38,Married,Master,86334,17483,Email,Loyalty Program,0,2021-06-25,2022-06-21
+C1599,Male,70,Married,PhD,63134,6399,Phone,New Product,0,2021-08-27,2022-02-03
+C1600,Female,37,Married,Bachelor,72399,10081,Email,New Product,1,2022-06-02,2022-07-17
+C1601,Male,35,Married,Bachelor,82426,15575,Phone,Discount,0,2020-11-20,2021-10-21
+C1602,Male,27,Married,High School,59452,3919,Social Media,New Product,0,2021-12-26,2022-04-09
+C1603,Male,52,Divorced,Master,57719,9749,Phone,Discount,0,2020-11-07,2021-03-30
+C1604,Male,68,Married,Master,67081,11261,Email,Discount,0,2019-07-03,2019-12-21
+C1605,Male,31,Married,High School,69750,13032,Email,Loyalty Program,0,2021-10-01,2021-11-23
+C1606,Female,30,Married,High School,39015,4837,Phone,Newsletter,0,2019-07-27,2020-05-31
+C1607,Male,24,Divorced,Master,64435,9007,Social Media,New Product,0,2020-06-11,2021-03-30
+C1608,Female,46,Married,Bachelor,59989,6958,Email,Discount,0,2022-08-16,2023-04-22
+C1609,Male,31,Married,Bachelor,48157,10191,Web Ads,Newsletter,0,2021-03-28,2021-05-28
+C1610,Female,36,Married,High School,58952,4487,Email,Discount,1,2021-09-29,2022-07-16
+C1611,Female,25,Married,High School,42520,10314,Social Media,Newsletter,1,2022-06-18,2022-09-09
+C1612,Female,52,Single,Bachelor,37336,6607,Email,Discount,0,2020-03-30,2021-01-28
+C1613,Female,24,Married,Master,61002,13870,Social Media,Discount,0,2021-06-20,2022-02-22
+C1614,Male,47,Divorced,Bachelor,73531,9944,Social Media,New Product,0,2019-09-01,2020-02-24
+C1615,Male,33,Married,Bachelor,54790,6380,Email,Newsletter,0,2021-02-09,2021-07-08
+C1616,Female,24,Married,High School,45589,10492,Phone,Newsletter,1,2019-08-26,2020-01-21
+C1617,Female,52,Divorced,Bachelor,47920,3343,Social Media,New Product,0,2022-06-23,2023-02-22
+C1618,Female,69,Married,High School,68234,5009,Phone,Loyalty Program,0,2019-12-11,2019-12-23
+C1619,Female,67,Married,Bachelor,85010,9339,Email,New Product,1,2019-11-06,2020-07-28
+C1620,Female,60,Married,Master,71556,17313,Social Media,Loyalty Program,0,2022-07-31,2023-05-14
+C1621,Female,38,Married,High School,79511,14042,Email,Loyalty Program,0,2019-02-07,2019-02-20
+C1622,Male,41,Single,High School,44285,7122,Phone,Discount,0,2019-02-01,2019-11-07
+C1623,Female,24,Married,High School,58891,11252,Social Media,Discount,0,2022-06-20,2023-01-27
+C1624,Female,21,Married,Bachelor,75280,10049,Web Ads,Newsletter,0,2019-10-19,2020-05-31
+C1625,Male,49,Single,Master,39012,7865,Social Media,Newsletter,0,2019-10-19,2020-07-24
+C1626,Female,66,Married,High School,50124,6448,Phone,Discount,0,2021-01-27,2021-02-21
+C1627,Male,58,Married,Master,74130,15958,Social Media,Discount,0,2022-11-06,2023-01-18
+C1628,Female,23,Single,High School,63876,6608,Email,Newsletter,0,2020-07-31,2021-04-05
+C1629,Male,52,Married,Master,45523,4803,Email,New Product,0,2022-03-07,2022-04-01
+C1630,Female,32,Single,Bachelor,35537,5489,Social Media,New Product,0,2022-05-08,2022-07-08
+C1631,Female,39,Married,Bachelor,80059,10900,Social Media,Discount,0,2022-09-20,2022-10-18
+C1632,Male,26,Married,Bachelor,29199,5244,Email,Newsletter,0,2020-08-27,2021-07-27
+C1633,Female,34,Married,Bachelor,69485,8536,Phone,Discount,1,2020-03-22,2020-07-02
+C1634,Female,42,Single,Master,52004,4998,Social Media,Discount,0,2022-10-03,2023-06-30
+C1635,Female,33,Single,Master,75706,10898,Social Media,Discount,1,2019-10-05,2020-08-07
+C1636,Male,42,Single,Bachelor,44367,7195,Email,Newsletter,0,2021-09-20,2021-10-16
+C1637,Male,38,Married,High School,99221,7790,Social Media,Loyalty Program,0,2020-06-15,2020-10-13
+C1638,Male,48,Single,High School,66034,10654,Email,Loyalty Program,0,2022-11-23,2023-10-26
+C1639,Female,39,Married,Master,68506,7799,Email,Discount,0,2022-11-15,2023-02-26
+C1640,Female,48,Single,Bachelor,48404,6219,Phone,Newsletter,0,2021-09-10,2021-09-29
+C1641,Female,43,Married,Bachelor,57999,6139,Social Media,Loyalty Program,0,2020-08-24,2021-04-02
+C1642,Female,37,Single,Bachelor,58388,13796,Social Media,Loyalty Program,0,2020-07-15,2021-03-18
+C1643,Female,29,Single,Master,86941,16229,Email,Newsletter,0,2021-10-30,2022-07-20
+C1644,Female,60,Married,Bachelor,66008,6765,Social Media,Discount,1,2020-08-13,2020-09-07
+C1645,Male,27,Single,Master,68157,12200,Email,New Product,0,2019-02-28,2019-07-31
+C1646,Female,45,Single,Master,67989,14938,Social Media,Newsletter,1,2022-01-16,2022-03-08
+C1647,Male,48,Married,Bachelor,69429,9048,Social Media,Loyalty Program,0,2020-04-03,2020-04-15
+C1648,Female,29,Married,High School,39158,8457,Social Media,New Product,0,2019-04-14,2019-09-26
+C1649,Female,36,Married,Master,90739,7339,Web Ads,Discount,0,2021-04-10,2021-10-09
+C1650,Female,21,Single,Bachelor,46837,10049,Social Media,Loyalty Program,1,2021-02-27,2021-04-01
+C1651,Male,25,Married,Master,59423,9392,Social Media,New Product,0,2019-04-14,2020-01-23
+C1652,Male,24,Single,High School,82972,7848,Social Media,Discount,0,2022-07-01,2022-09-23
+C1653,Male,47,Single,High School,89019,11699,Email,Newsletter,0,2021-01-11,2021-03-01
+C1654,Male,60,Married,Master,72089,17849,Web Ads,Discount,0,2022-09-20,2023-07-28
+C1655,Male,24,Married,Bachelor,52429,10837,Social Media,Discount,0,2023-01-26,2023-03-16
+C1656,Female,37,Single,Bachelor,61916,10217,Email,Loyalty Program,0,2019-10-28,2020-01-07
+C1657,Female,45,Married,Master,62504,4564,Phone,New Product,0,2020-10-15,2021-06-19
+C1658,Male,39,Single,Bachelor,63035,8419,Email,Discount,0,2020-07-08,2021-03-19
+C1659,Male,60,Married,Bachelor,41549,4263,Web Ads,Discount,1,2020-09-19,2020-10-16
+C1660,Male,68,Single,High School,78901,5065,Web Ads,Discount,0,2022-09-26,2023-02-22
+C1661,Female,46,Single,Master,62018,9826,Social Media,Discount,0,2022-01-12,2022-04-13
+C1662,Female,68,Married,Master,49166,11201,Email,Discount,1,2021-07-17,2022-01-31
+C1663,Female,31,Married,High School,52524,9723,Email,Discount,0,2022-07-06,2022-10-31
+C1664,Female,26,Married,Master,64047,6400,Email,Discount,0,2019-12-26,2020-08-25
+C1665,Female,22,Single,Master,38956,6416,Email,New Product,0,2019-03-28,2019-12-30
+C1666,Female,29,Single,Bachelor,73176,17463,Social Media,Newsletter,0,2020-03-03,2020-06-24
+C1667,Male,53,Married,Bachelor,63520,12359,Web Ads,New Product,0,2020-01-02,2020-05-24
+C1668,Female,44,Single,Bachelor,83485,15686,Social Media,Loyalty Program,0,2019-12-09,2020-11-26
+C1669,Male,54,Married,High School,61163,14901,Phone,Discount,0,2019-12-13,2020-01-24
+C1670,Female,35,Single,Master,43720,9171,Phone,Loyalty Program,0,2019-04-06,2019-12-08
+C1671,Male,21,Married,Master,42032,3250,Web Ads,New Product,0,2022-07-02,2023-06-12
+C1672,Female,43,Married,Bachelor,54139,6471,Email,New Product,0,2022-03-05,2022-09-08
+C1673,Female,29,Single,Bachelor,55726,13542,Social Media,Discount,0,2022-06-25,2022-07-16
+C1674,Female,57,Married,High School,51491,7617,Phone,Discount,0,2021-06-02,2022-05-28
+C1675,Female,41,Married,High School,61927,4479,Web Ads,New Product,0,2020-04-30,2020-12-24
+C1676,Male,45,Single,Bachelor,51110,7243,Web Ads,New Product,0,2022-11-26,2023-10-10
+C1677,Male,62,Divorced,High School,63813,12086,Phone,Newsletter,0,2020-08-26,2021-05-31
+C1678,Male,58,Married,Bachelor,52190,13021,Email,Discount,1,2020-02-16,2020-07-05
+C1679,Male,46,Single,Bachelor,69475,7974,Social Media,Discount,1,2020-03-23,2020-12-06
+C1680,Female,48,Married,Master,55348,8458,Email,New Product,0,2019-09-04,2019-11-10
+C1681,Male,66,Single,Bachelor,78693,17779,Social Media,Newsletter,0,2021-02-08,2021-02-21
+C1682,Female,57,Married,Bachelor,69784,8447,Social Media,Discount,0,2020-11-29,2021-08-01
+C1683,Female,39,Married,Bachelor,62903,4519,Phone,New Product,0,2020-02-25,2020-08-25
+C1684,Female,46,Married,High School,56884,13640,Web Ads,Discount,0,2019-05-04,2020-03-30
+C1685,Male,60,Divorced,High School,37214,5496,Phone,New Product,0,2022-07-07,2022-08-21
+C1686,Female,39,Married,High School,81203,12225,Social Media,Loyalty Program,0,2022-04-07,2023-01-20
+C1687,Female,63,Married,Master,49788,8675,Email,Newsletter,0,2021-07-29,2022-04-01
+C1688,Female,38,Single,High School,61360,3111,Web Ads,Discount,1,2021-05-26,2022-03-06
+C1689,Female,39,Married,Master,65157,15391,Email,Discount,0,2022-02-08,2022-12-10
+C1690,Female,54,Single,PhD,57247,7000,Email,New Product,0,2022-08-06,2023-07-09
+C1691,Male,66,Married,Master,80319,10392,Email,Discount,0,2019-01-13,2019-03-21
+C1692,Female,21,Married,High School,41679,3535,Social Media,Loyalty Program,0,2022-07-10,2022-08-06
+C1693,Male,49,Single,Master,86009,10805,Email,New Product,0,2021-03-10,2021-04-24
+C1694,Male,53,Single,High School,70073,14770,Web Ads,Discount,0,2021-11-12,2022-03-30
+C1695,Male,41,Single,Bachelor,56303,11823,Web Ads,Loyalty Program,0,2021-08-02,2021-08-12
+C1696,Male,22,Married,Master,56471,13392,Web Ads,Discount,0,2019-07-19,2019-09-30
+C1697,Male,25,Married,Bachelor,26747,3494,Email,Newsletter,0,2022-06-19,2022-08-29
+C1698,Male,34,Married,Bachelor,47276,9064,Web Ads,Loyalty Program,0,2022-06-16,2023-05-22
+C1699,Female,46,Married,High School,54691,8282,Web Ads,Loyalty Program,0,2019-10-30,2020-04-02
+C1700,Female,29,Married,Bachelor,62641,13205,Web Ads,Discount,0,2022-04-03,2023-01-09
+C1701,Female,28,Single,Bachelor,78893,15187,Phone,Newsletter,0,2021-01-07,2021-02-02
+C1702,Male,52,Single,Bachelor,90563,11191,Phone,Loyalty Program,0,2019-06-25,2020-04-09
+C1703,Male,51,Married,PhD,64084,7519,Email,Discount,0,2021-11-18,2022-03-05
+C1704,Female,67,Married,Master,63084,6339,Web Ads,Discount,0,2020-11-07,2021-07-01
+C1705,Male,25,Single,Master,52644,8702,Email,Discount,1,2020-06-18,2021-02-25
+C1706,Male,60,Single,Bachelor,34273,8320,Social Media,Newsletter,1,2022-08-10,2023-03-08
+C1707,Female,55,Single,Bachelor,50913,4582,Web Ads,Newsletter,0,2020-04-21,2020-10-26
+C1708,Male,21,Married,Master,56917,3930,Social Media,Newsletter,0,2020-01-18,2020-10-23
+C1709,Female,48,Single,Master,74630,5513,Email,Loyalty Program,0,2020-07-09,2021-03-09
+C1710,Female,23,Married,Bachelor,67792,14007,Web Ads,New Product,0,2022-08-12,2022-12-11
+C1711,Male,20,Married,High School,63323,7600,Web Ads,Discount,0,2019-11-30,2020-02-13
+C1712,Male,38,Single,High School,51287,4865,Email,Discount,0,2022-06-25,2023-06-07
+C1713,Female,45,Divorced,Bachelor,30268,3649,Web Ads,Discount,0,2022-06-18,2023-06-11
+C1714,Female,44,Married,Bachelor,31173,5582,Social Media,New Product,0,2022-02-03,2022-10-15
+C1715,Male,29,Married,Master,35043,5584,Social Media,Newsletter,1,2021-06-16,2022-02-25
+C1716,Female,34,Married,High School,55619,11052,Email,Newsletter,0,2021-07-19,2021-10-08
+C1717,Male,41,Married,High School,74910,8825,Email,Discount,0,2020-11-15,2021-01-12
+C1718,Female,70,Married,Bachelor,74505,10460,Email,Loyalty Program,0,2020-07-14,2021-07-04
+C1719,Female,67,Married,Bachelor,71905,5061,Email,New Product,0,2019-05-03,2019-11-18
+C1720,Male,40,Single,High School,52273,3377,Web Ads,New Product,0,2021-11-24,2022-09-22
+C1721,Male,41,Single,Bachelor,77163,10991,Phone,Loyalty Program,0,2020-09-09,2021-03-14
+C1722,Male,55,Single,Bachelor,46033,5078,Web Ads,Discount,0,2021-09-14,2022-03-03
+C1723,Male,53,Single,Master,72800,12562,Phone,Newsletter,0,2021-04-19,2021-09-25
+C1724,Male,49,Single,Bachelor,34881,2044,Email,Loyalty Program,0,2020-02-20,2020-05-09
+C1725,Female,44,Single,Bachelor,42343,3148,Web Ads,Loyalty Program,0,2020-12-08,2021-01-19
+C1726,Male,64,Married,Bachelor,84789,18911,Web Ads,Discount,0,2020-09-28,2021-07-18
+C1727,Female,47,Married,Master,56942,9296,Social Media,Discount,0,2022-09-12,2023-08-31
+C1728,Female,20,Divorced,High School,49785,9579,Email,Discount,0,2022-08-11,2023-05-07
+C1729,Female,68,Married,Master,76541,16716,Phone,Loyalty Program,0,2022-12-26,2023-11-22
+C1730,Female,64,Married,Bachelor,78260,11172,Phone,Newsletter,0,2019-12-13,2020-03-08
+C1731,Male,23,Married,Master,53500,10818,Web Ads,New Product,0,2019-02-06,2019-06-05
+C1732,Female,26,Married,Master,64176,9941,Email,Loyalty Program,0,2020-05-26,2021-04-05
+C1733,Female,68,Single,Bachelor,62053,5867,Email,New Product,0,2021-04-28,2021-09-23
+C1734,Male,28,Divorced,Bachelor,20000,2350,Social Media,Discount,0,2020-06-18,2020-08-01
+C1735,Male,55,Married,High School,39062,5783,Social Media,Loyalty Program,1,2021-06-28,2022-02-27
+C1736,Female,38,Married,Master,74133,8404,Email,Loyalty Program,0,2021-02-11,2022-01-16
+C1737,Male,20,Single,Bachelor,47510,5563,Social Media,Discount,0,2020-10-25,2021-05-22
+C1738,Male,29,Single,Bachelor,67947,7982,Social Media,Discount,0,2021-11-07,2022-10-07
+C1739,Male,55,Married,Master,63945,4768,Phone,New Product,1,2019-01-27,2019-07-06
+C1740,Male,28,Married,Master,78231,5235,Social Media,Discount,1,2020-06-19,2020-08-01
+C1741,Female,64,Single,High School,39543,2344,Social Media,Newsletter,0,2021-11-18,2022-03-31
+C1742,Female,65,Single,Bachelor,65913,4758,Web Ads,New Product,0,2021-10-04,2021-11-14
+C1743,Female,61,Married,Bachelor,59018,7007,Web Ads,Discount,1,2020-10-19,2021-07-27
+C1744,Male,51,Married,Bachelor,48153,8126,Email,Discount,0,2020-10-01,2021-08-30
+C1745,Male,51,Single,Bachelor,48048,4210,Email,Newsletter,0,2022-02-14,2022-12-30
+C1746,Female,25,Married,Bachelor,63412,14432,Web Ads,Loyalty Program,0,2022-03-01,2022-07-12
+C1747,Male,67,Single,Bachelor,69445,14699,Social Media,Loyalty Program,1,2022-08-05,2023-06-26
+C1748,Male,57,Single,Master,60953,9393,Phone,Discount,1,2022-06-13,2022-09-08
+C1749,Female,36,Married,High School,61420,11967,Social Media,Newsletter,0,2019-02-11,2019-05-07
+C1750,Male,29,Single,Bachelor,52522,6474,Email,New Product,0,2022-03-29,2022-06-06
+C1751,Female,69,Married,High School,53517,3069,Phone,Loyalty Program,0,2022-02-22,2022-05-27
+C1752,Male,46,Married,High School,48112,11107,Phone,Newsletter,0,2022-07-07,2022-10-04
+C1753,Male,69,Married,High School,52220,3945,Social Media,Discount,0,2022-07-23,2023-01-20
+C1754,Male,54,Single,Bachelor,68920,16512,Email,New Product,0,2019-08-01,2020-04-24
+C1755,Female,40,Single,Master,70596,11604,Web Ads,Discount,0,2023-02-05,2023-11-20
+C1756,Female,44,Single,High School,40861,4540,Social Media,New Product,1,2021-04-15,2021-12-01
+C1757,Female,47,Married,High School,46553,6941,Social Media,Discount,0,2020-12-02,2021-01-26
+C1758,Female,66,Married,Master,49344,7417,Web Ads,Newsletter,0,2022-12-25,2023-03-17
+C1759,Male,34,Married,High School,59039,3226,Social Media,Discount,1,2019-03-21,2019-05-23
+C1760,Female,23,Married,Master,34752,4208,Phone,New Product,1,2021-08-12,2022-07-14
+C1761,Female,48,Divorced,High School,46816,9268,Web Ads,Newsletter,0,2022-06-05,2023-01-21
+C1762,Female,28,Married,Master,39216,5961,Social Media,Newsletter,0,2021-06-20,2022-06-01
+C1763,Male,46,Single,Bachelor,66007,6524,Social Media,New Product,1,2022-01-23,2022-02-10
+C1764,Female,45,Single,Master,59554,6969,Web Ads,New Product,0,2020-02-28,2021-01-28
+C1765,Male,38,Married,Master,53061,11811,Email,Discount,1,2021-07-07,2022-01-04
+C1766,Male,47,Single,Bachelor,44050,6832,Email,Discount,1,2020-05-30,2020-08-31
+C1767,Female,36,Single,High School,53293,8296,Web Ads,New Product,1,2019-06-14,2020-05-18
+C1768,Female,62,Married,Master,51529,12485,Web Ads,Discount,0,2022-12-20,2023-11-23
+C1769,Male,60,Married,Bachelor,84519,9650,Web Ads,Discount,1,2021-09-23,2021-10-14
+C1770,Male,61,Single,High School,74955,10936,Email,Discount,0,2021-09-19,2021-10-30
+C1771,Female,69,Married,High School,49639,10540,Email,New Product,0,2021-06-11,2022-05-25
+C1772,Female,39,Married,Master,62477,12606,Email,New Product,1,2021-10-12,2022-08-06
+C1773,Female,64,Married,High School,74163,7650,Phone,Discount,0,2021-12-01,2022-10-26
+C1774,Female,59,Single,Bachelor,49634,3981,Social Media,Discount,0,2021-01-10,2021-11-19
+C1775,Female,58,Single,Bachelor,38743,7366,Social Media,New Product,0,2022-11-27,2023-09-04
+C1776,Male,68,Married,Master,33047,3355,Email,Loyalty Program,0,2021-01-24,2021-07-30
+C1777,Female,42,Married,Master,79084,18547,Social Media,New Product,1,2020-02-20,2020-06-22
+C1778,Male,66,Married,PhD,57134,4333,Social Media,Loyalty Program,0,2022-08-16,2022-09-20
+C1779,Male,51,Married,High School,64369,7316,Email,Discount,0,2021-12-14,2022-08-17
+C1780,Female,66,Single,Master,51386,3132,Web Ads,Discount,0,2019-12-02,2020-10-16
+C1781,Male,52,Single,High School,40981,7813,Email,Discount,0,2021-05-30,2021-11-27
+C1782,Female,65,Married,Bachelor,43780,9992,Phone,New Product,0,2022-12-24,2023-08-23
+C1783,Female,24,Single,Bachelor,39884,7066,Web Ads,Loyalty Program,0,2021-08-29,2021-10-14
+C1784,Female,62,Single,High School,72749,17281,Social Media,Discount,0,2020-11-15,2021-08-16
+C1785,Female,67,Married,Master,82388,6236,Email,New Product,1,2022-09-19,2022-10-11
+C1786,Female,53,Single,High School,60558,4090,Social Media,New Product,0,2021-01-10,2021-12-01
+C1787,Female,59,Single,Bachelor,37233,8104,Web Ads,Newsletter,0,2022-11-30,2023-03-25
+C1788,Female,30,Married,Master,67448,14912,Email,Loyalty Program,0,2019-01-30,2019-06-14
+C1789,Male,69,Single,Master,78974,17074,Phone,Loyalty Program,0,2020-07-28,2021-07-08
+C1790,Female,22,Single,High School,74575,15645,Web Ads,New Product,0,2019-08-09,2019-12-26
+C1791,Male,52,Married,Bachelor,59563,7293,Web Ads,Newsletter,0,2021-04-06,2022-02-25
+C1792,Female,30,Married,Master,56482,5280,Social Media,Newsletter,0,2020-08-16,2021-05-08
+C1793,Female,35,Single,Bachelor,59442,14014,Web Ads,New Product,1,2021-01-23,2021-05-27
+C1794,Female,37,Married,Bachelor,78378,8731,Web Ads,New Product,0,2022-06-30,2023-05-04
+C1795,Male,49,Single,High School,71405,9259,Social Media,New Product,0,2022-09-06,2023-01-17
+C1796,Male,67,Married,Bachelor,54213,10295,Email,New Product,0,2021-11-28,2022-08-20
+C1797,Female,29,Married,Master,53836,5850,Email,New Product,0,2021-10-17,2022-03-14
+C1798,Male,37,Married,Bachelor,52774,11284,Email,Discount,0,2023-01-28,2023-08-31
+C1799,Male,57,Married,Bachelor,44030,2818,Web Ads,Newsletter,1,2022-12-05,2023-01-30
+C1800,Male,38,Single,Bachelor,80277,16716,Social Media,New Product,1,2022-12-06,2023-07-20
+C1801,Female,55,Single,Bachelor,48182,8208,Web Ads,Loyalty Program,0,2020-05-06,2021-03-30
+C1802,Female,32,Married,High School,67354,11086,Phone,New Product,0,2020-03-13,2021-03-07
+C1803,Male,65,Single,High School,50078,7094,Phone,Loyalty Program,0,2020-04-23,2020-09-02
+C1804,Male,22,Single,Bachelor,52841,5569,Social Media,Discount,1,2021-02-21,2021-04-02
+C1805,Male,29,Married,Bachelor,58291,8324,Email,New Product,0,2021-08-06,2021-10-09
+C1806,Female,57,Married,Bachelor,68178,9545,Web Ads,New Product,0,2021-10-04,2022-03-15
+C1807,Female,20,Married,Bachelor,56111,9356,Social Media,Discount,0,2019-03-13,2020-01-02
+C1808,Male,46,Single,Bachelor,42911,4562,Social Media,Newsletter,0,2020-08-04,2020-09-18
+C1809,Male,65,Married,High School,60286,3949,Email,Discount,0,2019-08-08,2020-06-18
+C1810,Male,27,Single,Master,48499,3832,Web Ads,New Product,0,2021-10-24,2022-08-14
+C1811,Female,70,Single,Bachelor,83157,15786,Web Ads,Discount,0,2021-09-29,2022-06-21
+C1812,Female,65,Married,High School,56100,3057,Social Media,Newsletter,0,2019-10-17,2020-04-21
+C1813,Male,61,Single,High School,49980,11060,Social Media,Discount,0,2020-01-15,2020-02-29
+C1814,Male,36,Single,PhD,89622,16927,Phone,New Product,0,2021-03-14,2021-12-02
+C1815,Male,28,Married,High School,71083,14473,Email,Discount,0,2022-10-10,2023-03-30
+C1816,Female,25,Single,Master,46548,10110,Email,New Product,1,2021-01-12,2021-02-11
+C1817,Male,62,Single,High School,48136,3588,Phone,Newsletter,0,2019-03-21,2020-01-18
+C1818,Female,44,Single,Master,67112,14394,Email,Discount,0,2019-03-07,2019-05-30
+C1819,Female,58,Married,Master,60652,9154,Social Media,Loyalty Program,0,2019-05-16,2019-12-18
+C1820,Male,68,Married,Bachelor,73352,16658,Social Media,Discount,0,2020-02-03,2020-08-08
+C1821,Male,47,Married,High School,50059,11379,Social Media,New Product,0,2019-12-13,2020-01-28
+C1822,Male,52,Married,High School,70516,3866,Email,New Product,0,2019-02-28,2019-07-07
+C1823,Female,56,Married,Bachelor,26425,3344,Social Media,New Product,0,2021-02-16,2021-06-23
+C1824,Female,28,Married,Bachelor,57683,8957,Social Media,New Product,1,2020-06-02,2020-06-12
+C1825,Female,37,Single,High School,50742,9421,Social Media,New Product,0,2020-12-14,2021-07-20
+C1826,Female,40,Single,High School,53174,5702,Phone,Discount,0,2021-09-03,2022-07-20
+C1827,Male,21,Married,Bachelor,58456,5870,Web Ads,New Product,0,2022-06-14,2023-01-17
+C1828,Female,62,Single,Bachelor,77077,9731,Email,Discount,0,2019-03-20,2019-08-30
+C1829,Female,57,Divorced,High School,42689,6411,Web Ads,Loyalty Program,0,2019-04-25,2020-01-09
+C1830,Male,59,Married,High School,27179,6529,Email,Loyalty Program,0,2021-09-12,2022-03-11
+C1831,Female,55,Married,PhD,44429,8993,Social Media,Discount,0,2023-01-25,2023-12-15
+C1832,Female,69,Married,Bachelor,75336,10235,Social Media,Discount,0,2019-05-06,2020-03-17
+C1833,Female,62,Married,Master,35325,2150,Social Media,Discount,1,2020-07-26,2020-11-19
+C1834,Female,56,Single,Bachelor,51420,4304,Phone,Newsletter,0,2021-08-22,2022-01-21
+C1835,Female,34,Married,High School,72593,10249,Social Media,Loyalty Program,0,2020-05-14,2020-05-31
+C1836,Female,47,Married,Bachelor,59123,12579,Social Media,Discount,0,2021-04-08,2021-07-20
+C1837,Male,37,Divorced,Bachelor,76930,9703,Web Ads,New Product,0,2022-01-30,2022-05-16
+C1838,Male,53,Single,Master,29476,4648,Email,Discount,1,2020-09-17,2020-10-03
+C1839,Female,41,Single,Bachelor,55175,12599,Email,New Product,0,2022-04-12,2023-01-20
+C1840,Male,30,Single,High School,80057,18634,Email,Loyalty Program,1,2020-03-27,2020-04-17
+C1841,Male,32,Married,PhD,43096,4014,Email,New Product,0,2022-01-20,2022-01-31
+C1842,Male,23,Married,Bachelor,75522,4434,Social Media,Newsletter,1,2020-01-20,2021-01-12
+C1843,Male,41,Single,PhD,56464,6272,Social Media,New Product,0,2022-05-13,2022-05-29
+C1844,Female,26,Married,PhD,66511,12581,Email,Discount,1,2019-12-29,2020-01-19
+C1845,Female,62,Single,High School,78969,18970,Email,New Product,0,2020-05-12,2021-04-26
+C1846,Male,43,Married,Bachelor,66447,4346,Phone,New Product,0,2020-06-20,2020-08-25
+C1847,Male,23,Married,Bachelor,51131,2847,Phone,Newsletter,0,2022-06-11,2022-09-06
+C1848,Male,47,Single,Bachelor,68430,15521,Web Ads,Discount,0,2019-01-16,2019-04-09
+C1849,Female,34,Married,Bachelor,50073,9996,Web Ads,New Product,0,2021-09-07,2022-05-07
+C1850,Female,20,Divorced,PhD,64100,15925,Web Ads,Loyalty Program,0,2022-03-10,2022-12-23
+C1851,Male,22,Married,Master,41222,5332,Phone,New Product,1,2020-09-11,2020-10-20
+C1852,Female,33,Married,High School,60436,8050,Social Media,Discount,0,2022-12-14,2023-11-02
+C1853,Female,57,Married,High School,77839,6574,Email,Newsletter,0,2023-01-19,2023-05-03
+C1854,Female,69,Single,Bachelor,55518,4062,Social Media,Discount,1,2019-10-27,2020-09-08
+C1855,Female,20,Married,High School,76405,12663,Email,Discount,0,2019-12-05,2020-02-08
+C1856,Male,57,Married,Master,106401,13072,Web Ads,Newsletter,0,2019-10-30,2019-11-18
+C1857,Female,57,Married,Bachelor,59565,3935,Social Media,Discount,1,2020-08-14,2021-01-17
+C1858,Female,40,Single,Bachelor,69212,15738,Phone,Discount,0,2019-03-17,2019-06-21
+C1859,Female,67,Single,High School,67152,6021,Email,New Product,0,2021-07-02,2022-03-21
+C1860,Female,48,Single,Master,63376,12657,Social Media,Discount,0,2021-02-18,2021-09-02
+C1861,Female,24,Single,High School,71818,7644,Social Media,Newsletter,1,2021-07-09,2022-03-08
+C1862,Female,68,Single,Master,56278,11963,Email,New Product,1,2022-09-01,2023-05-21
+C1863,Male,29,Married,Bachelor,50061,3688,Social Media,New Product,1,2022-01-03,2022-08-24
+C1864,Female,47,Single,Master,37105,7466,Email,Discount,0,2020-01-01,2020-12-15
+C1865,Female,40,Single,Bachelor,54858,3819,Social Media,Discount,0,2020-10-14,2020-10-27
+C1866,Female,69,Married,High School,73521,10247,Social Media,New Product,0,2021-10-02,2022-09-29
+C1867,Male,26,Single,Master,45903,9033,Web Ads,New Product,0,2020-01-31,2020-05-31
+C1868,Male,22,Single,High School,63700,5391,Social Media,Loyalty Program,0,2022-06-08,2022-12-27
+C1869,Male,64,Single,Bachelor,58153,6230,Social Media,Discount,0,2021-03-14,2021-08-11
+C1870,Female,66,Single,High School,50689,11301,Web Ads,Loyalty Program,1,2021-11-17,2022-10-15
+C1871,Female,39,Married,Master,32204,7311,Social Media,Discount,0,2023-02-07,2023-07-06
+C1872,Male,38,Single,Master,80442,4745,Social Media,New Product,0,2022-08-11,2023-08-04
+C1873,Female,54,Married,Bachelor,67757,5665,Social Media,New Product,1,2021-04-24,2021-08-06
+C1874,Female,23,Divorced,Bachelor,99979,7347,Web Ads,Discount,1,2022-12-21,2023-02-09
+C1875,Female,24,Married,Master,76191,6547,Social Media,New Product,0,2021-05-21,2021-06-01
+C1876,Female,20,Married,High School,80108,19549,Social Media,Discount,0,2022-01-19,2022-11-02
+C1877,Female,23,Married,Master,33759,5412,Phone,New Product,0,2019-04-25,2019-10-01
+C1878,Female,31,Married,High School,33497,4810,Email,Loyalty Program,0,2022-03-28,2022-05-17
+C1879,Male,46,Single,PhD,60634,14970,Web Ads,Discount,0,2022-07-05,2023-06-30
+C1880,Female,61,Single,Master,42778,6903,Social Media,Newsletter,0,2020-01-08,2020-05-12
+C1881,Female,42,Married,Master,49780,9071,Social Media,New Product,1,2021-04-29,2021-09-05
+C1882,Female,44,Single,Bachelor,97893,11409,Phone,Newsletter,0,2019-03-31,2019-12-02
+C1883,Female,40,Single,Bachelor,77848,9841,Email,Discount,0,2021-01-26,2021-11-01
+C1884,Female,43,Married,Bachelor,45965,7762,Web Ads,Newsletter,0,2022-08-14,2023-08-07
+C1885,Male,44,Married,High School,24508,1567,Web Ads,Discount,0,2019-01-31,2019-11-27
+C1886,Female,64,Single,Bachelor,44700,4522,Social Media,New Product,0,2019-12-24,2020-01-11
+C1887,Male,65,Married,Bachelor,51642,4614,Web Ads,Newsletter,0,2020-04-14,2020-12-18
+C1888,Male,51,Single,Master,55181,2934,Email,Discount,1,2022-02-25,2022-07-02
+C1889,Female,51,Married,Bachelor,40814,6423,Web Ads,Discount,0,2019-09-27,2020-09-22
+C1890,Female,24,Single,High School,76947,12481,Social Media,Loyalty Program,1,2022-12-07,2023-10-27
+C1891,Male,55,Single,Bachelor,49328,6254,Social Media,New Product,0,2019-07-28,2020-06-13
+C1892,Male,65,Married,Bachelor,69728,7233,Email,New Product,0,2020-11-20,2020-12-09
+C1893,Female,61,Married,High School,60808,10970,Social Media,Discount,0,2022-08-22,2022-09-25
+C1894,Male,68,Married,High School,74077,5698,Email,Loyalty Program,0,2022-04-29,2022-10-28
+C1895,Female,61,Married,Master,56431,8674,Web Ads,Discount,1,2022-10-12,2023-06-03
+C1896,Female,58,Single,Bachelor,46125,9391,Web Ads,Newsletter,0,2020-04-01,2020-04-21
+C1897,Female,35,Married,Bachelor,51021,4227,Email,Loyalty Program,0,2020-03-24,2020-07-12
+C1898,Male,52,Single,Bachelor,51232,10279,Email,Loyalty Program,0,2019-03-09,2019-12-08
+C1899,Male,68,Single,Master,90968,18389,Web Ads,Discount,0,2021-05-23,2022-04-24
+C1900,Female,40,Single,High School,61147,3790,Social Media,Newsletter,0,2020-04-11,2020-07-12
+C1901,Female,28,Married,Master,60069,3229,Email,New Product,0,2022-10-15,2023-07-27
+C1902,Male,25,Divorced,High School,73230,17925,Social Media,Newsletter,0,2022-11-11,2023-10-31
+C1903,Female,70,Divorced,Master,59998,5320,Social Media,Discount,0,2019-05-08,2020-02-02
+C1904,Male,64,Married,Bachelor,76825,16473,Email,Loyalty Program,1,2021-01-02,2021-08-20
+C1905,Female,54,Single,Bachelor,54418,8835,Phone,New Product,0,2022-06-21,2023-05-07
+C1906,Male,58,Married,Bachelor,52895,5442,Social Media,Discount,0,2021-11-08,2022-06-24
+C1907,Female,41,Married,Bachelor,45295,3442,Email,New Product,0,2022-11-20,2023-02-26
+C1908,Male,60,Single,High School,87750,13104,Web Ads,Discount,0,2022-06-06,2022-06-30
+C1909,Male,24,Divorced,Master,58952,7750,Social Media,Discount,0,2020-01-03,2020-09-14
+C1910,Male,61,Single,High School,42389,8044,Email,Discount,0,2019-02-27,2019-08-31
+C1911,Male,42,Divorced,Master,62952,14531,Email,New Product,0,2022-07-28,2022-08-10
+C1912,Female,36,Married,Master,50249,10605,Email,New Product,0,2020-07-10,2021-06-18
+C1913,Female,31,Married,Bachelor,54155,5680,Social Media,New Product,0,2022-01-30,2022-03-01
+C1914,Male,42,Single,Master,64661,14599,Email,Discount,0,2019-02-17,2019-09-22
+C1915,Male,35,Single,Bachelor,82814,17943,Social Media,Loyalty Program,0,2020-07-15,2020-12-08
+C1916,Female,22,Single,High School,61523,14508,Email,Newsletter,0,2020-08-15,2021-07-12
+C1917,Female,49,Single,PhD,49334,6992,Phone,Discount,0,2021-03-22,2021-11-02
+C1918,Female,41,Single,Bachelor,52426,10679,Phone,Discount,0,2019-02-28,2019-07-04
+C1919,Male,28,Married,Bachelor,69846,11757,Social Media,New Product,0,2019-06-10,2019-12-15
+C1920,Male,48,Married,Bachelor,30624,3432,Phone,Loyalty Program,0,2019-04-13,2019-12-24
+C1921,Female,66,Married,Bachelor,44359,11040,Web Ads,Loyalty Program,0,2021-04-25,2021-09-09
+C1922,Male,56,Married,PhD,63189,3643,Social Media,New Product,1,2020-02-16,2020-05-13
+C1923,Female,42,Single,High School,34399,2836,Social Media,Discount,1,2021-02-24,2021-10-20
+C1924,Male,32,Divorced,Bachelor,55312,12639,Social Media,Loyalty Program,0,2019-07-02,2020-04-29
+C1925,Female,51,Single,Bachelor,52826,3281,Web Ads,New Product,0,2020-02-21,2020-11-18
+C1926,Male,65,Married,Bachelor,73161,16634,Email,Discount,0,2022-02-13,2022-05-15
+C1927,Female,66,Married,Bachelor,56245,10857,Social Media,Discount,0,2020-02-03,2021-01-19
+C1928,Female,67,Married,High School,77800,4460,Social Media,New Product,1,2021-08-14,2022-07-27
+C1929,Female,42,Single,High School,61183,8312,Phone,New Product,1,2021-02-17,2021-12-30
+C1930,Male,64,Married,High School,86646,17406,Phone,Loyalty Program,0,2020-10-16,2020-12-30
+C1931,Female,36,Married,Master,39187,6529,Social Media,Newsletter,0,2020-03-12,2020-06-25
+C1932,Female,59,Single,High School,84256,19983,Email,Discount,0,2019-11-14,2020-04-16
+C1933,Female,40,Married,Master,53833,12033,Web Ads,Newsletter,0,2020-08-28,2020-11-10
+C1934,Female,21,Divorced,Master,82109,9568,Email,Loyalty Program,0,2022-06-27,2022-07-15
+C1935,Female,56,Divorced,Master,77778,5205,Email,New Product,0,2021-06-29,2022-01-10
+C1936,Female,25,Single,Master,20000,4777,Social Media,Newsletter,0,2023-01-10,2023-06-26
+C1937,Male,63,Single,High School,67187,10310,Web Ads,Loyalty Program,0,2020-05-11,2020-06-20
+C1938,Female,37,Single,High School,74964,4863,Phone,Discount,0,2022-09-28,2023-03-07
+C1939,Female,49,Single,Bachelor,79928,17049,Web Ads,Newsletter,1,2020-03-02,2021-01-24
+C1940,Male,41,Single,High School,42350,9473,Email,Loyalty Program,1,2021-03-28,2021-12-04
+C1941,Male,52,Single,Master,68855,12248,Social Media,Loyalty Program,0,2021-10-19,2022-04-02
+C1942,Male,49,Divorced,Bachelor,62926,8778,Email,Newsletter,0,2019-08-28,2019-11-04
+C1943,Female,36,Divorced,Master,66471,12126,Web Ads,New Product,0,2021-12-18,2022-01-06
+C1944,Female,62,Single,High School,74984,14347,Social Media,Loyalty Program,1,2021-03-07,2022-02-24
+C1945,Female,51,Single,Master,77350,17682,Email,Loyalty Program,0,2019-07-22,2019-12-02
+C1946,Female,61,Married,High School,50163,12097,Phone,New Product,1,2023-01-29,2024-01-19
+C1947,Male,70,Single,Bachelor,63981,9780,Social Media,Discount,0,2022-08-12,2023-05-30
+C1948,Male,33,Married,Bachelor,60617,12711,Social Media,Loyalty Program,0,2019-10-14,2020-06-16
+C1949,Male,29,Married,Master,56409,13701,Web Ads,Discount,0,2019-03-14,2020-02-19
+C1950,Male,66,Married,Bachelor,57843,4641,Email,Loyalty Program,0,2020-12-26,2021-01-21
+C1951,Male,70,Married,Master,62939,3376,Email,Newsletter,0,2019-12-03,2020-10-31
+C1952,Male,55,Married,Master,50970,11406,Email,Discount,0,2022-09-03,2022-10-05
+C1953,Female,53,Married,Master,73245,6522,Social Media,Discount,0,2019-07-22,2019-08-09
+C1954,Female,28,Single,High School,79039,4623,Email,Discount,0,2019-08-19,2020-03-22
+C1955,Female,61,Married,Master,47691,3911,Phone,New Product,0,2021-06-22,2021-08-15
+C1956,Female,47,Married,Master,79774,10117,Email,Newsletter,0,2021-12-16,2022-11-21
+C1957,Female,30,Single,High School,47719,4478,Web Ads,New Product,0,2020-10-05,2020-11-10
+C1958,Male,33,Single,High School,73466,8158,Email,Discount,0,2022-12-14,2023-06-29
+C1959,Female,58,Single,High School,79747,19542,Email,New Product,0,2021-07-03,2021-11-29
+C1960,Female,66,Divorced,High School,58582,11182,Email,Loyalty Program,1,2019-10-07,2019-10-25
+C1961,Male,38,Single,Bachelor,47842,9206,Phone,Discount,0,2021-03-19,2021-11-17
+C1962,Male,34,Single,PhD,51169,3527,Social Media,Loyalty Program,1,2022-08-21,2022-11-30
+C1963,Female,47,Single,Bachelor,65427,12851,Web Ads,Discount,0,2020-04-10,2020-07-05
+C1964,Male,43,Married,Bachelor,89469,17703,Phone,Loyalty Program,1,2021-01-06,2021-12-21
+C1965,Female,27,Single,PhD,34609,6297,Web Ads,Discount,0,2022-04-12,2022-12-21
+C1966,Female,62,Divorced,High School,61503,5885,Phone,Discount,0,2021-03-14,2022-02-19
+C1967,Male,28,Married,Master,58678,7898,Email,Newsletter,0,2019-09-23,2020-03-05
+C1968,Male,66,Married,Bachelor,53152,11653,Web Ads,New Product,1,2019-09-04,2020-04-18
+C1969,Male,52,Married,Bachelor,58788,10819,Web Ads,Discount,0,2019-03-19,2020-01-07
+C1970,Male,52,Single,Bachelor,51867,10194,Web Ads,Newsletter,1,2021-05-03,2021-10-09
+C1971,Male,38,Single,Bachelor,78647,13171,Email,Loyalty Program,0,2019-09-10,2020-08-13
+C1972,Female,22,Married,High School,80137,11212,Social Media,Discount,0,2020-04-19,2020-07-25
+C1973,Male,29,Single,Master,61322,12375,Email,New Product,0,2019-06-25,2019-10-18
+C1974,Female,59,Single,High School,57882,3680,Email,Newsletter,0,2022-12-15,2023-10-14
+C1975,Male,66,Married,Master,52604,9712,Phone,Loyalty Program,1,2021-08-28,2021-12-10
+C1976,Female,61,Single,Bachelor,61354,15304,Web Ads,Discount,0,2023-01-24,2023-10-13
+C1977,Male,20,Divorced,High School,87717,18073,Social Media,New Product,0,2019-09-11,2019-10-29
+C1978,Male,48,Single,Bachelor,58443,6318,Web Ads,New Product,0,2021-06-21,2022-03-12
+C1979,Female,69,Married,High School,47408,5004,Email,Loyalty Program,0,2019-04-17,2019-06-19
+C1980,Female,53,Married,Master,54033,9912,Email,Discount,0,2022-04-09,2022-12-17
+C1981,Male,70,Married,PhD,71302,16340,Social Media,Loyalty Program,0,2019-02-27,2019-06-26
+C1982,Female,32,Single,Master,49233,8152,Social Media,Discount,0,2022-09-22,2023-06-12
+C1983,Female,20,Married,High School,59494,9250,Web Ads,Loyalty Program,0,2022-09-27,2023-01-26
+C1984,Female,53,Married,Bachelor,67093,5506,Social Media,Newsletter,0,2021-07-30,2022-01-29
+C1985,Male,48,Married,Bachelor,50372,9726,Social Media,Discount,0,2022-08-06,2023-02-20
+C1986,Male,67,Single,Master,33533,6386,Social Media,Discount,0,2019-03-25,2019-11-10
+C1987,Female,66,Married,High School,43929,10691,Email,New Product,0,2022-02-14,2022-10-30
+C1988,Female,32,Married,Bachelor,47118,5184,Web Ads,Loyalty Program,1,2020-12-12,2021-02-11
+C1989,Male,67,Married,Bachelor,56567,11386,Social Media,Discount,0,2022-05-27,2022-11-14
+C1990,Female,68,Divorced,High School,60664,8299,Social Media,Loyalty Program,1,2021-06-19,2021-08-02
+C1991,Female,48,Single,Bachelor,72355,11699,Web Ads,Newsletter,0,2022-01-30,2022-03-17
+C1992,Male,58,Married,Bachelor,41591,8870,Social Media,Loyalty Program,0,2020-10-18,2021-09-26
+C1993,Female,43,Married,Master,70174,6624,Web Ads,Loyalty Program,0,2020-03-31,2021-02-20
+C1994,Male,45,Married,Master,54436,6454,Email,Discount,0,2020-10-20,2021-02-17
+C1995,Female,36,Married,Bachelor,33216,6798,Email,Newsletter,0,2021-02-11,2021-08-16
+C1996,Female,26,Divorced,Bachelor,60203,9878,Web Ads,Discount,0,2021-03-01,2021-03-19
+C1997,Female,32,Married,High School,79744,5461,Web Ads,Discount,0,2021-04-30,2022-02-08
+C1998,Male,24,Single,PhD,73246,9964,Social Media,Discount,0,2020-06-09,2020-10-17
+C1999,Male,45,Single,PhD,58855,9848,Social Media,Loyalty Program,0,2019-09-23,2020-01-15
+C2000,Male,68,Married,Master,76886,17830,Web Ads,Newsletter,0,2022-08-03,2023-01-15
